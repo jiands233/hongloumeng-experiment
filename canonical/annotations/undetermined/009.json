@@ -1,0 +1,90 @@
+[
+  {
+    "id": "N009-1-0019",
+    "chapter": 9,
+    "title": "戀風流情友入家塾　起嫌疑頑童鬧學堂",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter09.tex",
+    "location": {
+      "start_offset": 2199,
+      "end_offset": 2262,
+      "start_line": 11,
+      "end_line": 11
+    },
+    "layer": "undetermined",
+    "current_text": "該批：此豈寶玉所樂為者？然不入家塾則何能有後回「試才」、「結社」文字？作者從不作安逸苟且文字，於此可見。",
+    "raw_sha256": "3b79ebd5de37b42234d0f6ddedbcdd5c49d4c83d9f1ad281af96092562733aea",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N009-1-0020",
+    "chapter": 9,
+    "title": "戀風流情友入家塾　起嫌疑頑童鬧學堂",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter09.tex",
+    "location": {
+      "start_offset": 2262,
+      "end_offset": 2315,
+      "start_line": 11,
+      "end_line": 11
+    },
+    "layer": "undetermined",
+    "current_text": "該批：此以俗眼讀《石頭記》者，作者之意又豈是俗人所能知。余謂《石頭記》不得與俗人讀。",
+    "raw_sha256": "a569033eb8b63b7cfe2a95566a29d9567701e2c6f3964e0c075404cec059143b",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N009-1-0042",
+    "chapter": 9,
+    "title": "戀風流情友入家塾　起嫌疑頑童鬧學堂",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter09.tex",
+    "location": {
+      "start_offset": 4477,
+      "end_offset": 4535,
+      "start_line": 21,
+      "end_line": 21
+    },
+    "layer": "undetermined",
+    "current_text": "該批：前有幻境遇可卿，今又出學中小兒淫浪之態，後文更放筆寫賈瑞正照。看書人細心體貼，方許你看。",
+    "raw_sha256": "3252c815bb82f1f24411a5178d24eeab8d18f44390d35aab637d287baac55c62",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N009-1-0074",
+    "chapter": 9,
+    "title": "戀風流情友入家塾　起嫌疑頑童鬧學堂",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter09.tex",
+    "location": {
+      "start_offset": 8345,
+      "end_offset": 8368,
+      "start_line": 35,
+      "end_line": 35
+    },
+    "layer": "undetermined",
+    "current_text": "忍得一時忿，終身無惱悶。",
+    "raw_sha256": "567a6a46dab65df4e51c537ed1451efee4b7a34b1a1161018cadc88639fcf742",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

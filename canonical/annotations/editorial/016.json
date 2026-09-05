@@ -1,0 +1,23 @@
+[
+  {
+    "id": "E016-0005-01",
+    "chapter": 16,
+    "title": "賈元春才選鳳藻宮　秦鯨卿夭逝黃泉路",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter16.tex",
+    "location": {
+      "start_offset": 673,
+      "end_offset": 693,
+      "start_line": 13,
+      "end_line": 13
+    },
+    "layer": "editorial",
+    "current_text": "音按：後凡署「脂硯」皆同此例，不註。",
+    "raw_sha256": "e29e289edf2386700589c4318190fa1f03060ce8c2c60f970eea16df7170d922",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "从传统批注容器内再剥离编者按语；其补批或校释不冒充原批。"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "N040-1-0001",
+    "chapter": 40,
+    "title": "史太君兩宴大觀園　金鴛鴦三宣牙牌令",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter40.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 77,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回前總批：兩宴不覺已深秋，惜春只如畫春游。可憐富貴誰能保，只有恩情得到頭。",
+    "raw_sha256": "b746815477fe4daea8ac9ec608a378f61944190fff47a31e3ab39a50975021da",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N040-1-0002",
+    "chapter": 40,
+    "title": "史太君兩宴大觀園　金鴛鴦三宣牙牌令",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter40.tex",
+    "location": {
+      "start_offset": 343,
+      "end_offset": 367,
+      "start_line": 5,
+      "end_line": 5
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙雙行夾批：八月盡的光景。",
+    "raw_sha256": "7e3970c799d8f3a569251a7a840b6b2dbd2335987a757a85a46bc8cbbe110c50",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N040-1-0003",
+    "chapter": 40,
+    "title": "史太君兩宴大觀園　金鴛鴦三宣牙牌令",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter40.tex",
+    "location": {
+      "start_offset": 3813,
+      "end_offset": 3851,
+      "start_line": 17,
+      "end_line": 17
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：妙！若只管寫薛姨媽來則吃飯，則成何義理？",
+    "raw_sha256": "77f0ffe9d6aae95cf11ac0c1b876b5503fcbe7bbc3fd01ed97d79e7677cc3504",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N040-1-0004",
+    "chapter": 40,
+    "title": "史太君兩宴大觀園　金鴛鴦三宣牙牌令",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter40.tex",
+    "location": {
+      "start_offset": 9565,
+      "end_offset": 9623,
+      "start_line": 42,
+      "end_line": 42
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回末總批：寓貧賤輩低首豪門，凌辱不計，誠可悲乎！此故作者以警貧窮。而富室貴家亦當於其間著意。",
+    "raw_sha256": "3b5d769a374a4707ed4ab855cdeeb43c7f99a1c4709029b30141b62997442199",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  }
+]

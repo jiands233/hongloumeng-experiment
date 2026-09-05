@@ -1,0 +1,62 @@
+[
+  {
+    "id": "P00041",
+    "chapter": 50,
+    "title": "蘆雪广爭聯即景詩　暖香塢創制春燈謎",
+    "location": {
+      "start_offset": 29,
+      "end_offset": 349,
+      "start_line": 3,
+      "end_line": 3
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter50.tex",
+    "current_text": "話說薛寶釵道：「到底分個次序，讓我寫出來。」說著，便令眾人拈鬮為序。（按：此段批語混入正文。）鳳姐兒說道：「既是這樣說，我也說一句在上頭。」眾人都笑說道： 「更妙了！」寶釵便將稻香老農之上補了一個「鳳」字，李紈又將題目講與他聽。鳳姐兒想了半日，笑道：「你們別笑話我。我只有一句粗話，下剩的我就不知道了。」眾人都笑道：「越是粗話越好，你說了只管乾正事去罷。」鳳姐兒笑道：「我想下雪必刮北風。昨夜聽見了一夜的北風，我有了一句，就是『一夜北風緊』，可使得？」眾人聽了，都相視笑道：「這句雖粗，不見底下的，這正是會作詩的起法。不但好，而且留了多少地步與後人。就是這句為首，稻香老農快寫上續下去。」鳳姐和李嬸平兒又吃了兩杯酒，自去了。這裡李紈便寫了：",
+    "current_text_ref": null,
+    "kind": "undetermined_commentary_overlap",
+    "is_supplement": false,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "reason": "第3行明示此段批语混入正文，却无严格起讫。保守隔离整个原段；不宣称整段都是脂批，未裁定其中凤姐对话的层次。",
+    "canonical_replacement": "〔待定:P00041〕"
+  },
+  {
+    "id": "P00042",
+    "chapter": 50,
+    "title": "蘆雪广爭聯即景詩　暖香塢創制春燈謎",
+    "location": {
+      "start_offset": 3986,
+      "end_offset": 3991,
+      "start_line": 371,
+      "end_line": 371
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter50.tex",
+    "current_text": "花 碼 脂",
+    "current_text_ref": null,
+    "kind": "suspect_transcription",
+    "is_supplement": false,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "reason": "词句疑损，无本地可靠替代；原样保留，不依其精确字面推理。",
+    "canonical_replacement": "花 碼 脂〔待定:P00042〕"
+  },
+  {
+    "id": "P00043",
+    "chapter": 50,
+    "title": "蘆雪广爭聯即景詩　暖香塢創制春燈謎",
+    "location": {
+      "start_offset": 6519,
+      "end_offset": 6523,
+      "start_line": 421,
+      "end_line": 421
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter50.tex",
+    "current_text": "擺階來志",
+    "current_text_ref": null,
+    "kind": "suspect_transcription",
+    "is_supplement": false,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "reason": "词句疑损，无本地可靠替代；原样保留，不依其精确字面推理。",
+    "canonical_replacement": "擺階來志〔待定:P00043〕"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "N049-0-0001",
+    "chapter": 49,
+    "title": "琉璃世界白雪紅梅　脂粉香娃割腥啖膻",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter49.tex",
+    "location": {
+      "start_offset": 3657,
+      "end_offset": 3726,
+      "start_line": 39,
+      "end_line": 39
+    },
+    "layer": "editorial",
+    "current_text": "按：依戚序本、蒙古王府本、列藏本：「心中悶悶不解」。甲辰本、楊藏本作：「心中甚是不解」。庚辰本作：「心中悶悶不樂」。",
+    "raw_sha256": "c68987be6b29bf878117a253139d763481bb8f094fa62ce1b815e3ff635c0fc2",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "A049-001",
+    "chapter": 49,
+    "title": "琉璃世界白雪紅梅　脂粉香娃割腥啖膻",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter49.tex",
+    "location": {
+      "start_offset": 4112,
+      "end_offset": 4172,
+      "start_line": 39,
+      "end_line": 39
+    },
+    "layer": "editorial",
+    "current_text": "按：依戚序本、蒙古王府本、列藏本：「心中悶悶不解」。甲辰本、楊藏本作：「心中甚是不解」。庚辰本作：「心中悶悶不樂」。",
+    "excluded_raw_ref": null,
+    "raw_sha256": "c68987be6b29bf878117a253139d763481bb8f094fa62ce1b815e3ff635c0fc2",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  },
+  {
+    "id": "P00036",
+    "chapter": 49,
+    "title": "琉璃世界白雪紅梅　脂粉香娃割腥啖膻",
+    "location": {
+      "start_offset": 5097,
+      "end_offset": 5168,
+      "start_line": 43,
+      "end_line": 43
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter49.tex",
+    "current_text": "（按：广，音眼。就山築成之房屋。韓愈《陪杜侍御游湘西兩寺》詩：「剖竹走泉源，開廊架崖广。」各本或作「庵」 「庭」「廬」，皆非。今從庚辰本改。）",
+    "current_text_ref": null,
+    "kind": "editorial_inline",
+    "is_supplement": false,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "reason": "明确校按、异文或读音说明，移出正文。",
+    "canonical_replacement": ""
+  }
+]

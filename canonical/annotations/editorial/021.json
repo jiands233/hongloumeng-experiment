@@ -1,0 +1,131 @@
+[
+  {
+    "id": "N021-0-0001",
+    "chapter": 21,
+    "title": "賢襲人嬌嗔箴寶玉　俏平兒軟語救賈璉",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter21.tex",
+    "location": {
+      "start_offset": 5976,
+      "end_offset": 6000,
+      "start_line": 53,
+      "end_line": 53
+    },
+    "layer": "editorial",
+    "current_text": "校者註：蒙本此處改作「睦」",
+    "raw_sha256": "b8fa165f705a8ed483892d1843d492f91e719ad28efda7b04185e2ffe14b16a6",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N021-0-0002",
+    "chapter": 21,
+    "title": "賢襲人嬌嗔箴寶玉　俏平兒軟語救賈璉",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter21.tex",
+    "location": {
+      "start_offset": 6007,
+      "end_offset": 6032,
+      "start_line": 53,
+      "end_line": 53
+    },
+    "layer": "editorial",
+    "current_text": "校者註：蒙本此處改作「墊喘」",
+    "raw_sha256": "cc027a4cdbd716a544b4e20ebcbe1d1506bef6f33e8d8b0388f491105b7afcc0",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N021-0-0003",
+    "chapter": 21,
+    "title": "賢襲人嬌嗔箴寶玉　俏平兒軟語救賈璉",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter21.tex",
+    "location": {
+      "start_offset": 6061,
+      "end_offset": 6093,
+      "start_line": 53,
+      "end_line": 53
+    },
+    "layer": "editorial",
+    "current_text": "校者註：蒙本此處夾「有處去說著就走」七字。",
+    "raw_sha256": "019df2e103c9b0a3a5b3f6eecf5ab2dc3a22dc48e79430be0bbd6b461d92cb7a",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "A021-001",
+    "chapter": 21,
+    "title": "賢襲人嬌嗔箴寶玉　俏平兒軟語救賈璉",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter21.tex",
+    "location": {
+      "start_offset": 12074,
+      "end_offset": 12089,
+      "start_line": 54,
+      "end_line": 54
+    },
+    "layer": "editorial",
+    "current_text": "校者註：蒙本此處改作「睦」",
+    "excluded_raw_ref": null,
+    "raw_sha256": "b8fa165f705a8ed483892d1843d492f91e719ad28efda7b04185e2ffe14b16a6",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  },
+  {
+    "id": "A021-002",
+    "chapter": 21,
+    "title": "賢襲人嬌嗔箴寶玉　俏平兒軟語救賈璉",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter21.tex",
+    "location": {
+      "start_offset": 12096,
+      "end_offset": 12112,
+      "start_line": 54,
+      "end_line": 54
+    },
+    "layer": "editorial",
+    "current_text": "校者註：蒙本此處改作「墊喘」",
+    "excluded_raw_ref": null,
+    "raw_sha256": "cc027a4cdbd716a544b4e20ebcbe1d1506bef6f33e8d8b0388f491105b7afcc0",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  },
+  {
+    "id": "A021-003",
+    "chapter": 21,
+    "title": "賢襲人嬌嗔箴寶玉　俏平兒軟語救賈璉",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter21.tex",
+    "location": {
+      "start_offset": 12163,
+      "end_offset": 12186,
+      "start_line": 54,
+      "end_line": 54
+    },
+    "layer": "editorial",
+    "current_text": "校者註：蒙本此處夾「有處去說著就走」七字。",
+    "excluded_raw_ref": null,
+    "raw_sha256": "019df2e103c9b0a3a5b3f6eecf5ab2dc3a22dc48e79430be0bbd6b461d92cb7a",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  }
+]

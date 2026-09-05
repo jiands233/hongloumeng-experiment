@@ -1,0 +1,66 @@
+[
+  {
+    "id": "N079-0-0001",
+    "chapter": 79,
+    "title": "薛文龍悔娶河東獅　賈迎春誤嫁中山狼",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter79.tex",
+    "location": {
+      "start_offset": 2857,
+      "end_offset": 2880,
+      "start_line": 21,
+      "end_line": 21
+    },
+    "layer": "editorial",
+    "current_text": "按：句義不解，疑有缺文。",
+    "raw_sha256": "39e7e05c9021ec4f806402f8a19d52513d87510830e1a6e4a1bff555dedf7d7b",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "E079-0013-01",
+    "chapter": 79,
+    "title": "薛文龍悔娶河東獅　賈迎春誤嫁中山狼",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter79.tex",
+    "location": {
+      "start_offset": 2203,
+      "end_offset": 2212,
+      "start_line": 7,
+      "end_line": 7
+    },
+    "layer": "editorial",
+    "current_text": "按：此句不解。",
+    "raw_sha256": "9f6155fee68e38c7adedd215dd878d6866a03f76799478497c495e3743451198",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "从传统批注容器内再剥离编者按语；其补批或校释不冒充原批。"
+  },
+  {
+    "id": "A079-002",
+    "chapter": 79,
+    "title": "薛文龍悔娶河東獅　賈迎春誤嫁中山狼",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter79.tex",
+    "location": {
+      "start_offset": 3839,
+      "end_offset": 3853,
+      "start_line": 21,
+      "end_line": 21
+    },
+    "layer": "editorial",
+    "current_text": "按：句義不解，疑有缺文。",
+    "excluded_raw_ref": null,
+    "raw_sha256": "39e7e05c9021ec4f806402f8a19d52513d87510830e1a6e4a1bff555dedf7d7b",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  }
+]

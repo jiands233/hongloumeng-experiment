@@ -1,0 +1,24 @@
+[
+  {
+    "id": "N035-1-0016",
+    "chapter": 35,
+    "title": "白玉釧親嚐蓮葉羹　黃金鶯巧結梅花絡",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter35.tex",
+    "location": {
+      "start_offset": 5993,
+      "end_offset": 6012,
+      "start_line": 25,
+      "end_line": 25
+    },
+    "layer": "undetermined",
+    "current_text": "已卯夹批：痴想。",
+    "raw_sha256": "bbe850a1cd40295bd02321e431f1162bac5f4e2235d3bbed3d115f47c5938ff8",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

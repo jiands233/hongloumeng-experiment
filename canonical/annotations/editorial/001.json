@@ -1,0 +1,109 @@
+[
+  {
+    "id": "N001-0-0001",
+    "chapter": 1,
+    "title": "甄士隱夢幻識通靈　賈雨村風塵懷閨秀",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter01.tex",
+    "location": {
+      "start_offset": 2158,
+      "end_offset": 2186,
+      "start_line": 29,
+      "end_line": 29
+    },
+    "layer": "editorial",
+    "current_text": "按：各脂本缺「從此空空道人」六字。",
+    "raw_sha256": "6409913edb8589487e88bf3d4360dd78b167a68d37e14d229b7805a1460c6611",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N001-0-0002",
+    "chapter": 1,
+    "title": "甄士隱夢幻識通靈　賈雨村風塵懷閨秀",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter01.tex",
+    "location": {
+      "start_offset": 6848,
+      "end_offset": 6866,
+      "start_line": 131,
+      "end_line": 131
+    },
+    "layer": "editorial",
+    "current_text": "按：以下缺去。",
+    "raw_sha256": "fcda9a62c8c2abf9f1d8bd39c35956d74c8ac0566a542bec7e0f494ef2308ab5",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "E001-0139-01",
+    "chapter": 1,
+    "title": "甄士隱夢幻識通靈　賈雨村風塵懷閨秀",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter01.tex",
+    "location": {
+      "start_offset": 10697,
+      "end_offset": 10724,
+      "start_line": 123,
+      "end_line": 123
+    },
+    "layer": "editorial",
+    "current_text": "按： 甲戌本中有此批，括號內朱批與前朱批字體似不同",
+    "raw_sha256": "327485603046eaf1ad19c49dbf0769f2bff303256febb7762431a8c804aa5306",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "从传统批注容器内再剥离编者按语；其补批或校释不冒充原批。"
+  },
+  {
+    "id": "A001-001",
+    "chapter": 1,
+    "title": "甄士隱夢幻識通靈　賈雨村風塵懷閨秀",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter01.tex",
+    "location": {
+      "start_offset": 3812,
+      "end_offset": 3831,
+      "start_line": 29,
+      "end_line": 29
+    },
+    "layer": "editorial",
+    "current_text": "按：各脂本缺「從此空空道人」六字。",
+    "excluded_raw_ref": null,
+    "raw_sha256": "6409913edb8589487e88bf3d4360dd78b167a68d37e14d229b7805a1460c6611",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  },
+  {
+    "id": "A001-003",
+    "chapter": 1,
+    "title": "甄士隱夢幻識通靈　賈雨村風塵懷閨秀",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter01.tex",
+    "location": {
+      "start_offset": 12428,
+      "end_offset": 12437,
+      "start_line": 131,
+      "end_line": 131
+    },
+    "layer": "editorial",
+    "current_text": "按：以下缺去。",
+    "excluded_raw_ref": null,
+    "raw_sha256": "fcda9a62c8c2abf9f1d8bd39c35956d74c8ac0566a542bec7e0f494ef2308ab5",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  }
+]

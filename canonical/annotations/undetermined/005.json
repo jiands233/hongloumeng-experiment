@@ -1,0 +1,24 @@
+[
+  {
+    "id": "N005-1-0033",
+    "chapter": 5,
+    "title": "開生面夢演紅樓夢　立新場情傳幻境情",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter05.tex",
+    "location": {
+      "start_offset": 2677,
+      "end_offset": 2697,
+      "start_line": 38,
+      "end_line": 38
+    },
+    "layer": "undetermined",
+    "current_text": "擺設就合著他的意。",
+    "raw_sha256": "e34d65e4b425b8501edbb4523704d9a85e537eab41e2ab10da3ee4421b8b74d1",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "N080-0-0001",
+    "chapter": 80,
+    "title": "懦弱迎春腸回九曲　姣怯香菱病入膏肓",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter80.tex",
+    "location": {
+      "start_offset": 60,
+      "end_offset": 85,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "editorial",
+    "current_text": "按：庚辰本此回無題。",
+    "raw_sha256": "e8794efbe671c1396081df06fa01d15849e1306f20711f509044a6bf6c4bca45",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "A080-001",
+    "chapter": 80,
+    "title": "懦弱迎春腸回九曲　姣怯香菱病入膏肓",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter80.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 40,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "editorial",
+    "current_text": "按：庚辰本此回無題。",
+    "excluded_raw_ref": null,
+    "raw_sha256": "e8794efbe671c1396081df06fa01d15849e1306f20711f509044a6bf6c4bca45",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "P00035",
+    "chapter": 46,
+    "title": "尷尬人難免尷尬事　鴛鴦女誓絕鴛鴦偶",
+    "location": {
+      "start_offset": 612,
+      "end_offset": 623,
+      "start_line": 5,
+      "end_line": 5
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter46.tex",
+    "current_text": "（註：蒙本此作「拙」）",
+    "current_text_ref": null,
+    "kind": "editorial_inline",
+    "is_supplement": false,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "reason": "明确校按、异文或读音说明，移出正文。",
+    "canonical_replacement": ""
+  }
+]

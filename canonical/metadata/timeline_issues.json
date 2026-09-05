@@ -1,0 +1,229 @@
+[
+  {
+    "id": "T01",
+    "issue": "英莲年龄回叙差别",
+    "classification": "叙事或传本时序疑点；原因未定",
+    "original_work_contradiction": "possible_not_proven",
+    "base_text_error": "not_proven",
+    "editorial_error": "not_proven; 67受配补版本限制",
+    "confidence": "medium_problem_low_cause",
+    "action": "记录，保留所有原日期与年龄，不修订不补造年表",
+    "evidence": [
+      {
+        "chapter": 1,
+        "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter01.tex",
+        "line": 41,
+        "anchor": "年方三歲",
+        "excerpt": "。只是一件不足：如今年已半百，膝下無兒，只有一女，乳名英蓮，年方三歲。\n\n一日，炎夏永晝。士隱於書房閑坐，至手倦拋書，伏几少憩，不覺朦朧睡去。夢至一處，不辨是何地方。忽"
+      },
+      {
+        "chapter": 4,
+        "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter04.tex",
+        "line": 36,
+        "anchor": "聞得養至五歲",
+        "excerpt": "旁住的甄老爺的小姐，名喚英蓮的。」雨村罕然道：「原來就是他！聞得養至五歲被人拐去，卻如今才來賣呢？」\n\n門子道：「這一種拐子單管偷拐五六歲的兒女，養在一個僻靜之處，到十一二"
+      }
+    ]
+  },
+  {
+    "id": "T02",
+    "issue": "红玉年龄",
+    "classification": "叙事或传本时序疑点；原因未定",
+    "original_work_contradiction": "possible_not_proven",
+    "base_text_error": "not_proven",
+    "editorial_error": "not_proven; 67受配补版本限制",
+    "confidence": "medium_problem_low_cause",
+    "action": "记录，保留所有原日期与年龄，不修订不补造年表",
+    "evidence": [
+      {
+        "chapter": 24,
+        "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter24.tex",
+        "line": 57,
+        "anchor": "年方十六歲",
+        "excerpt": "。原是榮國府中世代的舊僕，他父母現在收管各處房田事務。這紅玉年方十六歲，因分人在大觀園的時節，把他便分在怡紅院中，倒也清幽雅靜。不想後來命人進來居住，偏生這一所兒又被寶玉"
+      },
+      {
+        "chapter": 27,
+        "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter27.tex",
+        "line": 27,
+        "anchor": "十七歲了",
+        "excerpt": "地啞。那裡承望養出這麼個伶俐丫頭來！你十幾歲了？」紅玉道：「十七歲了。」又問名字，紅玉道：「原叫紅玉的，因為重了寶二爺，如今只叫紅兒了。」\n\n鳳姐聽說將眉一皺，把頭一回"
+      }
+    ]
+  },
+  {
+    "id": "T03",
+    "issue": "26/27回次日日期倒退",
+    "classification": "叙事或传本时序疑点；原因未定",
+    "original_work_contradiction": "possible_not_proven",
+    "base_text_error": "not_proven",
+    "editorial_error": "not_proven; 67受配补版本限制",
+    "confidence": "medium_problem_low_cause",
+    "action": "记录，保留所有原日期与年龄，不修订不补造年表",
+    "evidence": [
+      {
+        "chapter": 26,
+        "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter26.tex",
+        "line": 41,
+        "anchor": "明兒五月初三",
+        "excerpt": "什麼！」焙茗連忙叩頭起來。薛蟠道：「要不是我也不敢驚動，只因明兒五月初三日是我的生日，誰知古董行的程日興，他不知那裡尋了來的這麼粗這麼長粉脆的鮮藕，這麼大的大西瓜，這麼長一"
+      },
+      {
+        "chapter": 27,
+        "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter27.tex",
+        "line": 7,
+        "anchor": "次日乃是四月二十六",
+        "excerpt": "好似木雕泥塑的一般，直坐到二更多天方纔睡了。一宿無話。\n\n至次日乃是四月二十六日，原來這日未時交芒種節。尚古風俗：凡交芒種節的這日，都要設擺各色禮物，祭餞花神，言芒種一過，便是夏"
+      }
+    ]
+  },
+  {
+    "id": "T04",
+    "issue": "贾母生日",
+    "classification": "叙事或传本时序疑点；原因未定",
+    "original_work_contradiction": "possible_not_proven",
+    "base_text_error": "not_proven",
+    "editorial_error": "not_proven; 67受配补版本限制",
+    "confidence": "medium_problem_low_cause",
+    "action": "记录，保留所有原日期与年龄，不修订不补造年表",
+    "evidence": [
+      {
+        "chapter": 62,
+        "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter62.tex",
+        "line": 38,
+        "anchor": "過了燈節",
+        "excerpt": "占了去。怨不得他福大，生日比別人就占先。又是太祖太爺的生日。過了燈節，就是老太太和寶姐姐，他們娘兒兩個遇的巧。三月初一日是太太，初九日是璉二哥哥。二月沒人。」襲人道：「"
+      },
+      {
+        "chapter": 71,
+        "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter71.tex",
+        "line": 5,
+        "anchor": "八月初三",
+        "excerpt": "們下棋吃酒，或日間在裡面母子夫妻共敘天倫庭闈之樂。\n\n因今歲八月初三日乃賈母八旬之慶，又因親友全來，恐筵宴排設不開，便早同賈赦及賈珍賈璉等商議，議定於七月二十八日起至八"
+      }
+    ]
+  },
+  {
+    "id": "T05",
+    "issue": "湘莲进京与67回季节",
+    "classification": "叙事或传本时序疑点；原因未定",
+    "original_work_contradiction": "possible_not_proven",
+    "base_text_error": "not_proven",
+    "editorial_error": "not_proven; 67受配补版本限制",
+    "confidence": "medium_problem_low_cause",
+    "action": "记录，保留所有原日期与年龄，不修订不补造年表",
+    "evidence": [
+      {
+        "chapter": 66,
+        "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter66.tex",
+        "line": 13,
+        "anchor": "八月內湘蓮",
+        "excerpt": "少不得又給了他三十兩銀子。賈璉拿來交與二姐預備妝奩。\n\n誰知八月內湘蓮方進了京，先來拜見薛姨媽，又遇見薛蝌，方知薛蟠不慣風霜，不服水土，一進京時便病倒在家，請醫調治。聽見"
+      },
+      {
+        "chapter": 67,
+        "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter67.tex",
+        "line": 36,
+        "anchor": "如今才入七月",
+        "excerpt": "園子裡這些果品有好些種，到是那樣先熟的快些？」老祝婆子說：「如今才入七月的門，果子都是才紅上來，要是好吃，想來還得月盡頭兒才熟透了呢。姑娘不信，我摘一個給姑娘嘗嘗。」襲人正"
+      }
+    ]
+  },
+  {
+    "id": "T06",
+    "issue": "67回以去年回说认姨妈",
+    "classification": "叙事或传本时序疑点；原因未定",
+    "original_work_contradiction": "possible_not_proven",
+    "base_text_error": "not_proven",
+    "editorial_error": "not_proven; 67受配补版本限制",
+    "confidence": "medium_problem_low_cause",
+    "action": "记录，保留所有原日期与年龄，不修订不补造年表",
+    "evidence": [
+      {
+        "chapter": 67,
+        "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter67.tex",
+        "line": 28,
+        "anchor": "去年曾認過薛姨太太",
+        "excerpt": "東西。況且他們兩個不但是親戚，還是乾姐妹，難道你不知道林姑娘去年曾認過薛姨太太作乾媽的？論理多給他些也是該的。」\n\n寶玉笑說：「你就是會評事的一個公道老兒。」說着話兒，便叫小丫頭"
+      }
+    ]
+  },
+  {
+    "id": "T07",
+    "issue": "二姐周年",
+    "classification": "叙事或传本时序疑点；原因未定",
+    "original_work_contradiction": "possible_not_proven",
+    "base_text_error": "not_proven",
+    "editorial_error": "not_proven; 67受配补版本限制",
+    "confidence": "medium_problem_low_cause",
+    "action": "记录，保留所有原日期与年龄，不修订不补造年表",
+    "evidence": [
+      {
+        "chapter": 69,
+        "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter69.tex",
+        "line": 11,
+        "anchor": "那日已是臘月十二",
+        "excerpt": "，一面帶了秋桐來見賈母與王夫人等。賈璉心中也暗暗的納罕。\n\n那日已是臘月十二日，賈珍起身，先拜了宗祠，然後過來辭拜賈母等人。和族中人直送到灑淚亭方回，獨賈璉賈蓉二人送出三日三夜"
+      },
+      {
+        "chapter": 72,
+        "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter72.tex",
+        "line": 15,
+        "anchor": "後日是尤二姐的周年",
+        "excerpt": "了，又自笑起來，「不是我著急，你說的話戳人的心。我因為我想著後日是尤二姐的周年，我們好了一場，雖不能別的，到底給他上個墳燒張紙，也是姊妹一場。他雖沒留下個男女，也要『前人撒土迷了"
+      }
+    ]
+  },
+  {
+    "id": "T08",
+    "issue": "贾敬身后年数",
+    "classification": "叙事或传本时序疑点；原因未定",
+    "original_work_contradiction": "possible_not_proven",
+    "base_text_error": "not_proven",
+    "editorial_error": "not_proven; 67受配补版本限制",
+    "confidence": "medium_problem_low_cause",
+    "action": "记录，保留所有原日期与年龄，不修订不补造年表",
+    "evidence": [
+      {
+        "chapter": 63,
+        "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter63.tex",
+        "line": 103,
+        "anchor": "老爺賓天了",
+        "excerpt": "\n\n正頑笑不絕，忽見東府中幾個人慌慌張張跑來說：「老爺賓天了。」眾人聽了，唬了一大跳，忙都說：「好好的並無疾病，怎麼就沒了？」家下人說：「老爺天天修煉"
+      },
+      {
+        "chapter": 76,
+        "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter76.tex",
+        "line": 5,
+        "anchor": "你公公已是二年多",
+        "excerpt": "圓的理。」賈母聽說，笑道：「這話很是，我倒也忘了孝未滿。可憐你公公已是二年多了，可是我倒忘了，該罰我一大杯。既這樣，你就越性別送，陪著我罷了。你叫蓉兒媳婦送去，就順便回去罷。」"
+      }
+    ]
+  },
+  {
+    "id": "T09",
+    "issue": "49回年龄概述范围疑点",
+    "classification": "叙事或传本时序疑点；原因未定",
+    "original_work_contradiction": "possible_not_proven",
+    "base_text_error": "not_proven",
+    "editorial_error": "not_proven; 67受配补版本限制",
+    "confidence": "medium_problem_low_cause",
+    "action": "记录，保留所有原日期与年龄，不修订不补造年表",
+    "evidence": [
+      {
+        "chapter": 45,
+        "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter45.tex",
+        "line": 23,
+        "anchor": "我長了今年十五歲",
+        "excerpt": "錯了，實在誤到如今。細細算來，我母親去世的早，又無姊妹兄弟，我長了今年十五歲，竟沒一個人象你前日的話教導我。怨不得雲丫頭說你好，我往日見他贊你，我還不受用，昨兒我親自經過，才知"
+      },
+      {
+        "chapter": 49,
+        "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter49.tex",
+        "line": 35,
+        "anchor": "他十二個人皆不過十五六七歲",
+        "excerpt": "，再添上鳳姐兒和寶玉，一共十三個。敘起年庚，除李紈年紀最長，他十二個人皆不過十五六七歲，或有這三個同年，或有那五個共歲，或有這兩個同月同日，那兩個同刻同時，所差者大半是時刻月分而已。連他"
+      }
+    ]
+  }
+]

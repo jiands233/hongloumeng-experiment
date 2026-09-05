@@ -1,0 +1,134 @@
+[
+  {
+    "id": "N055-1-0001",
+    "chapter": 55,
+    "title": "辱親女愚妾爭閑氣　欺幼主刁奴蓄險心",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter55.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 71,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回前：此回接上文，恰似黃鐘大呂，後轉出羽調商聲，別有清涼滋味。",
+    "raw_sha256": "bfac7c1d8b0f3754040b8cef2224610f0872140c04f5089f1a21a026d6ed7088",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N055-1-0002",
+    "chapter": 55,
+    "title": "辱親女愚妾爭閑氣　欺幼主刁奴蓄險心",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter55.tex",
+    "location": {
+      "start_offset": 1104,
+      "end_offset": 1140,
+      "start_line": 11,
+      "end_line": 11
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：這是小姐身份耳，阿鳳未出閣想亦如此。",
+    "raw_sha256": "3905ab7d8c9e4be0bc91bc173441d1aa19d97c3ceb3555624a8c5c4e4f344f69",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N055-1-0003",
+    "chapter": 55,
+    "title": "辱親女愚妾爭閑氣　欺幼主刁奴蓄險心",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter55.tex",
+    "location": {
+      "start_offset": 1585,
+      "end_offset": 1618,
+      "start_line": 13,
+      "end_line": 13
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：可知雖有才幹，亦必有羽翼方可。",
+    "raw_sha256": "37bf6d0da3ff823afd98af311eebab2cce6ea67d732c513665417222e5c2791a",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N055-1-0004",
+    "chapter": 55,
+    "title": "辱親女愚妾爭閑氣　欺幼主刁奴蓄險心",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter55.tex",
+    "location": {
+      "start_offset": 7560,
+      "end_offset": 7612,
+      "start_line": 35,
+      "end_line": 35
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：阿鳳有才處全在擇人收納膀臂羽翼，並非一味以才自恃者，可知這方是大才。",
+    "raw_sha256": "2544713d8cb1fdb6af7089d1aa7e23fabe4444cb6539a1c22e39991b3ea36b8f",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N055-1-0005",
+    "chapter": 55,
+    "title": "辱親女愚妾爭閑氣　欺幼主刁奴蓄險心",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter55.tex",
+    "location": {
+      "start_offset": 8212,
+      "end_offset": 8242,
+      "start_line": 37,
+      "end_line": 37
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：鳳姐之才又在能邀買人心。",
+    "raw_sha256": "d64c272f97b4a00003c83e81fcac327fac4d41fde239bf306b6b7cfe81296cd7",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N055-1-0006",
+    "chapter": 55,
+    "title": "辱親女愚妾爭閑氣　欺幼主刁奴蓄險心",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter55.tex",
+    "location": {
+      "start_offset": 8282,
+      "end_offset": 8506,
+      "start_line": 38,
+      "end_line": 38
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回末總批：噫！事有難易哉？探春以姑娘之尊、賈母之愛、以王夫人之付托、以鳳姐之未謝事，暫代數月。而姦奴蜂起，內外欺侮，珠璣小事，突動風波，不亦難乎？以鳳姐之聰明，以鳳姐之才力，以鳳姐之權術，以鳳姐之貴寵，以鳳姐之日夜焦勞，百般彌縫，猶不免騎虎難下，為移禍東兵之計，不亦難乎？況聰明才力不及鳳姐，又無賈母之愛、姑娘之尊、太太之付托而欲左支右吾撐前達後，不更難乎？士方有志作一番事業，每讀至此，不禁為之投書以起，三複流連而欲泣也！",
+    "raw_sha256": "b23445ef53049100e2fca09cd4fab861b1a75ffa1757c2b6a110518b43c26e13",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  }
+]

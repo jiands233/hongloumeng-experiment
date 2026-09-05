@@ -1,0 +1,68 @@
+[
+  {
+    "id": "N024-1-0022",
+    "chapter": 24,
+    "title": "醉金剛輕財尚義俠　痴女兒遺帕惹相思",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter24.tex",
+    "location": {
+      "start_offset": 2054,
+      "end_offset": 2071,
+      "start_line": 11,
+      "end_line": 11
+    },
+    "layer": "undetermined",
+    "current_text": "［好規矩。］",
+    "raw_sha256": "1a97c17f5912eb1099190b4b51a46cf045f4d885c800327b2d456f357056c900",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N024-1-0062",
+    "chapter": 24,
+    "title": "醉金剛輕財尚義俠　痴女兒遺帕惹相思",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter24.tex",
+    "location": {
+      "start_offset": 6231,
+      "end_offset": 6248,
+      "start_line": 29,
+      "end_line": 29
+    },
+    "layer": "undetermined",
+    "current_text": "該批：果然。",
+    "raw_sha256": "10c9389e0b87e8287e828f88cd0a6ec4f3c8b113cadf7d61db046bd8dcb5b38c",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N024-1-0120",
+    "chapter": 24,
+    "title": "醉金剛輕財尚義俠　痴女兒遺帕惹相思",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter24.tex",
+    "location": {
+      "start_offset": 12270,
+      "end_offset": 12314,
+      "start_line": 58,
+      "end_line": 58
+    },
+    "layer": "undetermined",
+    "current_text": "紅玉在怡紅院為諸環所掩，亦可謂生不遇時，但看後四章供阿鳳驅使可知。",
+    "raw_sha256": "9023784f6b1a893b5e6acca9b3773507e57fd4b6fd33905aaee9ec659bdd7495",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

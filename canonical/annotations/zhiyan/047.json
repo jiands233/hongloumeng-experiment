@@ -1,0 +1,112 @@
+[
+  {
+    "id": "N047-1-0001",
+    "chapter": 47,
+    "title": "呆霸王調情遭苦打　冷郎君懼禍走他鄉",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter47.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 95,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回前總批：不是同人，且莫浪作知心語。似假如真，事事應難許。著緊溫存，白雪陽和曲。誰堪比？船上要離，未解姦俠起。",
+    "raw_sha256": "6694b0507818729fbf0797cd1fa06a6b0f47edfcd226b8c8c0d1d0a0fd950f85",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N047-1-0002",
+    "chapter": 47,
+    "title": "呆霸王調情遭苦打　冷郎君懼禍走他鄉",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter47.tex",
+    "location": {
+      "start_offset": 1193,
+      "end_offset": 1217,
+      "start_line": 7,
+      "end_line": 7
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：老實人言語。",
+    "raw_sha256": "cda08b2d97caefde7968b17f21f071cb0ffc2fb8586c95941ad8d7f56e591611",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N047-1-0003",
+    "chapter": 47,
+    "title": "呆霸王調情遭苦打　冷郎君懼禍走他鄉",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter47.tex",
+    "location": {
+      "start_offset": 4017,
+      "end_offset": 4085,
+      "start_line": 25,
+      "end_line": 25
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：忽提此人使我墮淚。近幾回不見提此人，自謂不表矣。乃忽於此處柳湘蓮提及，所謂「方以類聚，物以群分」也。",
+    "raw_sha256": "78ebfa02f1970ed4cce05560f8204ecd80c7a3f14766ca134ccd9b17f93a4eaf",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N047-1-0004",
+    "chapter": 47,
+    "title": "呆霸王調情遭苦打　冷郎君懼禍走他鄉",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter47.tex",
+    "location": {
+      "start_offset": 6614,
+      "end_offset": 6639,
+      "start_line": 33,
+      "end_line": 33
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：亦如秦法自誤。",
+    "raw_sha256": "a4f9ea1f1b0f0da0f39ed03a3cf3d5010fd346553ee387aed8f94148660cef9f",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N047-1-0005",
+    "chapter": 47,
+    "title": "呆霸王調情遭苦打　冷郎君懼禍走他鄉",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter47.tex",
+    "location": {
+      "start_offset": 7462,
+      "end_offset": 7522,
+      "start_line": 36,
+      "end_line": 36
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回末總批：自開牌一節，寫貴家長上之尊重，卑幼之侍奉，寫薛蟠之醜，湘蓮之豪，薛母寶釵之言無不逼真。",
+    "raw_sha256": "d42b2af39dab85413c43843577bce0769ccd53bac55643adb73a78ea28b12147",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  }
+]

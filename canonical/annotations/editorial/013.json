@@ -1,0 +1,64 @@
+[
+  {
+    "id": "E013-0002-01",
+    "chapter": 13,
+    "title": "秦可卿死封龍禁尉　王熙鳳協理寧國府",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter13.tex",
+    "location": {
+      "start_offset": 247,
+      "end_offset": 293,
+      "start_line": 7,
+      "end_line": 7
+    },
+    "layer": "editorial",
+    "current_text": "按：甲戌本此頁被對角撕去，故缺字甚多。此頁原有三則評語，第二則與本回庚辰本眉批同。今補。",
+    "raw_sha256": "7f043ea0ae2fa2432ef8e8d05bd03264c0616a7bb09ce4c76fd3a607d83f96c3",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": true,
+    "reason": "从传统批注容器内再剥离编者按语；其补批或校释不冒充原批。"
+  },
+  {
+    "id": "E013-0036-01",
+    "chapter": 13,
+    "title": "秦可卿死封龍禁尉　王熙鳳協理寧國府",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter13.tex",
+    "location": {
+      "start_offset": 3745,
+      "end_offset": 3772,
+      "start_line": 32,
+      "end_line": 32
+    },
+    "layer": "editorial",
+    "current_text": "按：此條所評正文之「天香樓」，靖藏本作「西帆樓」。",
+    "raw_sha256": "b64dcd31487ef11566193bf2b8b54c267bf2ccfd3075460f2256e80cd165b401",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "从传统批注容器内再剥离编者按语；其补批或校释不冒充原批。"
+  },
+  {
+    "id": "P00009",
+    "chapter": 13,
+    "title": "秦可卿死封龍禁尉　王熙鳳協理寧國府",
+    "location": {
+      "start_offset": 1222,
+      "end_offset": 1239,
+      "start_line": 20,
+      "end_line": 20
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter13.tex",
+    "current_text": "（校者注：蒙古王府本此處作「摟」）",
+    "current_text_ref": null,
+    "kind": "editorial_inline",
+    "is_supplement": false,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "reason": "明确校按、异文或读音说明，移出正文。",
+    "canonical_replacement": ""
+  }
+]

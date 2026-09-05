@@ -1,0 +1,46 @@
+[
+  {
+    "id": "N062-1-0001",
+    "chapter": 62,
+    "title": "憨湘雲醉眠芍藥裀　呆香菱情解石榴裙",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter62.tex",
+    "location": {
+      "start_offset": 815,
+      "end_offset": 841,
+      "start_line": 6,
+      "end_line": 6
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：總是寫春景將殘。",
+    "raw_sha256": "5e8c0cfa6209688326c753b5e69cb01c29ae0b76e24797f2aab5108fecfeba32",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": false,
+    "confidence": "medium",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N062-1-0002",
+    "chapter": 62,
+    "title": "憨湘雲醉眠芍藥裀　呆香菱情解石榴裙",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter62.tex",
+    "location": {
+      "start_offset": 17414,
+      "end_offset": 17438,
+      "start_line": 126,
+      "end_line": 126
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：又下此四字。",
+    "raw_sha256": "9a2751aea7bd6739b9282c30e80d01e5e62261234758062ecf6b8119c94a7e07",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  }
+]

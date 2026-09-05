@@ -1,0 +1,22 @@
+[
+  {
+    "id": "P00058",
+    "chapter": 78,
+    "title": "老學士閑徵姽嫿詞　痴公子杜撰芙蓉誄",
+    "location": {
+      "start_offset": 4259,
+      "end_offset": 4268,
+      "start_line": 15,
+      "end_line": 15
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter78.tex",
+    "current_text": "（按：此句不解。）",
+    "current_text_ref": null,
+    "kind": "editorial_inline",
+    "is_supplement": false,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "reason": "明确校按、异文或读音说明，移出正文。",
+    "canonical_replacement": ""
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "N003-1-0010",
+    "chapter": 3,
+    "title": "金陵城起復賈雨村　榮國府收養林黛玉",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter03.tex",
+    "location": {
+      "start_offset": 971,
+      "end_offset": 987,
+      "start_line": 10,
+      "end_line": 10
+    },
+    "layer": "undetermined",
+    "current_text": "復醒一筆。",
+    "raw_sha256": "79924d9dbf57aadf093bb015e831e19ea47b333a1f61098baa9242738a81ef6d",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N003-1-0036",
+    "chapter": 3,
+    "title": "金陵城起復賈雨村　榮國府收養林黛玉",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter03.tex",
+    "location": {
+      "start_offset": 3027,
+      "end_offset": 3041,
+      "start_line": 19,
+      "end_line": 19
+    },
+    "layer": "undetermined",
+    "current_text": "邢氏。",
+    "raw_sha256": "2039c76176a1085558dacb65de239edf11323efba9f4cc52859a98d44ebe333a",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N003-1-0037",
+    "chapter": 3,
+    "title": "金陵城起復賈雨村　榮國府收養林黛玉",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter03.tex",
+    "location": {
+      "start_offset": 3048,
+      "end_offset": 3062,
+      "start_line": 19,
+      "end_line": 19
+    },
+    "layer": "undetermined",
+    "current_text": "王氏。",
+    "raw_sha256": "5659c486be47a67626d445a400e8d6cb6ed56e56bfdf505acdd8c70a7498b7d6",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N003-1-0083",
+    "chapter": 3,
+    "title": "金陵城起復賈雨村　榮國府收養林黛玉",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter03.tex",
+    "location": {
+      "start_offset": 6467,
+      "end_offset": 6489,
+      "start_line": 29,
+      "end_line": 29
+    },
+    "layer": "undetermined",
+    "current_text": "［未識黛卿能乘此否？］",
+    "raw_sha256": "a1fac9c267870bb9eb810f89b5b57af64f8d04f6a85ecef290a57e907f040593",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

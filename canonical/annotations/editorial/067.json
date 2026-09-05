@@ -1,0 +1,88 @@
+[
+  {
+    "id": "N067-0-0001",
+    "chapter": 67,
+    "title": "饋土物顰卿念故里　訊家童鳳姐蓄陰謀",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter67.tex",
+    "location": {
+      "start_offset": 73,
+      "end_offset": 115,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "editorial",
+    "current_text": "〔混合版本按语已隔离；只允许使用主清单所载来源事实〕",
+    "raw_sha256": "89e7c8a4b6c0c99786d6721f4161a541ec60720baf7020060b0815aeb0092087",
+    "excluded_raw_ref": "excluded_sources/version_audit/067-0-note-0001.txt",
+    "in_selected_chapter_span": false,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N067-0-0002",
+    "chapter": 67,
+    "title": "饋土物顰卿念故里　訊家童鳳姐蓄陰謀",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter67.tex",
+    "location": {
+      "start_offset": 116,
+      "end_offset": 311,
+      "start_line": 3,
+      "end_line": 3
+    },
+    "layer": "editorial",
+    "current_text": "〔混合版本按语已隔离；只允许使用主清单所载来源事实〕",
+    "raw_sha256": "0c503df5c82b9558c541b9551b96dcf18fbb1a3db208e89f43bccdcbf271674e",
+    "excluded_raw_ref": "excluded_sources/version_audit/067-0-note-0002.txt",
+    "in_selected_chapter_span": false,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "A067-001",
+    "chapter": 67,
+    "title": "饋土物顰卿念故里　訊家童鳳姐蓄陰謀",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter67.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 57,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "editorial",
+    "current_text": "〔原文按语已隔离〕",
+    "excluded_raw_ref": "excluded_sources/version_audit/067-angle-001.txt",
+    "raw_sha256": "89e7c8a4b6c0c99786d6721f4161a541ec60720baf7020060b0815aeb0092087",
+    "in_selected_chapter_span": false,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  },
+  {
+    "id": "A067-002",
+    "chapter": 67,
+    "title": "饋土物顰卿念故里　訊家童鳳姐蓄陰謀",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter67.tex",
+    "location": {
+      "start_offset": 59,
+      "end_offset": 241,
+      "start_line": 4,
+      "end_line": 4
+    },
+    "layer": "editorial",
+    "current_text": "〔原文按语已隔离〕",
+    "excluded_raw_ref": "excluded_sources/version_audit/067-angle-002.txt",
+    "raw_sha256": "0c503df5c82b9558c541b9551b96dcf18fbb1a3db208e89f43bccdcbf271674e",
+    "in_selected_chapter_span": false,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  }
+]

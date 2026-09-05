@@ -1,0 +1,46 @@
+[
+  {
+    "id": "N037-1-0025",
+    "chapter": 37,
+    "title": "秋爽齋偶結海棠社　蘅蕪苑夜擬菊花題",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter37.tex",
+    "location": {
+      "start_offset": 3826,
+      "end_offset": 3846,
+      "start_line": 21,
+      "end_line": 21
+    },
+    "layer": "undetermined",
+    "current_text": "辰夾批：真詩人語。",
+    "raw_sha256": "444c0c96115c1295b3515df38d2b6a3055b224bcd408deca79dd17b951c0dd59",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N037-1-0059",
+    "chapter": 37,
+    "title": "秋爽齋偶結海棠社　蘅蕪苑夜擬菊花題",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter37.tex",
+    "location": {
+      "start_offset": 9936,
+      "end_offset": 9979,
+      "start_line": 129,
+      "end_line": 129
+    },
+    "layer": "undetermined",
+    "current_text": "該批：觀湘雲作海棠詩，如見其嬌憨之態。是乃實有，非作書者杜撰也。",
+    "raw_sha256": "997ba2a7a26fe5f7060febab255e5b88950e1f78fbbe727bb8e1eb894483fef9",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

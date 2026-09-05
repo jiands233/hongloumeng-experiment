@@ -1,0 +1,46 @@
+[
+  {
+    "id": "N004-1-0002",
+    "chapter": 4,
+    "title": "薄命女偏逢薄命郎　葫蘆僧亂判葫蘆案",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter04.tex",
+    "location": {
+      "start_offset": 108,
+      "end_offset": 151,
+      "start_line": 3,
+      "end_line": 3
+    },
+    "layer": "undetermined",
+    "current_text": "請君著眼護官符，把筆悲傷說世途。作者淚痕同我淚，燕山仍舊竇公無。",
+    "raw_sha256": "59a2fe1d5e94dc973e3b16437358f92d4d6959b6b1f7aca8d8fc80fd194e2580",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N004-1-0088",
+    "chapter": 4,
+    "title": "薄命女偏逢薄命郎　葫蘆僧亂判葫蘆案",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter04.tex",
+    "location": {
+      "start_offset": 9232,
+      "end_offset": 9255,
+      "start_line": 57,
+      "end_line": 57
+    },
+    "layer": "undetermined",
+    "current_text": "漸入鮑魚肆，反惡芝蘭香。",
+    "raw_sha256": "a506fa74fd5ac5a8a4c4d0d9fa078216090281807ee24aa8e9f7981392bb4ae4",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "id": "N051-1-0001",
+    "chapter": 51,
+    "title": "薛小妹新編懷古詩　胡庸醫亂用虎狼藥",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter51.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 101,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回前總批：文有一語寫出大景者，如「園中不見一女子」句，儼然大家規模。「疑是姑娘」一語，又儼然庸醫口角，新醫行徑。筆大如椽。",
+    "raw_sha256": "b2927925ed8f2c5b98c1c64f9de9beff846de2e346c885d4644a556a163ac70c",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N051-1-0002",
+    "chapter": 51,
+    "title": "薛小妹新編懷古詩　胡庸醫亂用虎狼藥",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter51.tex",
+    "location": {
+      "start_offset": 967,
+      "end_offset": 1028,
+      "start_line": 105,
+      "end_line": 105
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：如何必得寶釵此駁方是好文，後文若真另作亦必無趣，若不另作，又有何法省之，看他下文如何。",
+    "raw_sha256": "378deef92a8662d24a8f7a65d4e45d41c390efdb8f129f94b4b46167c0244c88",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N051-1-0003",
+    "chapter": 51,
+    "title": "薛小妹新編懷古詩　胡庸醫亂用虎狼藥",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter51.tex",
+    "location": {
+      "start_offset": 1034,
+      "end_offset": 1064,
+      "start_line": 105,
+      "end_line": 105
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：好極！非黛玉不可。脂硯。",
+    "raw_sha256": "9f10186933f358bf84dbfd2eb6ebdaacd94951f0352e0bd7e26f4377b9fa9a5e",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N051-1-0004",
+    "chapter": 51,
+    "title": "薛小妹新編懷古詩　胡庸醫亂用虎狼藥",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter51.tex",
+    "location": {
+      "start_offset": 1156,
+      "end_offset": 1207,
+      "start_line": 105,
+      "end_line": 105
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：餘謂顰兒必有尖語來諷，不望竟有此飾詞代為解釋，此則真心以待寶釵也。",
+    "raw_sha256": "c1f2dce60a81bfc05b72cbbbb9145f5616b86105fd8dd9a495616f34bd0c5873",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N051-1-0005",
+    "chapter": 51,
+    "title": "薛小妹新編懷古詩　胡庸醫亂用虎狼藥",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter51.tex",
+    "location": {
+      "start_offset": 1473,
+      "end_offset": 1509,
+      "start_line": 105,
+      "end_line": 105
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：此為三染無痕也，妙極！天花無縫之文。",
+    "raw_sha256": "011a6b4659fcb596e7baf90971eb8039262761bc2a03dcae2f5b8e17f747df42",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N051-1-0006",
+    "chapter": 51,
+    "title": "薛小妹新編懷古詩　胡庸醫亂用虎狼藥",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter51.tex",
+    "location": {
+      "start_offset": 6965,
+      "end_offset": 6998,
+      "start_line": 135,
+      "end_line": 135
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：「找」字神理，乃不常用之物也。",
+    "raw_sha256": "c1be29191eeaa9b3bb256d20f04c655c1973f21e61de470b03933a55917aaa87",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N051-1-0007",
+    "chapter": 51,
+    "title": "薛小妹新編懷古詩　胡庸醫亂用虎狼藥",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter51.tex",
+    "location": {
+      "start_offset": 7443,
+      "end_offset": 7486,
+      "start_line": 137,
+      "end_line": 137
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批： 「朔」字又妙！「朔」作韶上音也，用此音奇想奇想。",
+    "raw_sha256": "cec33a0ecb90bdf784b19bfb5dfc35b87d461bf92369673f295786d6bb6ca64c",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N051-1-0008",
+    "chapter": 51,
+    "title": "薛小妹新編懷古詩　胡庸醫亂用虎狼藥",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter51.tex",
+    "location": {
+      "start_offset": 7570,
+      "end_offset": 7641,
+      "start_line": 138,
+      "end_line": 138
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回末總批：此回再從猜謎著色，便與前回末犯重，且又是一幅即景聯詩圖矣，成何趣味？就燈謎中生一番讖評，別有情思，迥非凡艷。",
+    "raw_sha256": "e9d2c9400a27ba9ad35c55eaea68cb16b0768b37007657e9494fbe4fe6598cf3",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N051-1-0009",
+    "chapter": 51,
+    "title": "薛小妹新編懷古詩　胡庸醫亂用虎狼藥",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter51.tex",
+    "location": {
+      "start_offset": 7641,
+      "end_offset": 7764,
+      "start_line": 138,
+      "end_line": 138
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回末總批：閣起燈謎，接入襲人了卻不就襲人一面寫照，作者大有苦心。蓋襲人不盛飾則非大家威儀，如盛飾又豈有其母臨危？而盛飾者乎，在春（鳳）姐一面，衣服車馬僕從房屋鋪蓋等物一一點檢色色親囑，即得掌家人體統，而襲人之俊俏風神畢現。",
+    "raw_sha256": "0436b3306698c4fc4e5eb7c0607dd6140dd4424019c2b81e00eda7a8479f2dd2",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N051-1-0010",
+    "chapter": 51,
+    "title": "薛小妹新編懷古詩　胡庸醫亂用虎狼藥",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter51.tex",
+    "location": {
+      "start_offset": 7764,
+      "end_offset": 7846,
+      "start_line": 138,
+      "end_line": 138
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回末總批：文有數千言寫一瑣事者，如一吃茶，偏能於未吃之前既吃以後，細細描寫；如一拿銀，偏能於開櫃時生無數波折，平銀時又生無數波折。心細如發。",
+    "raw_sha256": "a1963443f826c31c83b9d9cbddf94959835dc697e1d76ec2e3f7ea3bfa9b427f",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  }
+]

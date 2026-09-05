@@ -1,0 +1,112 @@
+[
+  {
+    "id": "N064-1-0001",
+    "chapter": 64,
+    "title": "幽淑女悲題五美吟　浪蕩子情遺九龍珮",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter64.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 153,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回前總批：此一回緊接賈敬靈柩進城，原當鋪敘寧府喪儀之盛，然上回秦氏病故鳳姐理喪已描寫殆盡，若仍極力寫去，不過加倍熱鬧而已，故書中於迎靈送殯極忙亂處卻只閑閑數筆帶過。忽插入釵玉評詩、璉尤贈珮一段閑雅文字來，正所謂「急脈緩受」也。",
+    "raw_sha256": "c77b827e880c7cd4b4e3bbe8e1a0d4185c184b9b9e0d995bf394604893b6c7db",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N064-1-0003",
+    "chapter": 64,
+    "title": "幽淑女悲題五美吟　浪蕩子情遺九龍珮",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter64.tex",
+    "location": {
+      "start_offset": 2048,
+      "end_offset": 2073,
+      "start_line": 9,
+      "end_line": 9
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙雙行夾批：子之切，小鼎也。",
+    "raw_sha256": "62ea436a763e2092c9aa5c557fedc77425a34c44a15ed9b558f4df051ed17c9a",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N064-1-0004",
+    "chapter": 64,
+    "title": "幽淑女悲題五美吟　浪蕩子情遺九龍珮",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter64.tex",
+    "location": {
+      "start_offset": 4389,
+      "end_offset": 4421,
+      "start_line": 69,
+      "end_line": 69
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙雙行夾批：《五美吟》與後《十獨吟》對照。",
+    "raw_sha256": "6f8a261f0e339a06cfeffe3edfd027d3d40f258215bf0da58bc018c401975e04",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N064-1-0005",
+    "chapter": 64,
+    "title": "幽淑女悲題五美吟　浪蕩子情遺九龍珮",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter64.tex",
+    "location": {
+      "start_offset": 10376,
+      "end_offset": 10425,
+      "start_line": 104,
+      "end_line": 104
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回後總評：五首新詩何所居，顰兒應自日欷歔。柔腸一段千般結，豈是尋常望雁魚。",
+    "raw_sha256": "97fda68cfd33c4e2e03c909c3030fb49daf53886dcaef83c8550e42349e03b5a",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N064-1-0006",
+    "chapter": 64,
+    "title": "幽淑女悲題五美吟　浪蕩子情遺九龍珮",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter64.tex",
+    "location": {
+      "start_offset": 10425,
+      "end_offset": 10504,
+      "start_line": 104,
+      "end_line": 104
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回後總評：五百年風流債，一見了偏作怪。你貪我愛自難休，天巧姻緣渾無奈。父母者，子女間，莫失教訓說前緣。防微之處休弛謝，嚴厲才能真愛憐。",
+    "raw_sha256": "a49a5669887a87f3fecf900e98d9799d1050c9784275f995123d6d24e7c9741e",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  }
+]

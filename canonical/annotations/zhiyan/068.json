@@ -1,0 +1,46 @@
+[
+  {
+    "id": "N068-1-0001",
+    "chapter": 68,
+    "title": "苦尤娘賺入大觀園　酸鳳姐大鬧寧國府",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter68.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 127,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回前總評：餘讀《左氏》見鄭莊，讀《後漢》見魏武，謂古之大姦巨滑惟此為最。今讀《石頭記》，又見鳳姐，作威作福，用柔用剛，站步高，留步寬，殺得死，救得活，天生此等人琢喪元氣不少！",
+    "raw_sha256": "46e43e75ffba71734448880b34667a84d7b72d8f08cdbdd68e58b597f31f2b1b",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N068-1-0002",
+    "chapter": 68,
+    "title": "苦尤娘賺入大觀園　酸鳳姐大鬧寧國府",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter68.tex",
+    "location": {
+      "start_offset": 7517,
+      "end_offset": 7606,
+      "start_line": 32,
+      "end_line": 32
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回後總評：人謂「鬧寧府」一節極凶猛，「賺二姐」一節極和藹，吾謂「鬧寧府」情有可恕，「賺二姐」法不容誅，「鬧寧府」聲聲是淚，「賺二姐」字字皆針（左金右夅）。",
+    "raw_sha256": "07c14ac89d04d053622a4338cffa2f1bf3c71712f965b1b41058dcff2ea1e71e",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  }
+]

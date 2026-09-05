@@ -1,0 +1,48 @@
+[
+  {
+    "id": "N008-1-0054",
+    "chapter": 8,
+    "title": "薛寶釵小恙梨香院　賈寶玉大醉絳芸軒",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter08.tex",
+    "location": {
+      "start_offset": 4356,
+      "end_offset": 4384,
+      "start_line": 57,
+      "end_line": 57
+    },
+    "layer": "undetermined",
+    "current_text": "和尚在幻境中作如此勾當，亦屬多事。",
+    "raw_sha256": "3748a40e239868ff23a9e9d66b2983ebb4f2dcf926e46a1674f6e4357413a357",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N008-1-0092",
+    "chapter": 8,
+    "title": "薛寶釵小恙梨香院　賈寶玉大醉絳芸軒",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter08.tex",
+    "location": {
+      "start_offset": 7048,
+      "end_offset": 7097,
+      "start_line": 67,
+      "end_line": 67
+    },
+    "layer": "undetermined",
+    "current_text": "甲戌墨筆眉批：強詞奪理，偏他說得如許，真冰雪聰明也",
+    "raw_sha256": "4a7f144248d463b87066ac41c7b4ef2f93372d039d41f0a1c61d25a1ca567fea",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "来源按语对脂批身份提出疑问，暂不裁定",
+    "nested_editorial_ids": [
+      "E008-0092-01"
+    ]
+  }
+]

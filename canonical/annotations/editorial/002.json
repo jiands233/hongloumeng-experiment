@@ -1,0 +1,128 @@
+[
+  {
+    "id": "E002-0002-01",
+    "chapter": 2,
+    "title": "賈夫人仙逝揚州城　冷子興演說榮國府",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter02.tex",
+    "location": {
+      "start_offset": 192,
+      "end_offset": 203,
+      "start_line": 3,
+      "end_line": 3
+    },
+    "layer": "editorial",
+    "current_text": "按:己卯作「明白」",
+    "raw_sha256": "2996ff62eec4e8ff8a170a682f9d9775f9d430f4f8f871a1fda8fb0e3449c285",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "从传统批注容器内再剥离编者按语；其补批或校释不冒充原批。"
+  },
+  {
+    "id": "E002-0002-02",
+    "chapter": 2,
+    "title": "賈夫人仙逝揚州城　冷子興演說榮國府",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter02.tex",
+    "location": {
+      "start_offset": 223,
+      "end_offset": 246,
+      "start_line": 3,
+      "end_line": 3
+    },
+    "layer": "editorial",
+    "current_text": "按:庚辰「略出其文半」；己卯作「略出其文」",
+    "raw_sha256": "d24658ce4885165b967724e6472924fa823284a65d50583b1d08a3dc07c1ce74",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "从传统批注容器内再剥离编者按语；其补批或校释不冒充原批。"
+  },
+  {
+    "id": "E002-0003-01",
+    "chapter": 2,
+    "title": "賈夫人仙逝揚州城　冷子興演說榮國府",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter02.tex",
+    "location": {
+      "start_offset": 336,
+      "end_offset": 349,
+      "start_line": 4,
+      "end_line": 4
+    },
+    "layer": "editorial",
+    "current_text": "按:己卯作「由近及遠」",
+    "raw_sha256": "f31b2278b5ad815b5a8f94e771836549a0dace1f1820808f8754e04689094d94",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "从传统批注容器内再剥离编者按语；其补批或校释不冒充原批。"
+  },
+  {
+    "id": "E002-0003-02",
+    "chapter": 2,
+    "title": "賈夫人仙逝揚州城　冷子興演說榮國府",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter02.tex",
+    "location": {
+      "start_offset": 447,
+      "end_offset": 462,
+      "start_line": 4,
+      "end_line": 4
+    },
+    "layer": "editorial",
+    "current_text": "按:庚辰、己卯皆作「榮府」",
+    "raw_sha256": "48f1c5f3e854cad233d935469abc8422ebc85fbaed30e8c8c78c16a41e3857c7",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "从传统批注容器内再剥离编者按语；其补批或校释不冒充原批。"
+  },
+  {
+    "id": "E002-0004-01",
+    "chapter": 2,
+    "title": "賈夫人仙逝揚州城　冷子興演說榮國府",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter02.tex",
+    "location": {
+      "start_offset": 563,
+      "end_offset": 577,
+      "start_line": 5,
+      "end_line": 5
+    },
+    "layer": "editorial",
+    "current_text": "按:己卯作「燃信之爆竹」",
+    "raw_sha256": "62c82efe22cd75e9a7a921f00fc300463391534f36216b07537deb5120f8bab0",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "从传统批注容器内再剥离编者按语；其补批或校释不冒充原批。"
+  },
+  {
+    "id": "E002-0004-02",
+    "chapter": 2,
+    "title": "賈夫人仙逝揚州城　冷子興演說榮國府",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter02.tex",
+    "location": {
+      "start_offset": 653,
+      "end_offset": 670,
+      "start_line": 5,
+      "end_line": 5
+    },
+    "layer": "editorial",
+    "current_text": "按:庚辰、己卯皆作「反逆隱曲」",
+    "raw_sha256": "188264c0e4a0ad67753e7d215f9f37f95efa8ce97b81aed4e6126ad2fcd158e1",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "从传统批注容器内再剥离编者按语；其补批或校释不冒充原批。"
+  }
+]

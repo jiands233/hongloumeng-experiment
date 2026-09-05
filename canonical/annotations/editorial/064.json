@@ -1,0 +1,88 @@
+[
+  {
+    "id": "N064-0-0001",
+    "chapter": 64,
+    "title": "幽淑女悲題五美吟　浪蕩子情遺九龍珮",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter64.tex",
+    "location": {
+      "start_offset": 9454,
+      "end_offset": 9531,
+      "start_line": 95,
+      "end_line": 95
+    },
+    "layer": "editorial",
+    "current_text": "〔混合版本按语已隔离；只允许使用主清单所载来源事实〕",
+    "raw_sha256": "5bae9dd26310255c4f0f04a1e1fb4edc4405bc0adfe7102fb623633c414b25b2",
+    "excluded_raw_ref": "excluded_sources/version_audit/064-0-note-0001.txt",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N064-0-0002",
+    "chapter": 64,
+    "title": "幽淑女悲題五美吟　浪蕩子情遺九龍珮",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter64.tex",
+    "location": {
+      "start_offset": 9613,
+      "end_offset": 9828,
+      "start_line": 95,
+      "end_line": 95
+    },
+    "layer": "editorial",
+    "current_text": "按：庚辰本四十四回：「賈璉一徑出來，和林之孝來商議，著人去作好作歹，許了二百兩發送才罷。賈璉生恐有變，又命人去和王子騰說，將番役仵作人等叫了幾名來，幫著辦喪事。那些人見瞭如此，縱要復辨亦不敢辨，只得忍氣吞聲罷了。賈璉又命林之孝將那二百銀子入在流年帳上，分別添補開銷過去。又梯己給鮑二些銀兩，安慰他說：『另日再挑個好媳婦給你』。鮑二又有體面，又有銀子，有何不依，便仍然奉承賈璉，不在話下。」依庚辰本四十四回補。",
+    "raw_sha256": "2388e8b6c9dea99e1ba444dd76fab1f67fb8b53270056470a5ec18b233d60637",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "A064-001",
+    "chapter": 64,
+    "title": "幽淑女悲題五美吟　浪蕩子情遺九龍珮",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter64.tex",
+    "location": {
+      "start_offset": 9699,
+      "end_offset": 9767,
+      "start_line": 95,
+      "end_line": 95
+    },
+    "layer": "editorial",
+    "current_text": "〔原文按语已隔离〕",
+    "excluded_raw_ref": "excluded_sources/version_audit/064-angle-001.txt",
+    "raw_sha256": "5bae9dd26310255c4f0f04a1e1fb4edc4405bc0adfe7102fb623633c414b25b2",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  },
+  {
+    "id": "A064-002",
+    "chapter": 64,
+    "title": "幽淑女悲題五美吟　浪蕩子情遺九龍珮",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter64.tex",
+    "location": {
+      "start_offset": 9849,
+      "end_offset": 10055,
+      "start_line": 95,
+      "end_line": 95
+    },
+    "layer": "editorial",
+    "current_text": "按：庚辰本四十四回：「賈璉一徑出來，和林之孝來商議，著人去作好作歹，許了二百兩發送才罷。賈璉生恐有變，又命人去和王子騰說，將番役仵作人等叫了幾名來，幫著辦喪事。那些人見瞭如此，縱要復辨亦不敢辨，只得忍氣吞聲罷了。賈璉又命林之孝將那二百銀子入在流年帳上，分別添補開銷過去。又梯己給鮑二些銀兩，安慰他說：『另日再挑個好媳婦給你』。鮑二又有體面，又有銀子，有何不依，便仍然奉承賈璉，不在話下。」依庚辰本四十四回補。",
+    "excluded_raw_ref": null,
+    "raw_sha256": "2388e8b6c9dea99e1ba444dd76fab1f67fb8b53270056470a5ec18b233d60637",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "N016-1-0014",
+    "chapter": 16,
+    "title": "賈元春才選鳳藻宮　秦鯨卿夭逝黃泉路",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter16.tex",
+    "location": {
+      "start_offset": 1814,
+      "end_offset": 1837,
+      "start_line": 19,
+      "end_line": 19
+    },
+    "layer": "undetermined",
+    "current_text": "［秦氏生魂先告鳳姐矣。］",
+    "raw_sha256": "8aa63b174cdf743cb54a4b738711d1dc28880d0a39bf4072f7a2d567f7b5542f",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

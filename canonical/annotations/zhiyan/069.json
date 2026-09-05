@@ -1,0 +1,68 @@
+[
+  {
+    "id": "N069-1-0001",
+    "chapter": 69,
+    "title": "弄小巧用借劍殺人　覺大限吞生金自逝",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter69.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 139,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回前總評：寫鳳姐寫不盡，卻從上下左右寫。寫秋桐極淫邪，正寫鳳姐極淫邪；寫平兒極義氣，正寫鳳姐極不義氣；寫使女欺壓二姐，正寫鳳姐欺壓二姐；寫下人感戴二姐，正寫下人不感戴鳳姐。史公用意非念死書子之所知。",
+    "raw_sha256": "875129cb332498f5a7ab7d0ee09f6d9b80dd1386c5c80b180caa08de4eff71a9",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N069-1-0002",
+    "chapter": 69,
+    "title": "弄小巧用借劍殺人　覺大限吞生金自逝",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter69.tex",
+    "location": {
+      "start_offset": 7308,
+      "end_offset": 7399,
+      "start_line": 28,
+      "end_line": 28
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回後總評：鳳姐初念在張華領出二姐，轉念又恐仍為外宅，轉念即欲殺張華，為斬草除根計。時寫來覺滿腔都是荊棘，渾身都是爪牙，安得借鴛鴦劍手刃其首，以寒千古姦婦之膽。",
+    "raw_sha256": "f7a2eb8da4199155218e62a704ab483791976c0060449d3185e8448ee3180ae9",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N069-1-0003",
+    "chapter": 69,
+    "title": "弄小巧用借劍殺人　覺大限吞生金自逝",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter69.tex",
+    "location": {
+      "start_offset": 7399,
+      "end_offset": 7453,
+      "start_line": 28,
+      "end_line": 28
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回後總評：看三姐夢中相敘一段，真有孝子悌弟、義士忠臣之慨，我不禁淚流一斗，濕地三尺。",
+    "raw_sha256": "588e3e418579b45de9424d3ec545458ff7b9aaec4c9243de378fc2ae31e3900e",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  }
+]

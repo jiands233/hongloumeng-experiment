@@ -1,0 +1,68 @@
+[
+  {
+    "id": "N002-1-0082",
+    "chapter": 2,
+    "title": "賈夫人仙逝揚州城　冷子興演說榮國府",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter02.tex",
+    "location": {
+      "start_offset": 6518,
+      "end_offset": 6542,
+      "start_line": 61,
+      "end_line": 61
+    },
+    "layer": "undetermined",
+    "current_text": "［伏下賈璉鳳姐當家之文。］",
+    "raw_sha256": "03f96f565df0dda195b2ce1acc01bab652258e6543d1ad02bb4b1b146160b613",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N002-1-0090",
+    "chapter": 2,
+    "title": "賈夫人仙逝揚州城　冷子興演說榮國府",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter02.tex",
+    "location": {
+      "start_offset": 6963,
+      "end_offset": 6984,
+      "start_line": 61,
+      "end_line": 61
+    },
+    "layer": "undetermined",
+    "current_text": "正是寧、榮二處支譜。",
+    "raw_sha256": "7329a19c25d2680d18b8b02b76531d7a4ceb129f9c2d318f6601c5912f1f9273",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N002-1-0114",
+    "chapter": 2,
+    "title": "賈夫人仙逝揚州城　冷子興演說榮國府",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter02.tex",
+    "location": {
+      "start_offset": 9592,
+      "end_offset": 9618,
+      "start_line": 71,
+      "end_line": 71
+    },
+    "layer": "undetermined",
+    "current_text": "［複接前文未及，正詞源三叠。］",
+    "raw_sha256": "cb20a2a7f13fe33d9ff621293d1382795d98226146a460191867a00bdda87bd9",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": "N060-1-0001",
+    "chapter": 60,
+    "title": "茉莉粉替去薔薇硝　玫瑰露引來茯苓霜",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter60.tex",
+    "location": {
+      "start_offset": 5263,
+      "end_offset": 5291,
+      "start_line": 38,
+      "end_line": 38
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：五月之柳，春色可知。",
+    "raw_sha256": "23197b2981c041ad457505e1a90df2c16923a5e271ac4aac7fde6c7301ff22e1",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N060-1-0002",
+    "chapter": 60,
+    "title": "茉莉粉替去薔薇硝　玫瑰露引來茯苓霜",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter60.tex",
+    "location": {
+      "start_offset": 6316,
+      "end_offset": 6337,
+      "start_line": 44,
+      "end_line": 44
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：為母。",
+    "raw_sha256": "261c29c74a837ddb4c50a0dc5aec2f5a3bae91d63d41e43ce4c54c87dff86dba",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N060-1-0003",
+    "chapter": 60,
+    "title": "茉莉粉替去薔薇硝　玫瑰露引來茯苓霜",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter60.tex",
+    "location": {
+      "start_offset": 6351,
+      "end_offset": 6374,
+      "start_line": 44,
+      "end_line": 44
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：二為家中。",
+    "raw_sha256": "3d3a9e42686694a09d8a3035934acc49995d5ae25538859242becfd98ba9c736",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  }
+]

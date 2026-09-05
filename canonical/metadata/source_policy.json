@@ -1,0 +1,49 @@
+{
+  "release": "red-chamber-canonical-v1",
+  "default_read": [
+    "canonical/chapters/001.md ... 080.md",
+    "canonical/metadata/chapter_manifest.json",
+    "canonical/metadata/known_issues.md"
+  ],
+  "explicit_commentary_only": [
+    "canonical/annotations/zhiyan/"
+  ],
+  "audit_only_no_inference": [
+    "canonical/annotations/editorial/",
+    "canonical/annotations/undetermined/",
+    "canonical/metadata/provenance.json"
+  ],
+  "default_deny_paths": [
+    "Dream-of-Red-Chamber-master/",
+    "Dream-of-Red-Chamber-master.zip",
+    "excluded_sources/",
+    "research/phase1/"
+  ],
+  "forbidden_categories": [
+    "程甲本81—120回",
+    "程乙本81—120回",
+    "高鹗及其他古今续书与情节梗概",
+    "现代续书",
+    "影视改编剧情",
+    "现代红学家对后四十回的具体重建方案",
+    "本地程甲67附录",
+    "64回隔离的改写扩补",
+    "41回隔离的现代具体校释"
+  ],
+  "local_inventory_findings": {
+    "raw_chapter_files": 160,
+    "raw_chapter_numbers": "01-80 only",
+    "files_81_120_found": false,
+    "other_sequel_or_film_files_found": false,
+    "modern_reconstruction_insert_found": true,
+    "chengjia_67_appendix_found": true,
+    "boundary": "检查所提供目录及zip清单；没有对用户电脑其他路径作扫描，也不能辨识所有未署名的隐性上游改文。"
+  },
+  "enforcement": [
+    "AGENTS.md 工作流要求",
+    ".ignore 限定默认rg检索",
+    "read_canonical.py 白名单并先校验冻结哈希",
+    "生成器发现freeze.json后拒绝覆盖"
+  ],
+  "limitation": "不是OS沙箱或模型训练记忆清除；需要后续Agent遵守证据分层，不能凭此声称绝无语义污染。"
+}

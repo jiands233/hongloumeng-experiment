@@ -1,0 +1,23 @@
+[
+  {
+    "id": "E008-0092-01",
+    "chapter": 8,
+    "title": "薛寶釵小恙梨香院　賈寶玉大醉絳芸軒",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter08.tex",
+    "location": {
+      "start_offset": 7064,
+      "end_offset": 7077,
+      "start_line": 67,
+      "end_line": 67
+    },
+    "layer": "editorial",
+    "current_text": "似非脂批，可查看影印本",
+    "raw_sha256": "4ec664aad1f1fc8134dbfb2eb4570f3e8525cdfa85731f37863ef4c9504fa10d",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "从传统批注容器内再剥离编者按语；其补批或校释不冒充原批。"
+  }
+]

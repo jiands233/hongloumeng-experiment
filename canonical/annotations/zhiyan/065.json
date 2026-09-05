@@ -1,0 +1,222 @@
+[
+  {
+    "id": "N065-1-0001",
+    "chapter": 65,
+    "title": "賈二舍偷娶尤二姨　尤三姐思嫁柳二郎",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter65.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 103,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回前總批：筆筆敘二姐溫柔和順高鳳姐十倍，言語行事勝鳳姐五分，堪為賈璉二房，所以深著鳳姐不念宗祠血食，為賈宅第一罪人。綱目書法！",
+    "raw_sha256": "524ad9666a41b3562769dc47a42a94fd28927861a23154f81c75907793036012",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N065-1-0002",
+    "chapter": 65,
+    "title": "賈二舍偷娶尤二姨　尤三姐思嫁柳二郎",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter65.tex",
+    "location": {
+      "start_offset": 103,
+      "end_offset": 202,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回前總批：文有雙管齊下法，此文是也。事在寧府，卻把鳳姐之尖酸刻薄、平兒之任俠直鯁、李紈之號「菩薩」、探春之號「玫瑰」、林姑娘之「怕倒」、薛姑娘之「怕化」一時齊現，是何等妙文！",
+    "raw_sha256": "fdcaa3fc869b370eeeb6f65e8e786b749d9f4dead191b8d0e2117d9b0c26bb03",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N065-1-0003",
+    "chapter": 65,
+    "title": "賈二舍偷娶尤二姨　尤三姐思嫁柳二郎",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter65.tex",
+    "location": {
+      "start_offset": 4421,
+      "end_offset": 4456,
+      "start_line": 27,
+      "end_line": 27
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：全用醍醐灌頂，全是大翻身大解悟法。",
+    "raw_sha256": "761f056c9d92592eb9bc305c29453ccd5f817af1d2eff70ef91756cb7e6845f0",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N065-1-0004",
+    "chapter": 65,
+    "title": "賈二舍偷娶尤二姨　尤三姐思嫁柳二郎",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter65.tex",
+    "location": {
+      "start_offset": 4475,
+      "end_offset": 4504,
+      "start_line": 27,
+      "end_line": 27
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：全用如是等語一洗孽障。",
+    "raw_sha256": "1b9ca39c63c4d8d9359e29a308571b07fe2f485ba7b77f4fa3bc83f2de1a2ee1",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N065-1-0005",
+    "chapter": 65,
+    "title": "賈二舍偷娶尤二姨　尤三姐思嫁柳二郎",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter65.tex",
+    "location": {
+      "start_offset": 4850,
+      "end_offset": 4875,
+      "start_line": 27,
+      "end_line": 27
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：奇，不知何為。",
+    "raw_sha256": "1549bb89b2bf89c2d679c6f67fa8a58ba148279095d4a31e73fbcd05772fe9dc",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N065-1-0006",
+    "chapter": 65,
+    "title": "賈二舍偷娶尤二姨　尤三姐思嫁柳二郎",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter65.tex",
+    "location": {
+      "start_offset": 4894,
+      "end_offset": 4917,
+      "start_line": 27,
+      "end_line": 27
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：有理之極！",
+    "raw_sha256": "d24af4011860f20b02f21a21a9cc31c8e9582eb47e11865e91462e8e24ff18ab",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N065-1-0007",
+    "chapter": 65,
+    "title": "賈二舍偷娶尤二姨　尤三姐思嫁柳二郎",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter65.tex",
+    "location": {
+      "start_offset": 4937,
+      "end_offset": 4961,
+      "start_line": 27,
+      "end_line": 27
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：一罵反有理。",
+    "raw_sha256": "5e18527710b6308128ab60e3897d80e78fcc955ed81e29c74264e402d6af14af",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N065-1-0008",
+    "chapter": 65,
+    "title": "賈二舍偷娶尤二姨　尤三姐思嫁柳二郎",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter65.tex",
+    "location": {
+      "start_offset": 4981,
+      "end_offset": 5005,
+      "start_line": 27,
+      "end_line": 27
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：餘亦如此想。",
+    "raw_sha256": "f8951ba2001f042eb50f12be41435cd3252fcd9288a648c13fc69743b072dafe",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N065-1-0009",
+    "chapter": 65,
+    "title": "賈二舍偷娶尤二姨　尤三姐思嫁柳二郎",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter65.tex",
+    "location": {
+      "start_offset": 5032,
+      "end_offset": 5053,
+      "start_line": 27,
+      "end_line": 27
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：奇甚！",
+    "raw_sha256": "bff7e59390b4f7471c7d62a4ead15d12fc4e77848b0916fcf92d58f55f2a5ff3",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N065-1-0010",
+    "chapter": 65,
+    "title": "賈二舍偷娶尤二姨　尤三姐思嫁柳二郎",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter65.tex",
+    "location": {
+      "start_offset": 7237,
+      "end_offset": 7321,
+      "start_line": 34,
+      "end_line": 34
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回後總評：房內兄弟聚麀，棚內兩馬相鬧；小廝與賈母飲酒，小姨與姐夫同床。可見有是主必有奴（是）奴，有是兄必有是弟，有是姐必有是妹，有是人必有是馬。",
+    "raw_sha256": "37fa78df6d4b73084b350c120ef6278b01108634229c2a12abd36179906cefd0",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  }
+]

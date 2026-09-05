@@ -1,0 +1,68 @@
+[
+  {
+    "id": "N031-1-0001",
+    "chapter": 31,
+    "title": "撕扇子作千金一笑　因麒麟伏白首雙星",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter31.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 73,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰：「撕扇子」是以不情之物供嬌嗔不知情時之人一笑，所謂「情不情」。",
+    "raw_sha256": "b0e2019dca6c03aafde46575a1fe04bdf463d217bf3c835e0d71344af87cd544",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N031-1-0002",
+    "chapter": 31,
+    "title": "撕扇子作千金一笑　因麒麟伏白首雙星",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter31.tex",
+    "location": {
+      "start_offset": 73,
+      "end_offset": 126,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰：「金玉姻緣」已定，又寫一金麒麟，是間色法也。何顰兒為其所感？故顰兒謂「情情」。",
+    "raw_sha256": "b877344937dc30c1ae3df56760c6dd680ddc8c1979652f063b0a4d25b6838f2f",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N031-1-0003",
+    "chapter": 31,
+    "title": "撕扇子作千金一笑　因麒麟伏白首雙星",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter31.tex",
+    "location": {
+      "start_offset": 7351,
+      "end_offset": 7408,
+      "start_line": 22,
+      "end_line": 22
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰：後數十回若蘭在射圃所佩之麒麟正此麒麟也。提綱伏於此回中，所謂「草蛇灰線，在千里之外」。",
+    "raw_sha256": "20cc14ad7c654a6336d70b60a3b497a7d7895ebb9211503626556db531642560",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  }
+]

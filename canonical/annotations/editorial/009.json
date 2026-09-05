@@ -1,0 +1,45 @@
+[
+  {
+    "id": "N009-0-0001",
+    "chapter": 9,
+    "title": "戀風流情友入家塾　起嫌疑頑童鬧學堂",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter09.tex",
+    "location": {
+      "start_offset": 3120,
+      "end_offset": 3156,
+      "start_line": 21,
+      "end_line": 21
+    },
+    "layer": "editorial",
+    "current_text": "按：蒙府本正文：「他兩個在後院里商量著什麼長短。」",
+    "raw_sha256": "dcdf052ceb9ef0c4d91780308618e0225fc234c203b1057ac9bf6b9cf82e0bdb",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "A009-001",
+    "chapter": 9,
+    "title": "戀風流情友入家塾　起嫌疑頑童鬧學堂",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter09.tex",
+    "location": {
+      "start_offset": 4773,
+      "end_offset": 4800,
+      "start_line": 21,
+      "end_line": 21
+    },
+    "layer": "editorial",
+    "current_text": "按：蒙府本正文：「他兩個在後院里商量著什麼長短。」",
+    "excluded_raw_ref": null,
+    "raw_sha256": "dcdf052ceb9ef0c4d91780308618e0225fc234c203b1057ac9bf6b9cf82e0bdb",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "dataset_sha256": "a307c6629bb6fbd4a2c1a54560e3c53e4fec435a7017a6d83407bf1c00086a54",
+  "tests": [
+    {
+      "test": "reader_rejects_81",
+      "passed": true
+    },
+    {
+      "test": "reader_rejects_0",
+      "passed": true
+    },
+    {
+      "test": "reader_rejects_5_--layer_editorial",
+      "passed": true
+    },
+    {
+      "test": "reader_rejects_5_--layer_../../excluded_sources",
+      "passed": true
+    },
+    {
+      "test": "reader_main_62",
+      "passed": true
+    },
+    {
+      "test": "reader_explicit_commentary",
+      "passed": true
+    },
+    {
+      "test": "frozen_builder_refuses_overwrite",
+      "passed": true
+    },
+    {
+      "test": "detect_changed_chapter",
+      "passed": true
+    },
+    {
+      "test": "detect_extra_chapter",
+      "passed": true
+    },
+    {
+      "test": "detect_missing_chapter",
+      "passed": true
+    },
+    {
+      "test": "detect_changed_workflow",
+      "passed": true
+    },
+    {
+      "test": "default_rg_excludes_contamination_and_annotations",
+      "passed": true
+    }
+  ],
+  "fixture_policy": "negative mutations occur only in temporary copies; source and canonical v1 unchanged"
+}

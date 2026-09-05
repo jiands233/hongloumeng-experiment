@@ -1,0 +1,24 @@
+[
+  {
+    "id": "N054-1-0005",
+    "chapter": 54,
+    "title": "史太君破陳腐舊套　王熙鳳效戲彩斑衣",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter54.tex",
+    "location": {
+      "start_offset": 3790,
+      "end_offset": 3818,
+      "start_line": 15,
+      "end_line": 15
+    },
+    "layer": "undetermined",
+    "current_text": "批：「滿腹文章去作賊」，餘謂多事。",
+    "raw_sha256": "6692bc0faa1a3111649f868060b4db328cf93c8a03f64cb170ccdaac51c4ca53",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

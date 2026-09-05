@@ -1,0 +1,23 @@
+[
+  {
+    "id": "A052-001",
+    "chapter": 52,
+    "title": "俏平兒情掩蝦須鐲　勇晴雯病補雀金裘",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter52.tex",
+    "location": {
+      "start_offset": 3337,
+      "end_offset": 3342,
+      "start_line": 15,
+      "end_line": 15
+    },
+    "layer": "editorial",
+    "current_text": "太極圖",
+    "excluded_raw_ref": null,
+    "raw_sha256": "858602239b2b69445c713a58ff9d4ed0e0e49eeaa0a5b10adb9f5c4521e86029",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  }
+]

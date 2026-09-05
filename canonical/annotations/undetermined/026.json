@@ -1,0 +1,24 @@
+[
+  {
+    "id": "N026-1-0117",
+    "chapter": 26,
+    "title": "蜂腰橋設言傳心事　瀟湘館春困發幽情",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter26.tex",
+    "location": {
+      "start_offset": 9347,
+      "end_offset": 9366,
+      "start_line": 47,
+      "end_line": 47
+    },
+    "layer": "undetermined",
+    "current_text": "如見其人於紙上。",
+    "raw_sha256": "b72090af7803824f9959304b277ff190d42d24d4c5a90a487907433602a43b57",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "N057-1-0001",
+    "chapter": 57,
+    "title": "慧紫鵑情辭試忙玉　慈姨媽愛語慰痴顰",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter57.tex",
+    "location": {
+      "start_offset": 684,
+      "end_offset": 740,
+      "start_line": 6,
+      "end_line": 6
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：畫出寶玉來，卻又不畫阿顰，何等筆力！便不從鵑寫，卻寫一雁，更奇。是仍歸寫鵑。",
+    "raw_sha256": "65b8b8a8a9717dfc1c930e21b0abf6c03edbb1028424b4319cf7e697ca73e854",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N057-1-0002",
+    "chapter": 57,
+    "title": "慧紫鵑情辭試忙玉　慈姨媽愛語慰痴顰",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter57.tex",
+    "location": {
+      "start_offset": 784,
+      "end_offset": 814,
+      "start_line": 6,
+      "end_line": 6
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：寫嬌憨女兒之心何等新巧。",
+    "raw_sha256": "efef07ce8b955052dc7587a8c097efc317d6a2134389855aeec1c1ee01abe5ce",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N057-1-0003",
+    "chapter": 57,
+    "title": "慧紫鵑情辭試忙玉　慈姨媽愛語慰痴顰",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter57.tex",
+    "location": {
+      "start_offset": 1917,
+      "end_offset": 1954,
+      "start_line": 10,
+      "end_line": 10
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：這句不成話，細讀細嚼方有無限神情滋味。",
+    "raw_sha256": "67d7cb4201b5acc897ab7addce8c8c53e6582d21f8d7393b7586edb377ec8448",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N057-1-0004",
+    "chapter": 57,
+    "title": "慧紫鵑情辭試忙玉　慈姨媽愛語慰痴顰",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter57.tex",
+    "location": {
+      "start_offset": 1974,
+      "end_offset": 1999,
+      "start_line": 10,
+      "end_line": 10
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：「笑」字奇甚。",
+    "raw_sha256": "3c22f718dc08069ff044d7fbb5e92175446c892f05f44dd1c71ec70ec5352e72",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N057-1-0005",
+    "chapter": 57,
+    "title": "慧紫鵑情辭試忙玉　慈姨媽愛語慰痴顰",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter57.tex",
+    "location": {
+      "start_offset": 2972,
+      "end_offset": 3027,
+      "start_line": 16,
+      "end_line": 16
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：奇極之語。從急怒嬌憨口中描出不成話之話來，方是千古奇文。五字是一口氣來的。",
+    "raw_sha256": "9b4d69a33b7aca2a2eb286cfafb2754070a9123d28f060c3d2fe56716c43fb01",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "N079-1-0014",
+    "chapter": 79,
+    "title": "薛文龍悔娶河東獅　賈迎春誤嫁中山狼",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter79.tex",
+    "location": {
+      "start_offset": 2213,
+      "end_offset": 2277,
+      "start_line": 7,
+      "end_line": 7
+    },
+    "layer": "undetermined",
+    "current_text": "可見迎春是書中正傳，阿呆夫妻是副，賓主次序嚴肅之至。其婚娶俗禮一概不及，只用寶玉一人過去，正是書中之大節。",
+    "raw_sha256": "45a2dbb03dd22bc741b06760f647de0421b6e335dfd5873c46eb8fdc420f735e",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "N041-1-0016",
+    "chapter": 41,
+    "title": "賈寶玉品茶攏翠庵　劉姥姥醉臥怡紅院",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter41.tex",
+    "location": {
+      "start_offset": 4685,
+      "end_offset": 4740,
+      "start_line": 21,
+      "end_line": 21
+    },
+    "layer": "undetermined",
+    "current_text": "該批：玉兄獨至豈真無茶吃？作書人又弄狡猾，只瞞不過老朽。然不知落筆時作者如何想。丁亥夏。",
+    "raw_sha256": "faaab0b3d8da873db0d78e8cb8d36e837b2e35d90c6e62bc107215f2780d9d4b",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N041-1-0018",
+    "chapter": 41,
+    "title": "賈寶玉品茶攏翠庵　劉姥姥醉臥怡紅院",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter41.tex",
+    "location": {
+      "start_offset": 5000,
+      "end_offset": 5020,
+      "start_line": 21,
+      "end_line": 21
+    },
+    "layer": "undetermined",
+    "current_text": "該批：黛是解事人。",
+    "raw_sha256": "00c3fa17984ca5bb10f6dc451099fc3b65a1a35945008636dc3590e38cf4aadb",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "P00007",
+    "chapter": 7,
+    "title": "送宮花周瑞嘆英蓮　談肄業秦鐘結寶玉",
+    "location": {
+      "start_offset": 4973,
+      "end_offset": 4977,
+      "start_line": 42,
+      "end_line": 42
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter07.tex",
+    "current_text": "(kè)",
+    "current_text_ref": null,
+    "kind": "editorial_inline",
+    "is_supplement": false,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "reason": "明确校按、异文或读音说明，移出正文。",
+    "canonical_replacement": ""
+  }
+]

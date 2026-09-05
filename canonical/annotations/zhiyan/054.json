@@ -1,0 +1,112 @@
+[
+  {
+    "id": "N054-1-0001",
+    "chapter": 54,
+    "title": "史太君破陳腐舊套　王熙鳳效戲彩斑衣",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter54.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 96,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰：首回楔子內雲「古今小說千部共成一套」云云，猶未泄真。今借老太君一寫，是勸後來胸中無機軸之諸君子不可動筆作書。",
+    "raw_sha256": "cc8f6af1a1951e67ad4618fa586f13b5053d48561a83c0b69c158498ccdaee6a",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N054-1-0002",
+    "chapter": 54,
+    "title": "史太君破陳腐舊套　王熙鳳效戲彩斑衣",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter54.tex",
+    "location": {
+      "start_offset": 96,
+      "end_offset": 150,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰：鳳姐乃太君之要緊陪堂，今題「斑衣戲彩」是作者酬我阿鳳之勞，特貶賈珍璉輩之無能耳。",
+    "raw_sha256": "06d382a7ab300892564a324f59504cb07fb491aa76628893972b87c57e303ec4",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N054-1-0003",
+    "chapter": 54,
+    "title": "史太君破陳腐舊套　王熙鳳效戲彩斑衣",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter54.tex",
+    "location": {
+      "start_offset": 150,
+      "end_offset": 199,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回前總批：積德於今到子孫，都中旺族首吾門。可憐立業英雄輩，遺脈誰知祖父恩。",
+    "raw_sha256": "e76f4224b9e1cec1e2d41b279b22ada180301558fcf14d4f328ada4a5c3cc3e8",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N054-1-0004",
+    "chapter": 54,
+    "title": "史太君破陳腐舊套　王熙鳳效戲彩斑衣",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter54.tex",
+    "location": {
+      "start_offset": 2054,
+      "end_offset": 2111,
+      "start_line": 11,
+      "end_line": 11
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：細膩之極！一部大觀園之文皆若食肥蟹，至此一句則又三月於鎮江江上啖出網之鮮鰣矣。",
+    "raw_sha256": "16c1880f79dc3f455344db9e8872c554835810fd5171df83e14f4de345a3b6f1",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N054-1-0006",
+    "chapter": 54,
+    "title": "史太君破陳腐舊套　王熙鳳效戲彩斑衣",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter54.tex",
+    "location": {
+      "start_offset": 9007,
+      "end_offset": 9249,
+      "start_line": 32,
+      "end_line": 32
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回末總批：讀此回者凡三變。不善讀者徒贊其如何演戲、如何行令、如何掛花燈、如何放爆竹，目眩耳聾，應接不暇。少解讀者，贊其座次有倫、巡酒有度，從演戲渡至女先，從女先渡至鳳姐，從鳳姐渡至行令，從行令渡至放花爆：脫卸下來，井然秩然，一絲不亂。會讀者須另具卓識，單著眼史太君一席話，將普天下不近理之 「奇文」、不近情之「妙作」一起抹倒。是作者借他人酒盃，消自己傀儡，畫一幅行樂圖，鑄一面菱花鏡，為全部總評。噫！作者已逝，聖嘆雲亡，愚不自量，輒擬數語，知我罪我，其聽之矣。",
+    "raw_sha256": "054324294fa709493289f010c82fac3ffeae0b2bcb48f24a796e8ee6ba480560",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "id": "N030-1-0001",
+    "chapter": 30,
+    "title": "寶釵借扇機帶雙敲　齡官劃薔痴及局外",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter30.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 56,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰：指扇敲雙玉是寫寶釵金蟬脫殼。",
+    "raw_sha256": "ad93c861578de4c5c0fcaeff8fbf469ba2f2d07331ae160c58cf61ded1903d48",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N030-1-0002",
+    "chapter": 30,
+    "title": "寶釵借扇機帶雙敲　齡官劃薔痴及局外",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter30.tex",
+    "location": {
+      "start_offset": 56,
+      "end_offset": 85,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰：銀釵畫「薔」字是痴女夢中說夢。",
+    "raw_sha256": "4ce1d12ad5ceb169f5f09aa23f79ef41b5120f68da66cfb7dbbcc1b15940b62d",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N030-1-0003",
+    "chapter": 30,
+    "title": "寶釵借扇機帶雙敲　齡官劃薔痴及局外",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter30.tex",
+    "location": {
+      "start_offset": 85,
+      "end_offset": 114,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰：腳踢襲人是斷無是理，竟有是事。",
+    "raw_sha256": "718e92e0e87616260cb7e4041bbe9f56285ecdbc84b8c3794f2efedae192065a",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N030-1-0004",
+    "chapter": 30,
+    "title": "寶釵借扇機帶雙敲　齡官劃薔痴及局外",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter30.tex",
+    "location": {
+      "start_offset": 114,
+      "end_offset": 150,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "靖：無限文字，痴情畫薔，可知前緣有定，非人力強求。",
+    "raw_sha256": "afe47d2dc34a91bc8bffee78d443062072b384df3da42f844afc9e94da65e014",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N030-1-0005",
+    "chapter": 30,
+    "title": "寶釵借扇機帶雙敲　齡官劃薔痴及局外",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter30.tex",
+    "location": {
+      "start_offset": 5928,
+      "end_offset": 5965,
+      "start_line": 36,
+      "end_line": 36
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回末總評：愛眾不長，多情不壽；風月情懷，醉人如酒。",
+    "raw_sha256": "0de9fd1f5b5acc327228f6cf6a997bd8cda74723f56665e9f1279af6d1f5bfb1",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "N006-1-0002",
+    "chapter": 6,
+    "title": "賈寶玉初試雲雨情　劉姥姥一進榮國府",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter06.tex",
+    "location": {
+      "start_offset": 104,
+      "end_offset": 150,
+      "start_line": 3,
+      "end_line": 3
+    },
+    "layer": "undetermined",
+    "current_text": "此回劉嫗一進榮國府，用周瑞家的，又過下回無痕，是無一筆寫一人文字之筆。",
+    "raw_sha256": "ab0203f97eae4ee56fc8456fb02c4b690774d3607e4b4a3f240b3dcd47fcecee",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

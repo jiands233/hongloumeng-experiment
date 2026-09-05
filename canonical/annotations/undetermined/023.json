@@ -1,0 +1,24 @@
+[
+  {
+    "id": "N023-1-0029",
+    "chapter": 23,
+    "title": "西廂記妙詞通戲語　牡丹亭艷曲警芳心",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter23.tex",
+    "location": {
+      "start_offset": 3418,
+      "end_offset": 3439,
+      "start_line": 21,
+      "end_line": 21
+    },
+    "layer": "undetermined",
+    "current_text": "就說大話，畢肖之至！",
+    "raw_sha256": "29a0f18c52b8c78a6004787f85b35f57f41d8251cc6c4412f75942a00e1cc9f9",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

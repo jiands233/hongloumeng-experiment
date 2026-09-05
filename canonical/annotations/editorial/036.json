@@ -1,0 +1,104 @@
+[
+  {
+    "id": "N036-1-0014",
+    "chapter": 36,
+    "title": "綉鴛鴦夢兆絳芸軒　識分定情悟梨香院",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter36.tex",
+    "location": {
+      "start_offset": 3165,
+      "end_offset": 3190,
+      "start_line": 9,
+      "end_line": 9
+    },
+    "layer": "editorial",
+    "current_text": "蒙本將「是奴己」改為「自己」",
+    "raw_sha256": "be08d25e891a5660022b68c2b3ec6121d0c83f2cfbf5a790990c53bbe62f5fc6",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "明示编校、异文或来源说明",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "P00024",
+    "chapter": 36,
+    "title": "綉鴛鴦夢兆絳芸軒　識分定情悟梨香院",
+    "location": {
+      "start_offset": 2166,
+      "end_offset": 2191,
+      "start_line": 7,
+      "end_line": 7
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter36.tex",
+    "current_text": "（庚辰「是彼的」作「是被的」。有正「恨」作「愧」）",
+    "current_text_ref": null,
+    "kind": "editorial_inline",
+    "is_supplement": false,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "reason": "明确校按、异文或读音说明，移出正文。",
+    "canonical_replacement": ""
+  },
+  {
+    "id": "P00025",
+    "chapter": 36,
+    "title": "綉鴛鴦夢兆絳芸軒　識分定情悟梨香院",
+    "location": {
+      "start_offset": 2223,
+      "end_offset": 2235,
+      "start_line": 7,
+      "end_line": 7
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter36.tex",
+    "current_text": "（有正「此批」作「寫」）",
+    "current_text_ref": null,
+    "kind": "editorial_inline",
+    "is_supplement": false,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "reason": "明确校按、异文或读音说明，移出正文。",
+    "canonical_replacement": ""
+  },
+  {
+    "id": "P00026",
+    "chapter": 36,
+    "title": "綉鴛鴦夢兆絳芸軒　識分定情悟梨香院",
+    "location": {
+      "start_offset": 4076,
+      "end_offset": 4105,
+      "start_line": 17,
+      "end_line": 17
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter36.tex",
+    "current_text": "（有正、蒙批：「條」作「系」；有正：「何得畏」作「何得」）",
+    "current_text_ref": null,
+    "kind": "editorial_inline",
+    "is_supplement": false,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "reason": "明确校按、异文或读音说明，移出正文。",
+    "canonical_replacement": ""
+  },
+  {
+    "id": "P00027",
+    "chapter": 36,
+    "title": "綉鴛鴦夢兆絳芸軒　識分定情悟梨香院",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 35,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter36.tex",
+    "current_text": "蒙本回末批同。",
+    "current_text_ref": null,
+    "kind": "commentary_residue",
+    "is_supplement": false,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "reason": "独立校注残留，不是叙事。",
+    "canonical_replacement": ""
+  }
+]

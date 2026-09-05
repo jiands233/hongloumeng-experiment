@@ -1,0 +1,112 @@
+[
+  {
+    "id": "N070-1-0001",
+    "chapter": 70,
+    "title": "林黛玉重建桃花社　史湘雲偶填柳絮詞",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter70.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 77,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回前總評：空將佛事圖相報，以觸飄風散艷花。一片精神傳好句，題成讖語任呼嗟！",
+    "raw_sha256": "b6e513e29aa1814f73afca2f58daf5c5e6bb3eee42dc7eb5cc715dc9655ebc12",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N070-1-0002",
+    "chapter": 70,
+    "title": "林黛玉重建桃花社　史湘雲偶填柳絮詞",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter70.tex",
+    "location": {
+      "start_offset": 1316,
+      "end_offset": 1347,
+      "start_line": 11,
+      "end_line": 11
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：起時是後有名，此是先有名。",
+    "raw_sha256": "af2771047e385a3ec808421ad8b03de330186ab8876684ce2044ac999f5af98e",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N070-1-0003",
+    "chapter": 70,
+    "title": "林黛玉重建桃花社　史湘雲偶填柳絮詞",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter70.tex",
+    "location": {
+      "start_offset": 3963,
+      "end_offset": 3989,
+      "start_line": 81,
+      "end_line": 81
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：重建，故又寫香。",
+    "raw_sha256": "2eeb660a63755e08c7b0c2959fb3d99edcbefeb100624b9fa150a1ce7c135938",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N070-1-0004",
+    "chapter": 70,
+    "title": "林黛玉重建桃花社　史湘雲偶填柳絮詞",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter70.tex",
+    "location": {
+      "start_offset": 4165,
+      "end_offset": 4200,
+      "start_line": 81,
+      "end_line": 81
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：卻是先看沒作完的，總是又變一格也。",
+    "raw_sha256": "64f392a575ffde67c1290e0dd522af8fbfea392b5b926599f1ba648c3fb4a848",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N070-1-0005",
+    "chapter": 70,
+    "title": "林黛玉重建桃花社　史湘雲偶填柳絮詞",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter70.tex",
+    "location": {
+      "start_offset": 6852,
+      "end_offset": 7110,
+      "start_line": 174,
+      "end_line": 174
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回後總評：文於雪天聯詩篇，一樣機軸兩機筆墨。前文以聯句起，以燈謎結，以作畫為中間橫風吹斷，此文以填詞起，以風箏結，以寫字為中間橫風吹斷，是一樣機軸；前文敘聯句詳，此文敘填詞略，是兩樣筆墨，前文之敘作畫略，此文之敘寫字詳，是兩樣筆墨。前文敘燈謎，敘猜燈謎，此文敘風箏，敘放風箏，是一樣機軸；前文敘七律在聯句後，此文敘古歌在填詞前，是兩樣筆墨。前文敘黛玉替寶玉寫詩，此文敘寶玉替探春續詞，是一樣機軸，前文賦詩後有一首詩，此文填詞前有一首詞，是兩樣筆墨。噫！參伍之變，錯綜其數，此固難為粗心這道也！",
+    "raw_sha256": "172333923d6b1f7c7c615792823500e2811ac03e16b502054e03e9744cd58c45",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  }
+]

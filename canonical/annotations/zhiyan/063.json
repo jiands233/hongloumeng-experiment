@@ -1,0 +1,200 @@
+[
+  {
+    "id": "N063-1-0001",
+    "chapter": 63,
+    "title": "壽怡紅群芳開夜宴　死金丹獨艷理親喪",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter63.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 153,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回前總批：此書寫世人之富貴子弟易流邪鄙，其作長上者，有不能稽查之處，如寶玉之夜宴，始見之，文雅韻極，細思之，何事生端不基於此？更能寫賈芸之惡賴無恥亦世家之必有者，讀者當以「三人行必有我師」之說為念，方能領會作者之用意也。戒之！",
+    "raw_sha256": "0ef4439bf457f41efd327b9578d3e209a367efea9ef9cd70e7be90e3223a6dd9",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N063-1-0002",
+    "chapter": 63,
+    "title": "壽怡紅群芳開夜宴　死金丹獨艷理親喪",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter63.tex",
+    "location": {
+      "start_offset": 1854,
+      "end_offset": 1915,
+      "start_line": 7,
+      "end_line": 7
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：凡吃酒從未先如此者，此獨怡紅風俗。故王夫人雲「他行事總是與世人兩樣的」，知子莫過母也。",
+    "raw_sha256": "2b7eb646634ff1f8d3b6ddfb5eb04b296c62eae29a54c57d19e1b26fbdfaedc8",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N063-1-0003",
+    "chapter": 63,
+    "title": "壽怡紅群芳開夜宴　死金丹獨艷理親喪",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter63.tex",
+    "location": {
+      "start_offset": 2011,
+      "end_offset": 2056,
+      "start_line": 9,
+      "end_line": 9
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：餘此時亦太熱了，恨不得一冷。既冷時思此熱，果然一夢矣。",
+    "raw_sha256": "59e2f20afc0540efa89058b5d8ffde5bdd1b9bc6c306780815df2d53fc4ac960",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N063-1-0004",
+    "chapter": 63,
+    "title": "壽怡紅群芳開夜宴　死金丹獨艷理親喪",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter63.tex",
+    "location": {
+      "start_offset": 6560,
+      "end_offset": 6587,
+      "start_line": 91,
+      "end_line": 91
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：帖文亦蹈俗套之□。",
+    "raw_sha256": "47dc0efcace95452ddc0c0c9d9724f8a8594571494463941d1a78a77ebfa2996",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N063-1-0005",
+    "chapter": 63,
+    "title": "壽怡紅群芳開夜宴　死金丹獨艷理親喪",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter63.tex",
+    "location": {
+      "start_offset": 7951,
+      "end_offset": 7978,
+      "start_line": 95,
+      "end_line": 95
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：用芳官一罵，有趣。",
+    "raw_sha256": "dfbb912cbf57bf5119ce7b4d9f00204c7c64130ad27eeabb8312f64c1be43358",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N063-1-0006",
+    "chapter": 63,
+    "title": "壽怡紅群芳開夜宴　死金丹獨艷理親喪",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter63.tex",
+    "location": {
+      "start_offset": 9197,
+      "end_offset": 9235,
+      "start_line": 101,
+      "end_line": 101
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：大家千金不令作此戲，故寫不及探春等人也。",
+    "raw_sha256": "ab7fe0899eaa99a3a5ae17a1cbd9fd4806c87c6a0414d2f810254b7133111bd5",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N063-1-0007",
+    "chapter": 63,
+    "title": "壽怡紅群芳開夜宴　死金丹獨艷理親喪",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter63.tex",
+    "location": {
+      "start_offset": 10020,
+      "end_offset": 10055,
+      "start_line": 105,
+      "end_line": 105
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：原為放心而來，終是放心而去，妙甚！",
+    "raw_sha256": "fcf6dad856bfac6467c92f4e0c5f21b741091ad2cf4e1d16c2344c80f23ab211",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N063-1-0008",
+    "chapter": 63,
+    "title": "壽怡紅群芳開夜宴　死金丹獨艷理親喪",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter63.tex",
+    "location": {
+      "start_offset": 11176,
+      "end_offset": 11225,
+      "start_line": 111,
+      "end_line": 111
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰雙行夾批：妙極之「頑」，天下有是之頑亦有趣甚，此語餘亦親聞者，非編有也。",
+    "raw_sha256": "b3ebacd248d1687de045ff0f88be5dbebc063f31793e977fafebdcaefbec1e1a",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N063-1-0009",
+    "chapter": 63,
+    "title": "壽怡紅群芳開夜宴　死金丹獨艷理親喪",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter63.tex",
+    "location": {
+      "start_offset": 11810,
+      "end_offset": 11932,
+      "start_line": 114,
+      "end_line": 114
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回末總批：寶玉品高性雅，其終日花圍翠繞，用力維持其間，淫蕩之至，而能使旁人不覺，彼人不厭。賈蓉不分長幼微賤，縱意馳騁於中，惡習可恨。二人之行景天淵而終邪，其一濫也，所謂五十步之間而。持家有意於子弟者，揣此而照察之。可也！",
+    "raw_sha256": "80b2b353990b01da6b8c877808b3667b850554147c8e3f1f13981f32995b6e14",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  }
+]

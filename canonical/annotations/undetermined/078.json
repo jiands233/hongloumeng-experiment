@@ -1,0 +1,42 @@
+[
+  {
+    "id": "P00059",
+    "chapter": 78,
+    "title": "老學士閑徵姽嫿詞　痴公子杜撰芙蓉誄",
+    "location": {
+      "start_offset": 4375,
+      "end_offset": 4457,
+      "start_line": 17,
+      "end_line": 17
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter78.tex",
+    "current_text": "（不觉吃一大惊，才想起前日仿佛听见宝钗要搬出去，只因这两日工课忙就混忘了，这时看见如此，才知道果然搬出。怔了半天，因转念一想：“不如还是和袭人厮混，再与黛玉相伴。）",
+    "current_text_ref": null,
+    "kind": "undetermined_inline_variant",
+    "is_supplement": false,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "reason": "无来源的括号叙事，与周围重复；暂不归正文或脂批。",
+    "canonical_replacement": "〔待定:P00059〕"
+  },
+  {
+    "id": "P00060",
+    "chapter": 78,
+    "title": "老學士閑徵姽嫿詞　痴公子杜撰芙蓉誄",
+    "location": {
+      "start_offset": 4876,
+      "end_offset": 5002,
+      "start_line": 17,
+      "end_line": 17
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter78.tex",
+    "current_text": "（　只這兩三個人，只怕還是同死同歸。”想畢，仍往瀟湘館来。偏黛玉還未回來。正在不知所之，忽見王夫人的丫頭進來找他，說：“老爺回来了，找你呢。又得了好題目了。快走，快走。”寶玉聽了，只得跟了出来。到王夫人屋裡，他父親已出去了，王夫人命人送寶玉至書房裡。）",
+    "current_text_ref": null,
+    "kind": "undetermined_inline_variant",
+    "is_supplement": false,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "reason": "无来源的括号叙事，与周围重复；暂不归正文或脂批。",
+    "canonical_replacement": "〔待定:P00060〕"
+  }
+]

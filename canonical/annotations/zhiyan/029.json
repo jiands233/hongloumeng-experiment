@@ -1,0 +1,68 @@
+[
+  {
+    "id": "N029-1-0001",
+    "chapter": 29,
+    "title": "享福人福深還禱福　痴情女情重愈斟情",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter29.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 82,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰：清虛觀賈母鳳姐原意大適意大快樂，偏寫出多少不適意事來，此亦天然至情至理必有之事。",
+    "raw_sha256": "a8e2ca16be8c1b46fea3f729838ed676210e7508ea0304d4497eea1838367b0c",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N029-1-0002",
+    "chapter": 29,
+    "title": "享福人福深還禱福　痴情女情重愈斟情",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter29.tex",
+    "location": {
+      "start_offset": 82,
+      "end_offset": 129,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "zhiyan",
+    "current_text": "庚辰：二玉心事此回大書，是難了割，卻用太君一言以定，是道悉通部書之大旨。",
+    "raw_sha256": "d308b4d60e5d3583234b70d03e82184127de7721eb917fbda2a13031792b4468",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N029-1-0003",
+    "chapter": 29,
+    "title": "享福人福深還禱福　痴情女情重愈斟情",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter29.tex",
+    "location": {
+      "start_offset": 8701,
+      "end_offset": 8738,
+      "start_line": 56,
+      "end_line": 56
+    },
+    "layer": "zhiyan",
+    "current_text": "蒙回末總評：一片哭聲，總因情重；金玉無言，何可為證？",
+    "raw_sha256": "a8ee5ed7056e0297eed0cd18d66f709de9d99ba1b7e29fbe7053ef43d81b8761",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "medium",
+    "allowed_for_inference": "commentary_only_explicit_opt_in",
+    "is_supplement": false,
+    "reason": "保留本地传统批本标签；标签不证明批者身份或真伪",
+    "nested_editorial_ids": []
+  }
+]

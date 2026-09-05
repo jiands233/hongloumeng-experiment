@@ -1,0 +1,22 @@
+[
+  {
+    "id": "P00023",
+    "chapter": 34,
+    "title": "情中情因情感妹妹　錯裡錯以錯勸哥哥",
+    "location": {
+      "start_offset": 1967,
+      "end_offset": 1998,
+      "start_line": 9,
+      "end_line": 9
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter34.tex",
+    "current_text": "（校者註：蒙本此處無「也是情願的」，換作「況已是活過來 了」）",
+    "current_text_ref": null,
+    "kind": "editorial_inline",
+    "is_supplement": false,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "reason": "明确校按、异文或读音说明，移出正文。",
+    "canonical_replacement": ""
+  }
+]

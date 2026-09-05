@@ -1,0 +1,24 @@
+[
+  {
+    "id": "N007-1-0038",
+    "chapter": 7,
+    "title": "送宮花周瑞嘆英蓮　談肄業秦鐘結寶玉",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter07.tex",
+    "location": {
+      "start_offset": 3694,
+      "end_offset": 3712,
+      "start_line": 26,
+      "end_line": 26
+    },
+    "layer": "undetermined",
+    "current_text": "［即饅頭庵。］",
+    "raw_sha256": "0c2488d5b5ce823a6d37f7fcfbf1d92842f649b2699416864f8e860c439e448a",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

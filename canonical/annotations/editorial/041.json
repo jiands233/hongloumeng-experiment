@@ -1,0 +1,104 @@
+[
+  {
+    "id": "E041-0014-01",
+    "chapter": 41,
+    "title": "賈寶玉品茶攏翠庵　劉姥姥醉臥怡紅院",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter41.tex",
+    "location": {
+      "start_offset": 3847,
+      "end_offset": 3854,
+      "start_line": 13,
+      "end_line": 13
+    },
+    "layer": "editorial",
+    "current_text": "按：缺一字",
+    "raw_sha256": "09e20af64c21a459abf743a27c00658ef2f5af88993a308cbed6e4df3b07b698",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "从传统批注容器内再剥离编者按语；其补批或校释不冒充原批。"
+  },
+  {
+    "id": "E041-0014-02",
+    "chapter": 41,
+    "title": "賈寶玉品茶攏翠庵　劉姥姥醉臥怡紅院",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter41.tex",
+    "location": {
+      "start_offset": 3855,
+      "end_offset": 4105,
+      "start_line": 13,
+      "end_line": 19
+    },
+    "layer": "editorial",
+    "current_text": "〔现代或混合来源校释已隔离〕",
+    "raw_sha256": "a6fc80eab14d164941f1eef46d75358a21b93e66c2cbb7384492ad0ca8fd193a",
+    "excluded_raw_ref": "excluded_sources/version_audit/041-1-note-0014.txt",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "从传统批注容器内再剥离编者按语；其补批或校释不冒充原批。"
+  },
+  {
+    "id": "P00029",
+    "chapter": 41,
+    "title": "賈寶玉品茶攏翠庵　劉姥姥醉臥怡紅院",
+    "location": {
+      "start_offset": 3403,
+      "end_offset": 3409,
+      "start_line": 15,
+      "end_line": 15
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter41.tex",
+    "current_text": "（左分右瓜）",
+    "current_text_ref": null,
+    "kind": "glyph_description",
+    "is_supplement": false,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "reason": "字形描述移到元数据；前面的□保留，未补造字形。",
+    "canonical_replacement": ""
+  },
+  {
+    "id": "P00030",
+    "chapter": 41,
+    "title": "賈寶玉品茶攏翠庵　劉姥姥醉臥怡紅院",
+    "location": {
+      "start_offset": 3494,
+      "end_offset": 3500,
+      "start_line": 15,
+      "end_line": 15
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter41.tex",
+    "current_text": "（上喬下皿）",
+    "current_text_ref": null,
+    "kind": "glyph_description",
+    "is_supplement": false,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "reason": "字形描述移到元数据；前面的□保留，未补造字形。",
+    "canonical_replacement": ""
+  },
+  {
+    "id": "P00031",
+    "chapter": 41,
+    "title": "賈寶玉品茶攏翠庵　劉姥姥醉臥怡紅院",
+    "location": {
+      "start_offset": 3508,
+      "end_offset": 3514,
+      "start_line": 15,
+      "end_line": 15
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter41.tex",
+    "current_text": "（上喬下皿）",
+    "current_text_ref": null,
+    "kind": "glyph_description",
+    "is_supplement": false,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "reason": "字形描述移到元数据；前面的□保留，未补造字形。",
+    "canonical_replacement": ""
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "path": "excluded_sources/version_audit/041-1-note-0014.txt",
+    "sha256": "3f4402a955b12f30f5f8b810bae0d7a2f1a3fed73240d4e541f1b6f075564323",
+    "reason": "含程本文字、混合版本说明或现代具体重建，整条原样隔离",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter41.tex",
+    "allowed_for_inference": false
+  },
+  {
+    "path": "excluded_sources/version_audit/064-0-note-0001.txt",
+    "sha256": "5bae9dd26310255c4f0f04a1e1fb4edc4405bc0adfe7102fb623633c414b25b2",
+    "reason": "含程本文字、混合版本说明或现代具体重建，整条原样隔离",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter64.tex",
+    "allowed_for_inference": false
+  },
+  {
+    "path": "excluded_sources/version_audit/064-angle-001.txt",
+    "sha256": "5bae9dd26310255c4f0f04a1e1fb4edc4405bc0adfe7102fb623633c414b25b2",
+    "reason": "混合版本／现代重建按语",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter64.tex",
+    "allowed_for_inference": false
+  },
+  {
+    "path": "excluded_sources/version_audit/064-removed-0053.txt",
+    "sha256": "9aa50429c9980ec4fee3b416a48d63006a1c622ff7c6b3a4518f63f35cd3dfda",
+    "reason": "本地脚注明确引列藏、戚序此句，采用该引文替换程甲改句，并移除随后依44回扩补。未见影印，可靠性中；不得再把被删扩补当独立64回事实。",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter64.tex",
+    "allowed_for_inference": false
+  },
+  {
+    "path": "excluded_sources/version_audit/067-0-chengjia.tex",
+    "sha256": "1b292f959fc7308a3b88f4e45f356995b22ffda9cfd5f90699b37a075cd464e8",
+    "reason": "程甲第67回独立附录，后续推演与续写禁止读取",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter67.tex",
+    "allowed_for_inference": false
+  },
+  {
+    "path": "excluded_sources/version_audit/067-0-note-0001.txt",
+    "sha256": "89e7c8a4b6c0c99786d6721f4161a541ec60720baf7020060b0815aeb0092087",
+    "reason": "含程本文字、混合版本说明或现代具体重建，整条原样隔离",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter67.tex",
+    "allowed_for_inference": false
+  },
+  {
+    "path": "excluded_sources/version_audit/067-0-note-0002.txt",
+    "sha256": "0c503df5c82b9558c541b9551b96dcf18fbb1a3db208e89f43bccdcbf271674e",
+    "reason": "含程本文字、混合版本说明或现代具体重建，整条原样隔离",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter67.tex",
+    "allowed_for_inference": false
+  },
+  {
+    "path": "excluded_sources/version_audit/067-1-chengjia.tex",
+    "sha256": "1b292f959fc7308a3b88f4e45f356995b22ffda9cfd5f90699b37a075cd464e8",
+    "reason": "程甲第67回独立附录，后续推演与续写禁止读取",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter67.tex",
+    "allowed_for_inference": false
+  },
+  {
+    "path": "excluded_sources/version_audit/067-angle-001.txt",
+    "sha256": "89e7c8a4b6c0c99786d6721f4161a541ec60720baf7020060b0815aeb0092087",
+    "reason": "混合版本／现代重建按语",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter67.tex",
+    "allowed_for_inference": false
+  },
+  {
+    "path": "excluded_sources/version_audit/067-angle-002.txt",
+    "sha256": "0c503df5c82b9558c541b9551b96dcf18fbb1a3db208e89f43bccdcbf271674e",
+    "reason": "混合版本／现代重建按语",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter67.tex",
+    "allowed_for_inference": false
+  }
+]

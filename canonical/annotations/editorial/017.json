@@ -1,0 +1,66 @@
+[
+  {
+    "id": "N017-0-0001",
+    "chapter": 17,
+    "title": "會芳園試才題對額　賈寶玉機敏動諸賓",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter17.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 60,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "editorial",
+    "current_text": "按：己卯本與庚辰本第十七、十八回尚未分回。",
+    "raw_sha256": "735de3d8e2a8a4e6a750b7a52d88d4a9fcd514a62201dfff42824da0114125c7",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "E017-0081-01",
+    "chapter": 17,
+    "title": "會芳園試才題對額　賈寶玉機敏動諸賓",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter17.tex",
+    "location": {
+      "start_offset": 7876,
+      "end_offset": 7945,
+      "start_line": 68,
+      "end_line": 68
+    },
+    "layer": "editorial",
+    "current_text": "按：广，音眼，就山築成之房屋。韓愈《陪杜侍御游湘西兩寺》詩：「剖竹走泉源，開廊架崖广。」各本或作「庵」「庭」「廬」，皆非。今從庚辰本。",
+    "raw_sha256": "69553f8cbbcd7757273df9428f8136cb23846d243a1c88feca7cfb2bc5aeaf6a",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "从传统批注容器内再剥离编者按语；其补批或校释不冒充原批。"
+  },
+  {
+    "id": "A017-001",
+    "chapter": 17,
+    "title": "會芳園試才題對額　賈寶玉機敏動諸賓",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter17.tex",
+    "location": {
+      "start_offset": 51,
+      "end_offset": 74,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "editorial",
+    "current_text": "按：己卯本與庚辰本第十七、十八回尚未分回。",
+    "excluded_raw_ref": null,
+    "raw_sha256": "735de3d8e2a8a4e6a750b7a52d88d4a9fcd514a62201dfff42824da0114125c7",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  }
+]

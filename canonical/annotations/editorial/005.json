@@ -1,0 +1,45 @@
+[
+  {
+    "id": "N005-0-0001",
+    "chapter": 5,
+    "title": "開生面夢演紅樓夢　立新場情傳幻境情",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter05.tex",
+    "location": {
+      "start_offset": 3704,
+      "end_offset": 3729,
+      "start_line": 136,
+      "end_line": 136
+    },
+    "layer": "editorial",
+    "current_text": "按：亦寫作「虎兕相逢大夢歸」",
+    "raw_sha256": "ac5ebe431fa45f388bd58c38bf7a69bd0d8208fc7c763cc948fea0e57ae9a22b",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "A005-001",
+    "chapter": 5,
+    "title": "開生面夢演紅樓夢　立新場情傳幻境情",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter05.tex",
+    "location": {
+      "start_offset": 6276,
+      "end_offset": 6292,
+      "start_line": 138,
+      "end_line": 138
+    },
+    "layer": "editorial",
+    "current_text": "按：亦寫作「虎兕相逢大夢歸」",
+    "excluded_raw_ref": null,
+    "raw_sha256": "ac5ebe431fa45f388bd58c38bf7a69bd0d8208fc7c763cc948fea0e57ae9a22b",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  }
+]

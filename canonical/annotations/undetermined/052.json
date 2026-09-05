@@ -1,0 +1,44 @@
+[
+  {
+    "id": "N052-0-0001",
+    "chapter": 52,
+    "title": "俏平兒情掩蝦須鐲　勇晴雯病補雀金裘",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter52.tex",
+    "location": {
+      "start_offset": 3007,
+      "end_offset": 3021,
+      "start_line": 15,
+      "end_line": 15
+    },
+    "layer": "undetermined",
+    "current_text": "太極圖",
+    "raw_sha256": "858602239b2b69445c713a58ff9d4ed0e0e49eeaa0a5b10adb9f5c4521e86029",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "疑正文题名误置脚注，不能凭排版恢复",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "P00044",
+    "chapter": 52,
+    "title": "俏平兒情掩蝦須鐲　勇晴雯病補雀金裘",
+    "location": {
+      "start_offset": 3007,
+      "end_offset": 3021,
+      "start_line": 15,
+      "end_line": 15
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter52.tex",
+    "current_text": "\\footnote{太極圖}",
+    "current_text_ref": null,
+    "kind": "undetermined_misplaced_title",
+    "is_supplement": false,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "reason": "题名疑误置脚注，不能擅填回正文。",
+    "canonical_replacement": "〔待定:P00044〕"
+  }
+]

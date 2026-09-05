@@ -1,0 +1,88 @@
+[
+  {
+    "id": "N022-0-0001",
+    "chapter": 22,
+    "title": "聽曲文寶玉悟禪機　制燈迷賈政悲讖語",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter22.tex",
+    "location": {
+      "start_offset": 735,
+      "end_offset": 765,
+      "start_line": 7,
+      "end_line": 7
+    },
+    "layer": "editorial",
+    "current_text": "校者註：蒙本此處由「兄弟」改為「東西」",
+    "raw_sha256": "58bb221d4111da3c592bc3122b49303452890cdf4f4c35c43e4e77c87a184e1a",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N022-0-0002",
+    "chapter": 22,
+    "title": "聽曲文寶玉悟禪機　制燈迷賈政悲讖語",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter22.tex",
+    "location": {
+      "start_offset": 6565,
+      "end_offset": 6620,
+      "start_line": 129,
+      "end_line": 129
+    },
+    "layer": "editorial",
+    "current_text": "按：庚辰本、俄藏本二十二回正文到此為止，明顯有缺文；以下文字系以戚序本配入並以諸本匯校。",
+    "raw_sha256": "4ad13bd5458509f3da853ab6020fd7f99529e39c3cbe8cde223e3efca7bbb18f",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "A022-001",
+    "chapter": 22,
+    "title": "聽曲文寶玉悟禪機　制燈迷賈政悲讖語",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter22.tex",
+    "location": {
+      "start_offset": 1201,
+      "end_offset": 1222,
+      "start_line": 7,
+      "end_line": 7
+    },
+    "layer": "editorial",
+    "current_text": "校者註：蒙本此處由「兄弟」改為「東西」",
+    "excluded_raw_ref": null,
+    "raw_sha256": "58bb221d4111da3c592bc3122b49303452890cdf4f4c35c43e4e77c87a184e1a",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  },
+  {
+    "id": "A022-002",
+    "chapter": 22,
+    "title": "聽曲文寶玉悟禪機　制燈迷賈政悲讖語",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter22.tex",
+    "location": {
+      "start_offset": 12283,
+      "end_offset": 12329,
+      "start_line": 139,
+      "end_line": 139
+    },
+    "layer": "editorial",
+    "current_text": "按：庚辰本、俄藏本二十二回正文到此為止，明顯有缺文；以下文字系以戚序本配入並以諸本匯校。",
+    "excluded_raw_ref": null,
+    "raw_sha256": "4ad13bd5458509f3da853ab6020fd7f99529e39c3cbe8cde223e3efca7bbb18f",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  }
+]

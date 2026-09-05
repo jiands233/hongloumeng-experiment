@@ -1,0 +1,46 @@
+[
+  {
+    "id": "N057-1-0006",
+    "chapter": 57,
+    "title": "慧紫鵑情辭試忙玉　慈姨媽愛語慰痴顰",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter57.tex",
+    "location": {
+      "start_offset": 11392,
+      "end_offset": 11457,
+      "start_line": 47,
+      "end_line": 47
+    },
+    "layer": "undetermined",
+    "current_text": "寫寶玉黛玉呼吸相關，不在字裡行間，全從無字句處，運鬼斧神工之筆，攝魄追魂，令我哭一回、嘆一回，渾身都是呆氣。",
+    "raw_sha256": "1034c986a5335157ca89f6495eac921c534de6334f86afff4a7ccb64e366163f",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N057-1-0007",
+    "chapter": 57,
+    "title": "慧紫鵑情辭試忙玉　慈姨媽愛語慰痴顰",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter57.tex",
+    "location": {
+      "start_offset": 11457,
+      "end_offset": 11534,
+      "start_line": 47,
+      "end_line": 47
+    },
+    "layer": "undetermined",
+    "current_text": "寫寶釵岫煙相敘一段，真有英雄失路之悲，真有知己相逢之樂。時方午夜，燈影幢幢，讀書至此，掩捲出戶，見星月依稀，寒風微起，默立階除良久。",
+    "raw_sha256": "8e34ce5b5732d902534d467d7c604ca0c04003e4b6452395dfb60c936a0885bd",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

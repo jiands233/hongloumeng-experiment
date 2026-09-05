@@ -1,0 +1,24 @@
+[
+  {
+    "id": "N014-1-0068",
+    "chapter": 14,
+    "title": "林如海捐館揚州城　賈寶玉路謁北靜王",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter14.tex",
+    "location": {
+      "start_offset": 7810,
+      "end_offset": 7842,
+      "start_line": 50,
+      "end_line": 50
+    },
+    "layer": "undetermined",
+    "current_text": "寫秦死之盛，賈珍之奢，實是卻寫得一個鳳姐。",
+    "raw_sha256": "ded272be23e6516060c6c9a1a265a8865ea02617e443a5a3325a9f69424e8804",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

@@ -1,0 +1,45 @@
+[
+  {
+    "id": "N003-0-0001",
+    "chapter": 3,
+    "title": "金陵城起復賈雨村　榮國府收養林黛玉",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter03.tex",
+    "location": {
+      "start_offset": 6764,
+      "end_offset": 6806,
+      "start_line": 58,
+      "end_line": 58
+    },
+    "layer": "editorial",
+    "current_text": "按：此句卞藏本作：「兩彎似蹙非蹙罥煙眉，一雙似飃非飃含露目」。",
+    "raw_sha256": "1844a8ca55e4febc4ecfab1a6d4cca1b25c801a031e1c2dd0d562059519d8e06",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "A003-001",
+    "chapter": 3,
+    "title": "金陵城起復賈雨村　榮國府收養林黛玉",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter03.tex",
+    "location": {
+      "start_offset": 12122,
+      "end_offset": 12155,
+      "start_line": 65,
+      "end_line": 65
+    },
+    "layer": "editorial",
+    "current_text": "按：此句卞藏本作：「兩彎似蹙非蹙罥煙眉，一雙似飃非飃含露目」。",
+    "excluded_raw_ref": null,
+    "raw_sha256": "1844a8ca55e4febc4ecfab1a6d4cca1b25c801a031e1c2dd0d562059519d8e06",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  }
+]

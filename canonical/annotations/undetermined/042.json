@@ -1,0 +1,90 @@
+[
+  {
+    "id": "N042-1-0006",
+    "chapter": 42,
+    "title": "蘅蕪君蘭言解疑語　瀟湘子雅謬補餘香",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter42.tex",
+    "location": {
+      "start_offset": 1273,
+      "end_offset": 1351,
+      "start_line": 9,
+      "end_line": 9
+    },
+    "layer": "undetermined",
+    "current_text": " 該批：「應了這話就好」，批書人焉能不心傷？獄廟相逢之日始知「遇難成祥，逢凶化吉」實伏線於千里，哀哉傷哉！此後文字不忍卒讀。辛卯冬日。",
+    "raw_sha256": "970513932407e74d3722e264ac72d444b5189a96bb3529697c73f2be2b6c74a9",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N042-1-0014",
+    "chapter": 42,
+    "title": "蘅蕪君蘭言解疑語　瀟湘子雅謬補餘香",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter42.tex",
+    "location": {
+      "start_offset": 4340,
+      "end_offset": 4363,
+      "start_line": 23,
+      "end_line": 23
+    },
+    "layer": "undetermined",
+    "current_text": "該批：「也算」二字太謙。",
+    "raw_sha256": "cff6b8e1cfbcbe1d8e285b427b61cd6135272f10b3c0db90b4302fbef78977eb",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N042-1-0016",
+    "chapter": 42,
+    "title": "蘅蕪君蘭言解疑語　瀟湘子雅謬補餘香",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter42.tex",
+    "location": {
+      "start_offset": 4582,
+      "end_offset": 4605,
+      "start_line": 23,
+      "end_line": 23
+    },
+    "layer": "undetermined",
+    "current_text": "該批：男人分內究是何事？",
+    "raw_sha256": "24b60040734ecb151327f4a970f2845b20e6bfbbb1cd5ffaab225b2097e80bf6",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N042-1-0018",
+    "chapter": 42,
+    "title": "蘅蕪君蘭言解疑語　瀟湘子雅謬補餘香",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter42.tex",
+    "location": {
+      "start_offset": 4663,
+      "end_offset": 4691,
+      "start_line": 23,
+      "end_line": 23
+    },
+    "layer": "undetermined",
+    "current_text": "該批：讀書明理治民輔國者能有幾人？",
+    "raw_sha256": "8b11aa8915871144507b18d968795bd4b92beba35fb303c747c68edbb974a44e",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

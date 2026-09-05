@@ -1,0 +1,22 @@
+[
+  {
+    "id": "P00045",
+    "chapter": 53,
+    "title": "寧國府除夕祭宗祠　榮國府元宵開夜宴",
+    "location": {
+      "start_offset": 262,
+      "end_offset": 266,
+      "start_line": 3,
+      "end_line": 3
+    },
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter53.tex",
+    "current_text": "（口害）",
+    "current_text_ref": null,
+    "kind": "undetermined_glyph",
+    "is_supplement": false,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "reason": "疑拆字表示，未确定实际字形；不擅补字。",
+    "canonical_replacement": "〔待定:P00045〕"
+  }
+]

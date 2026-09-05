@@ -1,0 +1,24 @@
+[
+  {
+    "id": "N064-1-0002",
+    "chapter": 64,
+    "title": "幽淑女悲題五美吟　浪蕩子情遺九龍珮",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter64.tex",
+    "location": {
+      "start_offset": 153,
+      "end_offset": 216,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "undetermined",
+    "current_text": "題曰：深閨有奇女，絕世空珠翠。情痴苦累多，未習顏憔悴。哀哉千秋魂，薄命無二致。 當松 間人，好醜非其類。",
+    "raw_sha256": "642b3ca52442a7d95d6908bcbd5777f8d2d854f06d6811f784122e12f7028b3c",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

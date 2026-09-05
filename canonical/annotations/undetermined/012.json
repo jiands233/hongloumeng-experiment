@@ -1,0 +1,46 @@
+[
+  {
+    "id": "N012-1-0012",
+    "chapter": 12,
+    "title": "王熙鳳毒設相思局　賈天祥正照風月鑒",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter12.tex",
+    "location": {
+      "start_offset": 837,
+      "end_offset": 858,
+      "start_line": 7,
+      "end_line": 7
+    },
+    "layer": "undetermined",
+    "current_text": "［寫呆人痴性活現。］",
+    "raw_sha256": "35a46856009850ba39ba20862b4eb409d1ca0ef8eeb13f4b113d0efa6b883be0",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N012-1-0024",
+    "chapter": 12,
+    "title": "王熙鳳毒設相思局　賈天祥正照風月鑒",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter12.tex",
+    "location": {
+      "start_offset": 2053,
+      "end_offset": 2080,
+      "start_line": 11,
+      "end_line": 11
+    },
+    "layer": "undetermined",
+    "current_text": "［教令何嘗不好，孽種故此不同。］",
+    "raw_sha256": "ba63a74b573a73d0efb926d1b2984c85bda2d603805859412f251c5397a30bc8",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "N010-1-0022",
+    "chapter": 10,
+    "title": "金寡婦貪利權受辱　張太醫論病細窮源",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter10.tex",
+    "location": {
+      "start_offset": 2600,
+      "end_offset": 2629,
+      "start_line": 13,
+      "end_line": 13
+    },
+    "layer": "undetermined",
+    "current_text": "該批：吾為趨炎附勢，仰人鼻息者一嘆。",
+    "raw_sha256": "81eb290f2d0a99a0ae01aac732860b8f2f7e9d08c543f248447f0254307151e0",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "low",
+    "allowed_for_inference": false,
+    "is_supplement": "unknown",
+    "reason": "脚注层明确，批者和年代来源不足；不擅归为脂批",
+    "nested_editorial_ids": []
+  }
+]

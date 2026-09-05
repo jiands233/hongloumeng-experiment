@@ -1,0 +1,131 @@
+[
+  {
+    "id": "N019-0-0001",
+    "chapter": 19,
+    "title": "情切切良宵花解語　意綿綿靜日玉生香",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter19.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 47,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "editorial",
+    "current_text": "庚辰本此回無題。",
+    "raw_sha256": "58763317700cfa27e79351356022647f090a27e799bb103e4bde008e373ff924",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N019-0-0002",
+    "chapter": 19,
+    "title": "情切切良宵花解語　意綿綿靜日玉生香",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter19.tex",
+    "location": {
+      "start_offset": 733,
+      "end_offset": 752,
+      "start_line": 9,
+      "end_line": 9
+    },
+    "layer": "editorial",
+    "current_text": "按：此處有缺文。",
+    "raw_sha256": "fa764e7e1f403f7bf5566d1dd044dcd452a95a830501a9f45f37cecd6614729b",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "N019-0-0003",
+    "chapter": 19,
+    "title": "情切切良宵花解語　意綿綿靜日玉生香",
+    "source": "Dream-of-Red-Chamber-master/紅樓夢庚辰本/chapters/chapter19.tex",
+    "location": {
+      "start_offset": 782,
+      "end_offset": 801,
+      "start_line": 9,
+      "end_line": 9
+    },
+    "layer": "editorial",
+    "current_text": "按：此處有缺文。",
+    "raw_sha256": "fa764e7e1f403f7bf5566d1dd044dcd452a95a830501a9f45f37cecd6614729b",
+    "excluded_raw_ref": null,
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "无批名义版脚注，按编校层处理",
+    "nested_editorial_ids": []
+  },
+  {
+    "id": "A019-001",
+    "chapter": 19,
+    "title": "情切切良宵花解語　意綿綿靜日玉生香",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter19.tex",
+    "location": {
+      "start_offset": 28,
+      "end_offset": 38,
+      "start_line": 2,
+      "end_line": 2
+    },
+    "layer": "editorial",
+    "current_text": "庚辰本此回無題。",
+    "excluded_raw_ref": null,
+    "raw_sha256": "58763317700cfa27e79351356022647f090a27e799bb103e4bde008e373ff924",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  },
+  {
+    "id": "A019-002",
+    "chapter": 19,
+    "title": "情切切良宵花解語　意綿綿靜日玉生香",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter19.tex",
+    "location": {
+      "start_offset": 1061,
+      "end_offset": 1071,
+      "start_line": 11,
+      "end_line": 11
+    },
+    "layer": "editorial",
+    "current_text": "按：此處有缺文。",
+    "excluded_raw_ref": null,
+    "raw_sha256": "fa764e7e1f403f7bf5566d1dd044dcd452a95a830501a9f45f37cecd6614729b",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  },
+  {
+    "id": "A019-003",
+    "chapter": 19,
+    "title": "情切切良宵花解語　意綿綿靜日玉生香",
+    "source": "Dream-of-Red-Chamber-master/脂硯齋重評石頭記/chapters/chapter19.tex",
+    "location": {
+      "start_offset": 1101,
+      "end_offset": 1111,
+      "start_line": 11,
+      "end_line": 11
+    },
+    "layer": "editorial",
+    "current_text": "按：此處有缺文。",
+    "excluded_raw_ref": null,
+    "raw_sha256": "fa764e7e1f403f7bf5566d1dd044dcd452a95a830501a9f45f37cecd6614729b",
+    "in_selected_chapter_span": true,
+    "confidence": "high",
+    "allowed_for_inference": false,
+    "is_supplement": false,
+    "reason": "尖括号为本地编者约定的按语标记；其中来源说法不当成正文"
+  }
+]
