@@ -1,0 +1,406 @@
+{
+  "scope": "C_编校版本元数据，不是文学证据；D_不确定原文未读取。",
+  "global_limit": "G001上游汇校未逐字定位，不能声称纯净手稿。",
+  "records": {
+    "P00001": {
+      "id": "P00001",
+      "chapter": 1,
+      "kind": "lacuna",
+      "reason": "按：各脂本缺「從此空空道人」六字。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00002": {
+      "id": "P00002",
+      "chapter": 1,
+      "kind": "lacuna",
+      "reason": "按：以下缺去。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00003": {
+      "id": "P00003",
+      "chapter": 3,
+      "kind": "editorial_footnote",
+      "reason": "脚注已另层保存；异文并不自动替换正文。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00004": {
+      "id": "P00004",
+      "chapter": 3,
+      "kind": "editorial_selection",
+      "reason": "眉目句有卞藏异文；未改现行句，精确用字须附异文限制。",
+      "is_supplement": false,
+      "confidence": "medium"
+    },
+    "P00006": {
+      "id": "P00006",
+      "chapter": 5,
+      "kind": "editorial_selection",
+      "reason": "本地另记虎兕；保留虎兔，不按流行引文改动。",
+      "is_supplement": false,
+      "confidence": "medium"
+    },
+    "P00008": {
+      "id": "P00008",
+      "chapter": 9,
+      "kind": "editorial_footnote",
+      "reason": "脚注已另层保存；异文并不自动替换正文。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00011": {
+      "id": "P00011",
+      "chapter": 17,
+      "kind": "editorial_chapter_boundary_or_title",
+      "reason": "17/18原未分回；19/80按语称庚辰无题。现行题目／分回仅为定位，不作独立谶语证据。",
+      "is_supplement": true,
+      "confidence": "medium"
+    },
+    "P00012": {
+      "id": "P00012",
+      "chapter": 18,
+      "kind": "editorial_chapter_boundary_or_title",
+      "reason": "17/18原未分回；19/80按语称庚辰无题。现行题目／分回仅为定位，不作独立谶语证据。",
+      "is_supplement": true,
+      "confidence": "medium"
+    },
+    "P00014": {
+      "id": "P00014",
+      "chapter": 19,
+      "kind": "lacuna",
+      "reason": "按：此處有缺文。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00015": {
+      "id": "P00015",
+      "chapter": 19,
+      "kind": "lacuna",
+      "reason": "按：此處有缺文。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00016": {
+      "id": "P00016",
+      "chapter": 19,
+      "kind": "editorial_chapter_boundary_or_title",
+      "reason": "17/18原未分回；19/80按语称庚辰无题。现行题目／分回仅为定位，不作独立谶语证据。",
+      "is_supplement": true,
+      "confidence": "medium"
+    },
+    "P00021": {
+      "id": "P00021",
+      "chapter": 22,
+      "kind": "supplement_boundary",
+      "reason": "从此后以戚序配入、诸本汇校，原底本在此不全。",
+      "is_supplement": true,
+      "confidence": "medium"
+    },
+    "P00022": {
+      "id": "P00022",
+      "chapter": 22,
+      "kind": "supplement_span",
+      "reason": "戚序配入并经诸本汇校；以本地按语为限。",
+      "is_supplement": true,
+      "confidence": "medium"
+    },
+    "P00023": {
+      "id": "P00023",
+      "chapter": 34,
+      "kind": "editorial_inline",
+      "reason": "明确校按、异文或读音说明，移出正文。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00024": {
+      "id": "P00024",
+      "chapter": 36,
+      "kind": "editorial_inline",
+      "reason": "明确校按、异文或读音说明，移出正文。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00025": {
+      "id": "P00025",
+      "chapter": 36,
+      "kind": "editorial_inline",
+      "reason": "明确校按、异文或读音说明，移出正文。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00026": {
+      "id": "P00026",
+      "chapter": 36,
+      "kind": "editorial_inline",
+      "reason": "明确校按、异文或读音说明，移出正文。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00027": {
+      "id": "P00027",
+      "chapter": 36,
+      "kind": "commentary_residue",
+      "reason": "独立校注残留，不是叙事。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00028": {
+      "id": "P00028",
+      "chapter": 40,
+      "kind": "adjacent_duplicate",
+      "reason": "连续同字重出，保留一份；疑录入／整理复写，不能证明发生于哪一手稿。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00029": {
+      "id": "P00029",
+      "chapter": 41,
+      "kind": "glyph_description",
+      "reason": "字形描述移到元数据；前面的□保留，未补造字形。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00030": {
+      "id": "P00030",
+      "chapter": 41,
+      "kind": "glyph_description",
+      "reason": "字形描述移到元数据；前面的□保留，未补造字形。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00031": {
+      "id": "P00031",
+      "chapter": 41,
+      "kind": "glyph_description",
+      "reason": "字形描述移到元数据；前面的□保留，未补造字形。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00032": {
+      "id": "P00032",
+      "chapter": 41,
+      "kind": "missing_glyph",
+      "reason": "现有电子文本缺字；不猜字、不按记忆补字。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00033": {
+      "id": "P00033",
+      "chapter": 41,
+      "kind": "missing_glyph",
+      "reason": "现有电子文本缺字；不猜字、不按记忆补字。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00034": {
+      "id": "P00034",
+      "chapter": 41,
+      "kind": "missing_glyph",
+      "reason": "现有电子文本缺字；不猜字、不按记忆补字。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00037": {
+      "id": "P00037",
+      "chapter": 49,
+      "kind": "adjacent_duplicate",
+      "reason": "连续同字重出，保留一份；疑录入／整理复写，不能证明发生于哪一手稿。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00039": {
+      "id": "P00039",
+      "chapter": 49,
+      "kind": "editorial_selection",
+      "reason": "校按明示采用戚、蒙、列异文而异于庚辰；保留现行汇校选择。",
+      "is_supplement": true,
+      "confidence": "medium"
+    },
+    "P00040": {
+      "id": "P00040",
+      "chapter": 49,
+      "kind": "editorial_selection",
+      "reason": "编按明示依庚辰择字，其他本异文不混入正文。",
+      "is_supplement": true,
+      "confidence": "medium"
+    },
+    "P00041": {
+      "id": "P00041",
+      "chapter": 50,
+      "kind": "undetermined_commentary_overlap",
+      "reason": "第3行明示此段批语混入正文，却无严格起讫。保守隔离整个原段；不宣称整段都是脂批，未裁定其中凤姐对话的层次。",
+      "is_supplement": false,
+      "confidence": "low"
+    },
+    "P00042": {
+      "id": "P00042",
+      "chapter": 50,
+      "kind": "suspect_transcription",
+      "reason": "词句疑损，无本地可靠替代；原样保留，不依其精确字面推理。",
+      "is_supplement": false,
+      "confidence": "low"
+    },
+    "P00043": {
+      "id": "P00043",
+      "chapter": 50,
+      "kind": "suspect_transcription",
+      "reason": "词句疑损，无本地可靠替代；原样保留，不依其精确字面推理。",
+      "is_supplement": false,
+      "confidence": "low"
+    },
+    "P00044": {
+      "id": "P00044",
+      "chapter": 52,
+      "kind": "undetermined_misplaced_title",
+      "reason": "题名疑误置脚注，不能擅填回正文。",
+      "is_supplement": false,
+      "confidence": "low"
+    },
+    "P00045": {
+      "id": "P00045",
+      "chapter": 53,
+      "kind": "undetermined_glyph",
+      "reason": "疑拆字表示，未确定实际字形；不擅补字。",
+      "is_supplement": false,
+      "confidence": "low"
+    },
+    "P00046": {
+      "id": "P00046",
+      "chapter": 53,
+      "kind": "adjacent_duplicate",
+      "reason": "连续同字重出，保留一份；疑录入／整理复写，不能证明发生于哪一手稿。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00047": {
+      "id": "P00047",
+      "chapter": 58,
+      "kind": "missing_glyph",
+      "reason": "现有电子文本缺字；不猜字、不按记忆补字。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00048": {
+      "id": "P00048",
+      "chapter": 62,
+      "kind": "recovered_chapter62",
+      "reason": "从现有错接文件抽取独立本回；余文逐字符等于61回正文。错误已在zip内；上游环节无法追溯。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00049": {
+      "id": "P00049",
+      "chapter": 62,
+      "kind": "discard_duplicate61_prefix",
+      "reason": "重复的61回前段，非62回叙事",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00050": {
+      "id": "P00050",
+      "chapter": 62,
+      "kind": "discard_duplicate61_suffix",
+      "reason": "重复的61回后段，非62回叙事",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00051": {
+      "id": "P00051",
+      "chapter": 62,
+      "kind": "missing_glyph",
+      "reason": "现有电子文本缺字；不猜字、不按记忆补字。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00052": {
+      "id": "P00052",
+      "chapter": 63,
+      "kind": "missing_glyph",
+      "reason": "现有电子文本缺字；不猜字、不按记忆补字。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00053": {
+      "id": "P00053",
+      "chapter": 64,
+      "kind": "whole_chapter_supplement",
+      "reason": "64据README称主要俄藏；67据回内明示采用列藏（与README戚序说冲突）。仅为本地二手来源声明，未核手稿。",
+      "is_supplement": true,
+      "confidence": "medium"
+    },
+    "P00054": {
+      "id": "P00054",
+      "chapter": 64,
+      "kind": "restore_locally_quoted_variant",
+      "reason": "本地脚注明确引列藏、戚序此句，采用该引文替换程甲改句，并移除随后依44回扩补。未见影印，可靠性中；不得再把被删扩补当独立64回事实。",
+      "is_supplement": true,
+      "confidence": "medium"
+    },
+    "P00055": {
+      "id": "P00055",
+      "chapter": 67,
+      "kind": "whole_chapter_supplement",
+      "reason": "64据README称主要俄藏；67据回内明示采用列藏（与README戚序说冲突）。仅为本地二手来源声明，未核手稿。",
+      "is_supplement": true,
+      "confidence": "medium"
+    },
+    "P00056": {
+      "id": "P00056",
+      "chapter": 75,
+      "kind": "lacuna",
+      "reason": "保留明示缺文位置，篇幅未知。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00057": {
+      "id": "P00057",
+      "chapter": 75,
+      "kind": "lacuna",
+      "reason": "保留明示缺文位置，篇幅未知。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00059": {
+      "id": "P00059",
+      "chapter": 78,
+      "kind": "undetermined_inline_variant",
+      "reason": "无来源的括号叙事，与周围重复；暂不归正文或脂批。",
+      "is_supplement": false,
+      "confidence": "low"
+    },
+    "P00060": {
+      "id": "P00060",
+      "chapter": 78,
+      "kind": "undetermined_inline_variant",
+      "reason": "无来源的括号叙事，与周围重复；暂不归正文或脂批。",
+      "is_supplement": false,
+      "confidence": "low"
+    },
+    "P00061": {
+      "id": "P00061",
+      "chapter": 78,
+      "kind": "markup_residue",
+      "reason": "删除残留HTML片段，不补文字。",
+      "is_supplement": false,
+      "confidence": "high"
+    },
+    "P00062": {
+      "id": "P00062",
+      "chapter": 79,
+      "kind": "lacuna_suspected",
+      "reason": "按：句義不解，疑有缺文。",
+      "is_supplement": false,
+      "confidence": "low"
+    },
+    "P00064": {
+      "id": "P00064",
+      "chapter": 80,
+      "kind": "editorial_chapter_boundary_or_title",
+      "reason": "17/18原未分回；19/80按语称庚辰无题。现行题目／分回仅为定位，不作独立谶语证据。",
+      "is_supplement": true,
+      "confidence": "medium"
+    }
+  }
+}

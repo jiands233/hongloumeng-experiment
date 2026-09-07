@@ -1,0 +1,1194 @@
+[
+  {
+    "key": "C055-FENG-HEALTH",
+    "chapter": 55,
+    "layer": "正文",
+    "types": [
+      "叙述者预示",
+      "疾病"
+    ],
+    "characters": [
+      "王熙凤"
+    ],
+    "quote": "平生爭強鬥志，心力使虧",
+    "note_id": null,
+    "context": "叙述小产后的失养并预叙八九月暂愈。",
+    "direct_meaning": "逞强与操劳损伤身体。",
+    "future_direction": "管理责任和身体承受力之间的冲突仍约束后续行动。",
+    "possible_directions": [
+      "疾病限制理家",
+      "病情缓解但旧习继续"
+    ],
+    "alternatives": [
+      "本回已写暂愈，不证明必将死于同病"
+    ],
+    "strength": "B",
+    "confidence": 88,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-01",
+      "T-05"
+    ],
+    "related_keys": [],
+    "status_at_80": "partially_realized",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C055-TANCHUN-BIRTH",
+    "chapter": 55,
+    "layer": "正文",
+    "types": [
+      "婚姻与继承问题",
+      "人物性格形成的未来约束"
+    ],
+    "characters": [
+      "贾探春",
+      "王熙凤",
+      "赵姨娘"
+    ],
+    "quote": "先要打聽姑娘是正出是庶出，多有為庶出不要的",
+    "note_id": null,
+    "context": "凤姐向平儿评探春的婚配处境。",
+    "direct_meaning": "嫡庶会影响说亲人的选择。",
+    "future_direction": "才干不自动消除婚配中出身限制。",
+    "possible_directions": [
+      "婚配面临嫡庶歧视",
+      "也有不拘嫡庶的选择"
+    ],
+    "alternatives": [
+      "这是凤姐对婚俗的评论，不是指定探春夫家"
+    ],
+    "strength": "B",
+    "confidence": 90,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-05",
+      "T-08"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C055-ECON",
+    "chapter": 55,
+    "layer": "正文",
+    "types": [
+      "贾府经济危机",
+      "叙述内风险判断"
+    ],
+    "characters": [
+      "王熙凤",
+      "贾母",
+      "王夫人"
+    ],
+    "quote": "家裡出去的多，進來的少",
+    "note_id": null,
+    "context": "凤姐讨论现有排场和进项。",
+    "direct_meaning": "支出高于收入，旧规模难以缩减。",
+    "future_direction": "既定花费与产入下降会继续挤压家计。",
+    "possible_directions": [
+      "节省压力扩大",
+      "维持体面增加亏耗"
+    ],
+    "alternatives": [
+      "角色未提供完整账本，不能计算精确破产日"
+    ],
+    "strength": "B",
+    "confidence": 96,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-01",
+      "T-07",
+      "T-12"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C055-WEDDING-BUDGET",
+    "chapter": 55,
+    "layer": "正文",
+    "types": [
+      "婚姻与家族利益",
+      "尚未完成人物关系"
+    ],
+    "characters": [
+      "贾宝玉",
+      "林黛玉",
+      "贾母",
+      "王熙凤"
+    ],
+    "quote": "寶玉和林妹妹他兩個一娶一嫁，可以使不著官中的錢",
+    "note_id": null,
+    "context": "凤姐估计家中未来婚丧费用。",
+    "direct_meaning": "她认为宝黛各自婚嫁可由贾母私财负担。",
+    "future_direction": "贾母财力与婚嫁安排有关，安排尚未落实。",
+    "possible_directions": [
+      "私财承担婚嫁",
+      "未来支配权需明确"
+    ],
+    "alternatives": [
+      "一娶一嫁不等于明确宣布二人相配",
+      "只是费用估计"
+    ],
+    "strength": "C",
+    "confidence": 85,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-03",
+      "T-07",
+      "T-08"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C055-EXTRA-SHOCK",
+    "chapter": 55,
+    "layer": "正文",
+    "types": [
+      "经济危机",
+      "未解决冲突"
+    ],
+    "characters": [
+      "王熙凤",
+      "贾母",
+      "贾探春"
+    ],
+    "quote": "只怕如今平空又生出一兩件事來，可就了不得了",
+    "note_id": null,
+    "context": "婚丧预算看似可勉强承担后，凤姐转忧预算外事件。",
+    "direct_meaning": "家计缺少应付额外支出的余地。",
+    "future_direction": "突发支出可使原有收支安排失效。",
+    "possible_directions": [
+      "财务余裕不足",
+      "必须削减或另筹"
+    ],
+    "alternatives": [
+      "未指定突发事件的种类，不能直接写成某次政治处罚"
+    ],
+    "strength": "B",
+    "confidence": 91,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-01",
+      "T-07"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C055-RESENTMENT",
+    "chapter": 55,
+    "layer": "正文",
+    "types": [
+      "家族内部结构性矛盾"
+    ],
+    "characters": [
+      "王熙凤",
+      "平儿",
+      "贾探春"
+    ],
+    "quote": "人恨極了，暗地裡笑裡藏刀",
+    "note_id": null,
+    "context": "凤姐承认管家树怨，愿借探春理事抽身。",
+    "direct_meaning": "强力理财积累隐蔽怨恨。",
+    "future_direction": "权术需不断防范内部反噬。",
+    "possible_directions": [
+      "权力受下人抵触",
+      "与探春合作缓和怨恨"
+    ],
+    "alternatives": [
+      "是自我风险判断，不能指定谁将报复"
+    ],
+    "strength": "B",
+    "confidence": 87,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-01",
+      "T-05"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C055-COMMENT-POWER",
+    "chapter": 55,
+    "layer": "脂批",
+    "types": [
+      "脂批中的未来约束"
+    ],
+    "characters": [
+      "王熙凤",
+      "贾探春"
+    ],
+    "quote": "猶不免騎虎難下，為移禍東兵之計",
+    "note_id": "N055-1-0006",
+    "context": "蒙回末批由凤探理家难处推论维持家务之难。",
+    "direct_meaning": "评论强调个人才力不足以轻易调和结构冲突。",
+    "future_direction": "为家族治理不能全靠一人提供辅助限制。",
+    "possible_directions": [
+      "治理能力与环境相互制约"
+    ],
+    "alternatives": [
+      "是评论性的议论，非正文预告一场兵祸"
+    ],
+    "strength": "C",
+    "confidence": 80,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-01"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C056-REFORM",
+    "chapter": 56,
+    "layer": "正文",
+    "types": [
+      "经济危机",
+      "反证"
+    ],
+    "characters": [
+      "贾探春",
+      "薛宝钗",
+      "平儿"
+    ],
+    "quote": "一年通共算了，也省的下四百兩銀子",
+    "note_id": null,
+    "context": "平儿估计园圃和供给改革效果。",
+    "direct_meaning": "府内仍存在节省和调整办法。",
+    "future_direction": "衰败压力不等于一切治理均已失败。",
+    "possible_directions": [
+      "节用暂缓困难",
+      "改革仍受外部进项限制"
+    ],
+    "alternatives": [
+      "四百两是人物估值，不能认定已实收"
+    ],
+    "strength": "C",
+    "confidence": 88,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-01",
+      "T-07"
+    ],
+    "related_keys": [],
+    "status_at_80": "partially_realized",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C056-REFORM-RESIST",
+    "chapter": 56,
+    "layer": "正文",
+    "types": [
+      "家内结构矛盾"
+    ],
+    "characters": [
+      "贾探春",
+      "薛宝钗",
+      "管事婆子"
+    ],
+    "quote": "如今我們興出這事來派了你們，已是跨過他們的頭去了",
+    "note_id": null,
+    "context": "探春说明绕过外账房会触犯旧有权力。",
+    "direct_meaning": "改革改变了既得利益和管辖关系。",
+    "future_direction": "节用方案可能遭旧权力掣肘。",
+    "possible_directions": [
+      "账房报复风险",
+      "另定归账方式避害"
+    ],
+    "alternatives": [
+      "方案当场已有应对，并非阻力必然战胜改革"
+    ],
+    "strength": "B",
+    "confidence": 87,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-01",
+      "T-07"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C056-ZHEN-DREAM",
+    "chapter": 56,
+    "layer": "正文",
+    "types": [
+      "梦境",
+      "真假结构"
+    ],
+    "characters": [
+      "贾宝玉",
+      "甄宝玉",
+      "袭人"
+    ],
+    "quote": "一個寶玉就走，一個寶玉便忙叫：「寶玉快回來，快回來！」",
+    "note_id": null,
+    "context": "甄家来人后宝玉梦见对影之人，两人同畏父召。",
+    "direct_meaning": "梦中同名人物互为寻找对象。",
+    "future_direction": "同名与相似性形成尚可展开的自我辨识问题。",
+    "possible_directions": [
+      "甄贾互照",
+      "梦与现实身份继续辨析"
+    ],
+    "alternatives": [
+      "梦由日间所闻触发",
+      "不能证明现实会照样相见"
+    ],
+    "strength": "C",
+    "confidence": 91,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-02",
+      "T-14",
+      "T-15"
+    ],
+    "related_keys": [],
+    "status_at_80": "framework",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C056-MIRROR-COUNTER",
+    "chapter": 56,
+    "layer": "正文",
+    "types": [
+      "梦境反证"
+    ],
+    "characters": [
+      "贾宝玉",
+      "袭人",
+      "麝月"
+    ],
+    "quote": "那是你夢迷了。你揉眼細瞧，是鏡子里照的你影兒。",
+    "note_id": null,
+    "context": "袭人在宝玉醒后给出镜影解释。",
+    "direct_meaning": "醒后的他人把经历解释为梦迷。",
+    "future_direction": "限制把双宝玉梦当作已发生的现实事件。",
+    "possible_directions": [
+      "保留感知歧义",
+      "区分身体相似与梦中互认"
+    ],
+    "alternatives": [
+      "这是袭人的解释，仍不取消甄家实有宝玉的消息"
+    ],
+    "strength": "C",
+    "confidence": 93,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-15"
+    ],
+    "related_keys": [
+      "C056-ZHEN-DREAM"
+    ],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C057-ZHEN-REAL",
+    "chapter": 57,
+    "layer": "正文",
+    "types": [
+      "框架人物未闭环"
+    ],
+    "characters": [
+      "贾宝玉",
+      "甄宝玉"
+    ],
+    "quote": "細問，果有一寶玉。",
+    "note_id": null,
+    "context": "宝玉随母到甄家拜访后。",
+    "direct_meaning": "叙述确认甄家有同名者，不仅是梦。",
+    "future_direction": "真实同名者与梦中影像之间还有待区别和照应。",
+    "possible_directions": [
+      "现实人物关系继续",
+      "镜像结构继续"
+    ],
+    "alternatives": [
+      "没有写二人正式见面，不应补出会见内容"
+    ],
+    "strength": "B",
+    "confidence": 94,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-14",
+      "T-15"
+    ],
+    "related_keys": [
+      "C056-ZHEN-DREAM",
+      "C056-MIRROR-COUNTER"
+    ],
+    "status_at_80": "framework",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C057-SEPARATION-TEST",
+    "chapter": 57,
+    "layer": "正文",
+    "types": [
+      "宝黛关系",
+      "离散约束"
+    ],
+    "characters": [
+      "贾宝玉",
+      "林黛玉",
+      "紫鹃"
+    ],
+    "quote": "要去連我也帶了去。",
+    "note_id": null,
+    "context": "宝玉误信紫鹃所编黛玉返乡之说而病。",
+    "direct_meaning": "他对与黛玉分离表现强烈身体反应。",
+    "future_direction": "实际离散将触及其承受边界。",
+    "possible_directions": [
+      "分离焦虑影响行动",
+      "共同生活愿望加强"
+    ],
+    "alternatives": [
+      "返苏州是测试谎话，不能当真实迁居预告"
+    ],
+    "strength": "B",
+    "confidence": 97,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-02",
+      "T-03",
+      "T-10"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C057-ASH-VOW",
+    "chapter": 57,
+    "layer": "正文",
+    "types": [
+      "人物自谶",
+      "死亡意象"
+    ],
+    "characters": [
+      "贾宝玉",
+      "林黛玉",
+      "紫鹃"
+    ],
+    "quote": "活著，咱們一處活著；不活著，咱們一處化灰化煙。",
+    "note_id": null,
+    "context": "病后宝玉向紫鹃表白不相离的心。",
+    "direct_meaning": "生死相随是其誓愿。",
+    "future_direction": "共同生活愿望与人的有限控制力存在张力。",
+    "possible_directions": [
+      "誓愿受未来变故考验"
+    ],
+    "alternatives": [
+      "激动誓语不是叙述者命运宣告，不能机械推出同时死亡"
+    ],
+    "strength": "C",
+    "confidence": 91,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-03",
+      "T-09",
+      "T-10"
+    ],
+    "related_keys": [
+      "C057-SEPARATION-TEST"
+    ],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C057-GRANDMOTHER-PROTECTION",
+    "chapter": 57,
+    "layer": "正文",
+    "types": [
+      "婚姻与家族利益",
+      "未解决冲突"
+    ],
+    "characters": [
+      "林黛玉",
+      "紫鹃",
+      "贾母"
+    ],
+    "quote": "趁早兒老太太還明白硬朗的時節，作定了大事要緊。",
+    "note_id": null,
+    "context": "紫鹃夜间劝黛玉趁贾母健在早定婚事。",
+    "direct_meaning": "婚事保障依赖长辈仍能主持。",
+    "future_direction": "时间、庇护和婚约未定构成开放问题。",
+    "possible_directions": [
+      "长辈作主可能提供保障",
+      "拖延会增加依附风险"
+    ],
+    "alternatives": [
+      "这是紫鹃的忧虑，不是已知贾母将于某时死亡"
+    ],
+    "strength": "B",
+    "confidence": 96,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-03",
+      "T-08",
+      "T-09"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C057-ZIJUAN-DOUBLELOYALTY",
+    "chapter": 57,
+    "layer": "正文",
+    "types": [
+      "尚未完成的人物关系"
+    ],
+    "characters": [
+      "紫鹃",
+      "林黛玉",
+      "贾宝玉"
+    ],
+    "quote": "我若不去，辜負了我們素日的情常；若去，又棄了本家。",
+    "note_id": null,
+    "context": "紫鹃解释自己为什么试宝玉。",
+    "direct_meaning": "她的家庭归属与侍奉情谊可能冲突。",
+    "future_direction": "黛玉去留会牵动紫鹃的选择。",
+    "possible_directions": [
+      "侍从与主人的命运有关但不相同"
+    ],
+    "alternatives": [
+      "所设返乡未落实",
+      "不能据此指定她会去何处"
+    ],
+    "strength": "C",
+    "confidence": 94,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-03",
+      "T-08",
+      "T-10"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C057-PROPOSED-DAI-MATCH",
+    "chapter": 57,
+    "layer": "正文",
+    "types": [
+      "宝黛关系",
+      "婚姻口风"
+    ],
+    "characters": [
+      "林黛玉",
+      "贾宝玉",
+      "薛姨妈",
+      "薛宝钗",
+      "紫鹃"
+    ],
+    "quote": "不如竟把你林妹妹定與他，豈不四角俱全？",
+    "note_id": null,
+    "context": "薛姨妈在黛玉房中谈说亲，紫鹃催其与长辈说。",
+    "direct_meaning": "成人公开提出宝黛相配的设想。",
+    "future_direction": "存在与其他婚配话语竞争的可能安排。",
+    "possible_directions": [
+      "有人愿为宝黛做媒",
+      "是否正式议定仍待证据"
+    ],
+    "alternatives": [
+      "谈笑、安慰和亲近话语不等于履行定亲程序"
+    ],
+    "strength": "B",
+    "confidence": 94,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-03",
+      "T-04",
+      "T-08"
+    ],
+    "related_keys": [
+      "C055-WEDDING-BUDGET",
+      "C057-GRANDMOTHER-PROTECTION"
+    ],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C057-SHARED-FRAGILITY",
+    "chapter": 57,
+    "layer": "正文",
+    "types": [
+      "人物无意预示语言",
+      "寄居"
+    ],
+    "characters": [
+      "林黛玉",
+      "邢岫烟",
+      "薛宝钗"
+    ],
+    "quote": "兔死狐悲，物傷其類",
+    "note_id": null,
+    "context": "黛玉得知岫烟典衣受窘后感叹。",
+    "direct_meaning": "她从另一寄居女子处境想到同类脆弱。",
+    "future_direction": "物质依附可使多位女子承受相似风险。",
+    "possible_directions": [
+      "相互接济",
+      "家计变化扩大寄居者困难"
+    ],
+    "alternatives": [
+      "成语是当下同情，兔死不表示岫烟将死"
+    ],
+    "strength": "C",
+    "confidence": 84,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-05",
+      "T-07",
+      "T-10"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C058-ROYAL-MOURNING",
+    "chapter": 58,
+    "layer": "正文",
+    "types": [
+      "政治与家内结构"
+    ],
+    "characters": [
+      "贾母",
+      "王夫人",
+      "尤氏",
+      "贾珍"
+    ],
+    "quote": "因此兩處下人無了正經頭緒，也都偷安",
+    "note_id": null,
+    "context": "国丧调动家主与管事之后，叙述管理空缺。",
+    "direct_meaning": "外部礼制负担影响内宅秩序。",
+    "future_direction": "家府无法独立于宫廷义务保持封闭稳定。",
+    "possible_directions": [
+      "外务牵动内务失序"
+    ],
+    "alternatives": [
+      "本次已有临时代管，不能直接等同政治获罪"
+    ],
+    "strength": "C",
+    "confidence": 88,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-01",
+      "T-06"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C058-ACTRESSES-VULNERABILITY",
+    "chapter": 58,
+    "layer": "正文",
+    "types": [
+      "离散",
+      "依附与再卖风险"
+    ],
+    "characters": [
+      "芳官",
+      "藕官",
+      "王夫人"
+    ],
+    "quote": "他只以賣我們為事，這一去還被他賣了",
+    "note_id": null,
+    "context": "遣散戏班时一些女孩解释不愿返家。",
+    "direct_meaning": "返家未必意味着自由或安稳。",
+    "future_direction": "去留选择受买卖关系、亲属利益限制。",
+    "possible_directions": [
+      "留下或出府各有依附风险"
+    ],
+    "alternatives": [
+      "具体去留选择当场部分落实，不表示所有人遭同一结局"
+    ],
+    "strength": "B",
+    "confidence": 92,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-08",
+      "T-10"
+    ],
+    "related_keys": [],
+    "status_at_80": "partially_realized",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C058-APRICOT",
+    "chapter": 58,
+    "layer": "正文",
+    "types": [
+      "婚姻意象",
+      "人物自我投射"
+    ],
+    "characters": [
+      "贾宝玉",
+      "邢岫烟"
+    ],
+    "quote": "雖說是男女大事，不可不行，但未免又少了一個好女兒",
+    "note_id": null,
+    "context": "宝玉见杏树结子，想到岫烟定亲。",
+    "direct_meaning": "他将婚嫁与女儿世界的减损联系。",
+    "future_direction": "婚配会持续考验其对女儿生活的理想。",
+    "possible_directions": [
+      "婚嫁与园中离散相联",
+      "他也承认婚姻不可不行"
+    ],
+    "alternatives": [
+      "树木时序是宝玉联想，不证明岫烟必按同一速度衰老"
+    ],
+    "strength": "C",
+    "confidence": 90,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-02",
+      "T-08",
+      "T-10"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C058-REMEMBRANCE-REMARRY",
+    "chapter": 58,
+    "layer": "正文",
+    "types": [
+      "死亡",
+      "情的规范",
+      "反证"
+    ],
+    "characters": [
+      "贾宝玉",
+      "藕官",
+      "菂官",
+      "蕊官",
+      "芳官"
+    ],
+    "quote": "便只是不把死的丟過不提，便是情深意重了。",
+    "note_id": null,
+    "context": "芳官转述藕官对旧侣和新伴的说法，宝玉称赏。",
+    "direct_meaning": "纪念逝者与继续新的关系并非必然互斥。",
+    "future_direction": "限制把一切真情都写成永不再有新关系的单一路径。",
+    "possible_directions": [
+      "情可以通过记忆延续",
+      "新旧情分可能并存"
+    ],
+    "alternatives": [
+      "这不是宝玉为自己制定婚姻安排，更不能指定新伴"
+    ],
+    "strength": "C",
+    "confidence": 91,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-02",
+      "T-03",
+      "T-04",
+      "T-09"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C058-POOR-RITUAL",
+    "chapter": 58,
+    "layer": "正文",
+    "types": [
+      "离散意象",
+      "人物无意预示语言"
+    ],
+    "characters": [
+      "贾宝玉",
+      "芳官",
+      "藕官"
+    ],
+    "quote": "即值倉皇流離之日，雖連香亦無",
+    "note_id": null,
+    "context": "宝玉教芳官以诚心祭奠而不拘纸钱。",
+    "direct_meaning": "即使流离贫乏，也可用草土行祭。",
+    "future_direction": "贫困或离散并不消除情与追念的可能。",
+    "possible_directions": [
+      "祭奠在物质条件变化中继续"
+    ],
+    "alternatives": [
+      "是论理时假设的极端场景，未宣布宝玉将遭具体流亡"
+    ],
+    "strength": "C",
+    "confidence": 85,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-02",
+      "T-09",
+      "T-10"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C058-INVENTED-DREAM",
+    "chapter": 58,
+    "layer": "正文",
+    "types": [
+      "梦境反证",
+      "证据来源限制"
+    ],
+    "characters": [
+      "贾宝玉",
+      "藕官"
+    ],
+    "quote": "又如何謊言護庇",
+    "note_id": null,
+    "context": "叙述宝玉向芳官说明以杏花神梦掩护藕官烧纸。",
+    "direct_meaning": "梦的说辞是为护人而编造。",
+    "future_direction": "限制把杏花神梦当真实神谕或与后文花神直接等同。",
+    "possible_directions": [
+      "梦话有社会用途而非预测效力"
+    ],
+    "alternatives": [
+      "护人之情仍真实，但不证明所说梦存在"
+    ],
+    "strength": "D",
+    "confidence": 98,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-15"
+    ],
+    "related_keys": [],
+    "status_at_80": "realized_before_80",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C059-REFORM-INTEREST",
+    "chapter": 59,
+    "layer": "正文",
+    "types": [
+      "家内结构矛盾",
+      "改革反证"
+    ],
+    "characters": [
+      "春燕",
+      "莺儿",
+      "何婆子",
+      "贾探春"
+    ],
+    "quote": "一得了這地方，比得了永遠基業還利害",
+    "note_id": null,
+    "context": "春燕介绍亲属领园地后护利不让人采折。",
+    "direct_meaning": "利益分派同时加强私占与监管冲突。",
+    "future_direction": "改革可能产生新的受益者与排斥机制。",
+    "possible_directions": [
+      "利益分配维持劳动",
+      "亦增加摩擦"
+    ],
+    "alternatives": [
+      "不能据一次吵闹判定全部改革失败"
+    ],
+    "strength": "C",
+    "confidence": 90,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-01",
+      "T-07"
+    ],
+    "related_keys": [
+      "C056-REFORM",
+      "C056-REFORM-RESIST"
+    ],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C060-RELEASE-PROMISE",
+    "chapter": 60,
+    "layer": "正文",
+    "types": [
+      "未兑现计划",
+      "离散"
+    ],
+    "characters": [
+      "贾宝玉",
+      "春燕",
+      "芳官",
+      "柳五儿"
+    ],
+    "quote": "他都要回太太全放出去，與本人父母自便呢。",
+    "note_id": null,
+    "context": "春燕转述宝玉常说要将房中人放出。",
+    "direct_meaning": "放人的意愿仍需向王夫人请示。",
+    "future_direction": "主人善意与制度权限之间留有待兑现事项。",
+    "possible_directions": [
+      "有被放归的可能",
+      "执行范围与受益者未明"
+    ],
+    "alternatives": [
+      "转述愿望不是已经批准的集体放人安排"
+    ],
+    "strength": "B",
+    "confidence": 94,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-02",
+      "T-08",
+      "T-10"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C060-FIFTH-GIRL-POST",
+    "chapter": 60,
+    "layer": "正文",
+    "types": [
+      "未解决人物关系"
+    ],
+    "characters": [
+      "柳五儿",
+      "芳官",
+      "贾宝玉"
+    ],
+    "quote": "寶玉雖是依允，只是近日病著，又見事多，尚未說得。",
+    "note_id": null,
+    "context": "柳家想将五儿调入怡红院，芳官引荐。",
+    "direct_meaning": "宝玉答应而正式调入未办。",
+    "future_direction": "承诺与人事手续之间还有缺口。",
+    "possible_directions": [
+      "岗位和身份可能改变",
+      "延宕影响愿望"
+    ],
+    "alternatives": [
+      "不能把答应当成已入房，也不能据此指定以后关系"
+    ],
+    "strength": "C",
+    "confidence": 93,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-08",
+      "T-10"
+    ],
+    "related_keys": [
+      "C060-RELEASE-PROMISE"
+    ],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C060-QIANHUAI-THREAT",
+    "chapter": 60,
+    "layer": "正文",
+    "types": [
+      "婚姻与家族利益",
+      "未解决冲突"
+    ],
+    "characters": [
+      "柳五儿",
+      "钱槐"
+    ],
+    "quote": "發恨定要弄取成配，方了此願",
+    "note_id": null,
+    "context": "五儿不愿钱槐求婚，钱家曾退而钱槐仍怀愤。",
+    "direct_meaning": "被拒的男子仍有强求婚配的意图。",
+    "future_direction": "五儿的选择面临金钱、关系与强制风险。",
+    "possible_directions": [
+      "婚配自主受威胁",
+      "威胁也可能未付行动"
+    ],
+    "alternatives": [
+      "只有愿望与愤恨，未出现后续强迫的事实"
+    ],
+    "strength": "B",
+    "confidence": 91,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-08"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C061-RESPONSIBILITY",
+    "chapter": 61,
+    "layer": "正文",
+    "types": [
+      "人物性格未来约束"
+    ],
+    "characters": [
+      "贾宝玉",
+      "王熙凤",
+      "平儿"
+    ],
+    "quote": "將來若大事也如此，如何治人。",
+    "note_id": null,
+    "context": "凤姐疑宝玉包揽失物责任，反对只听他认领。",
+    "direct_meaning": "维护他人的行为与管理事实、责任的要求相冲。",
+    "future_direction": "宝玉的护人方式可能难应对更重的责任问题。",
+    "possible_directions": [
+      "真情与查证冲突",
+      "需要别人的调停"
+    ],
+    "alternatives": [
+      "凤姐可能借此扩大惩罚，不能将其批评全当正确"
+    ],
+    "strength": "C",
+    "confidence": 92,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-02",
+      "T-01"
+    ],
+    "related_keys": [],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C061-TWO-BRANCHES",
+    "chapter": 61,
+    "layer": "正文",
+    "types": [
+      "家族内部结构",
+      "继承位置"
+    ],
+    "characters": [
+      "平儿",
+      "王熙凤",
+      "贾琏"
+    ],
+    "quote": "終久咱們是那邊屋裡去的",
+    "note_id": null,
+    "context": "平儿劝凤姐少操这边家务和结怨。",
+    "direct_meaning": "管理所服务的一房与最终归属的一房被区分。",
+    "future_direction": "当前管家权不等于永久家产或居处归属。",
+    "possible_directions": [
+      "两房利益和人事权继续区分"
+    ],
+    "alternatives": [
+      "这句话不能独自确定将来的搬家、休弃或继承判决"
+    ],
+    "strength": "C",
+    "confidence": 87,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-01",
+      "T-08"
+    ],
+    "related_keys": [
+      "C055-RESENTMENT"
+    ],
+    "status_at_80": "unresolved",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  },
+  {
+    "key": "C061-PING-MERCY",
+    "chapter": 61,
+    "layer": "正文",
+    "types": [
+      "性格约束",
+      "反证"
+    ],
+    "characters": [
+      "平儿",
+      "王熙凤",
+      "柳五儿"
+    ],
+    "quote": "得放手時須放手",
+    "note_id": null,
+    "context": "平儿暂停即刻惩治，调查并说服凤姐放宽。",
+    "direct_meaning": "府内惩罚并非每次都不可挽回。",
+    "future_direction": "调停者存在可改变弱者所受处置的空间。",
+    "possible_directions": [
+      "个人善意暂缓制度伤害"
+    ],
+    "alternatives": [
+      "不等于平儿在更严重事件中仍必有同样权限"
+    ],
+    "strength": "C",
+    "confidence": 85,
+    "version_refs": [],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "themes": [
+      "T-01",
+      "T-05"
+    ],
+    "related_keys": [],
+    "status_at_80": "realized_before_80",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "此处只登记方向或约束，不确定具体终局；置信度不是情节发生概率。"
+  }
+]

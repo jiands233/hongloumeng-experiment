@@ -1,0 +1,2107 @@
+[
+  {
+    "key": "C001-RETURN",
+    "chapter": 1,
+    "layer": "正文",
+    "types": [
+      "框架",
+      "未来指向"
+    ],
+    "characters": [
+      "石头"
+    ],
+    "quote": "待劫終之日，復還本質，以了此案。",
+    "note_id": null,
+    "context": "僧答应携石下世并说明返回条件。",
+    "direct_meaning": "劫终返回石之本质。",
+    "future_direction": "入世—历劫—返回的框架闭合",
+    "possible_directions": [
+      "回归本质",
+      "入世经历有终点"
+    ],
+    "alternatives": [
+      "框架承诺不等于指定宝玉人物的最终形态。"
+    ],
+    "strength": "A",
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "引文不跨P00001/P00002缺口；全局汇校限制G001仍在",
+    "themes": [
+      "T-14",
+      "T-15"
+    ],
+    "related_keys": [],
+    "status_at_80": "framework",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "框架承诺不等于指定宝玉人物的最终形态。"
+  },
+  {
+    "key": "C001-VOID",
+    "chapter": 1,
+    "layer": "正文",
+    "types": [
+      "框架",
+      "未来指向"
+    ],
+    "characters": [
+      "石头"
+    ],
+    "quote": "瞬息間則又樂極悲生，人非物換。究竟是到頭一夢，萬境歸空。",
+    "note_id": null,
+    "context": "僧道在石头入世前的劝诫。",
+    "direct_meaning": "乐极转悲，繁华不可永久依恃。",
+    "future_direction": "全书繁华转衰与梦幻收束",
+    "possible_directions": [
+      "盛衰",
+      "离散",
+      "梦幻消解"
+    ],
+    "alternatives": [
+      "也可为劝世通论，不能分配成各人的结局。"
+    ],
+    "strength": "A",
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "引文不跨P00001/P00002缺口；全局汇校限制G001仍在",
+    "themes": [
+      "T-01",
+      "T-12",
+      "T-15"
+    ],
+    "related_keys": [],
+    "status_at_80": "framework",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "也可为劝世通论，不能分配成各人的结局。"
+  },
+  {
+    "key": "C001-STORYONSTONE",
+    "chapter": 1,
+    "layer": "正文",
+    "types": [
+      "框架",
+      "未来指向"
+    ],
+    "characters": [
+      "石头",
+      "空空道人"
+    ],
+    "quote": "蒙茫茫大士、渺渺真人携入紅塵，歷盡一番離合悲歡、炎凉世態的一段故事。",
+    "note_id": null,
+    "context": "开端先叙后来的石上记录。",
+    "direct_meaning": "入世经历已成为可抄录的故事。",
+    "future_direction": "叙述框架先给出经历完成及被记录",
+    "possible_directions": [
+      "历劫后的回顾",
+      "传书闭环"
+    ],
+    "alternatives": [
+      "框架时间与人物时间不可强排对应。"
+    ],
+    "strength": "A",
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "引文不跨P00001/P00002缺口；全局汇校限制G001仍在",
+    "themes": [
+      "T-14",
+      "T-15"
+    ],
+    "related_keys": [],
+    "status_at_80": "framework",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "框架时间与人物时间不可强排对应。"
+  },
+  {
+    "key": "C001-DEBT",
+    "chapter": 1,
+    "layer": "正文",
+    "types": [
+      "框架",
+      "未来指向"
+    ],
+    "characters": [
+      "绛珠仙子",
+      "神瑛侍者"
+    ],
+    "quote": "他既下世為人，我也去下世為人，但把我一生所有的眼泪還他，也償還得過他了。",
+    "note_id": null,
+    "context": "僧转述绛珠下世还甘露之惠的承诺。",
+    "direct_meaning": "以一生眼泪偿还灌溉恩情。",
+    "future_direction": "泪与情债将贯穿二者下世关系",
+    "possible_directions": [
+      "还泪",
+      "恩情偿还"
+    ],
+    "alternatives": [
+      "承诺不明言死亡方式；人物对应需独立正文支持。"
+    ],
+    "strength": "A",
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "引文不跨P00001/P00002缺口；全局汇校限制G001仍在",
+    "themes": [
+      "T-03",
+      "T-14"
+    ],
+    "related_keys": [],
+    "status_at_80": "framework",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "承诺不明言死亡方式；人物对应需独立正文支持。"
+  },
+  {
+    "key": "C001-RELEASE",
+    "chapter": 1,
+    "layer": "正文",
+    "types": [
+      "框架",
+      "未来指向"
+    ],
+    "characters": [],
+    "quote": "趁此何不你我也去下世度脫幾個，豈不是一場功德？",
+    "note_id": null,
+    "context": "道人向僧提出下世度脱。",
+    "direct_meaning": "打算度脱其中若干人。",
+    "future_direction": "后文超脱尘缘行动",
+    "possible_directions": [
+      "度脱",
+      "精神转变"
+    ],
+    "alternatives": [
+      "未指定受度者名单或出家形式。"
+    ],
+    "strength": "A",
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "引文不跨P00001/P00002缺口；全局汇校限制G001仍在",
+    "themes": [
+      "T-02",
+      "T-11",
+      "T-14"
+    ],
+    "related_keys": [],
+    "status_at_80": "framework",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "未指定受度者名单或出家形式。"
+  },
+  {
+    "key": "C001-SIGNOFF",
+    "chapter": 1,
+    "layer": "正文",
+    "types": [
+      "框架",
+      "未来指向"
+    ],
+    "characters": [],
+    "quote": "三劫後，我在北邙山等你，會齊了同往太虛幻境銷號。",
+    "note_id": null,
+    "context": "僧道于士隐门前分手。",
+    "direct_meaning": "约定后来会齐销号。",
+    "future_direction": "太虚幻境登记与销号的闭环",
+    "possible_directions": [
+      "会合",
+      "销号"
+    ],
+    "alternatives": [
+      "三劫不得换算成人物确切年龄或年表。"
+    ],
+    "strength": "A",
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "引文不跨P00001/P00002缺口；全局汇校限制G001仍在",
+    "themes": [
+      "T-13",
+      "T-14"
+    ],
+    "related_keys": [],
+    "status_at_80": "framework",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "三劫不得换算成人物确切年龄或年表。"
+  },
+  {
+    "key": "C001-YINGLIAN",
+    "chapter": 1,
+    "layer": "正文",
+    "types": [
+      "框架",
+      "未来指向"
+    ],
+    "characters": [
+      "甄士隐",
+      "香菱"
+    ],
+    "quote": "慣養嬌生笑你痴，\n\n菱花空對雪澌澌。\n\n好防佳節元宵後，\n\n便是烟消火滅時！",
+    "note_id": null,
+    "context": "僧见英莲所诵；后文同回失女、火灾已发生。",
+    "direct_meaning": "娇养无力保证幸福，元宵后有灾变。",
+    "future_direction": "失散及与雪意象相关的不遇",
+    "possible_directions": [
+      "家破",
+      "失女",
+      "遇非其偶"
+    ],
+    "alternatives": [
+      "不可把烟消火灭直接判为英莲已经死亡。"
+    ],
+    "strength": "A",
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "引文不跨P00001/P00002缺口；全局汇校限制G001仍在",
+    "themes": [
+      "T-05",
+      "T-09",
+      "T-10"
+    ],
+    "related_keys": [],
+    "status_at_80": "partially_realized",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "不可把烟消火灭直接判为英莲已经死亡。"
+  },
+  {
+    "key": "C001-HAOLIAO",
+    "chapter": 1,
+    "layer": "正文",
+    "types": [
+      "框架",
+      "未来指向"
+    ],
+    "characters": [],
+    "quote": "世人都曉神仙好，惟有功名忘不了；\n\n古今將相在何方？荒冢一堆草沒了！",
+    "note_id": null,
+    "context": "道人《好了歌》首节。",
+    "direct_meaning": "功名不免归于死亡。",
+    "future_direction": "普遍功名无常主题",
+    "possible_directions": [
+      "功名消散",
+      "死亡"
+    ],
+    "alternatives": [
+      "非特定人物死亡预告。"
+    ],
+    "strength": "A",
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "引文不跨P00001/P00002缺口；全局汇校限制G001仍在",
+    "themes": [
+      "T-09",
+      "T-12"
+    ],
+    "related_keys": [],
+    "status_at_80": "framework",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "非特定人物死亡预告。"
+  },
+  {
+    "key": "C001-HOUSE",
+    "chapter": 1,
+    "layer": "正文",
+    "types": [
+      "框架",
+      "未来指向"
+    ],
+    "characters": [
+      "甄士隐"
+    ],
+    "quote": "陋室空堂，當年笏滿床，\n\n衰草枯楊，曾為歌舞場。\n\n蛛絲兒結滿雕梁，",
+    "note_id": null,
+    "context": "士隐为《好了歌》解注。",
+    "direct_meaning": "显贵场所衰败荒芜。",
+    "future_direction": "家族物质繁荣转衰",
+    "possible_directions": [
+      "家宅荒凉",
+      "盛衰循环"
+    ],
+    "alternatives": [
+      "具体对应哪所建筑仍需证据。"
+    ],
+    "strength": "A",
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "引文不跨P00001/P00002缺口；全局汇校限制G001仍在",
+    "themes": [
+      "T-01",
+      "T-12"
+    ],
+    "related_keys": [],
+    "status_at_80": "framework",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "具体对应哪所建筑仍需证据。"
+  },
+  {
+    "key": "C001-POVERTY",
+    "chapter": 1,
+    "layer": "正文",
+    "types": [
+      "框架",
+      "未来指向"
+    ],
+    "characters": [
+      "甄士隐"
+    ],
+    "quote": "金滿箱，銀滿箱，\n\n展眼乞丐人皆謗。",
+    "note_id": null,
+    "context": "好了歌解。",
+    "direct_meaning": "巨富忽成被谤乞者。",
+    "future_direction": "财产与身份骤变",
+    "possible_directions": [
+      "经济崩坏",
+      "身份坠落"
+    ],
+    "alternatives": [
+      "不是指定每个富人皆行乞。"
+    ],
+    "strength": "A",
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "引文不跨P00001/P00002缺口；全局汇校限制G001仍在",
+    "themes": [
+      "T-07",
+      "T-12"
+    ],
+    "related_keys": [],
+    "status_at_80": "framework",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "不是指定每个富人皆行乞。"
+  },
+  {
+    "key": "C001-OFFSPRING",
+    "chapter": 1,
+    "layer": "正文",
+    "types": [
+      "框架",
+      "未来指向"
+    ],
+    "characters": [
+      "甄士隐"
+    ],
+    "quote": "訓有方，保不定日後作强梁。\n\n擇膏粱，誰承望流落在烟花巷！",
+    "note_id": null,
+    "context": "好了歌解。",
+    "direct_meaning": "教育和择婚不能保证后代前途。",
+    "future_direction": "家族安排与未来命运相违",
+    "possible_directions": [
+      "子弟失序",
+      "婚姻保障失效"
+    ],
+    "alternatives": [
+      "未明言具体人物或沦落经过。"
+    ],
+    "strength": "A",
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "引文不跨P00001/P00002缺口；全局汇校限制G001仍在",
+    "themes": [
+      "T-08",
+      "T-10",
+      "T-12"
+    ],
+    "related_keys": [],
+    "status_at_80": "framework",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "未明言具体人物或沦落经过。"
+  },
+  {
+    "key": "C001-POLITICS",
+    "chapter": 1,
+    "layer": "正文",
+    "types": [
+      "框架",
+      "未来指向"
+    ],
+    "characters": [
+      "甄士隐"
+    ],
+    "quote": "因嫌紗帽小，致使鎖枷杠，\n\n昨憐破襖寒，今嫌紫蟒長。",
+    "note_id": null,
+    "context": "好了歌解。",
+    "direct_meaning": "追逐官位可致刑罚，贫寒也可转贵。",
+    "future_direction": "政治升黜及风险",
+    "possible_directions": [
+      "官场获罪",
+      "升迁无常"
+    ],
+    "alternatives": [
+      "未指定案名或惩罚对象。"
+    ],
+    "strength": "A",
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "引文不跨P00001/P00002缺口；全局汇校限制G001仍在",
+    "themes": [
+      "T-06",
+      "T-12"
+    ],
+    "related_keys": [],
+    "status_at_80": "framework",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "未指定案名或惩罚对象。"
+  },
+  {
+    "key": "C001-STAGE",
+    "chapter": 1,
+    "layer": "正文",
+    "types": [
+      "框架",
+      "未来指向"
+    ],
+    "characters": [
+      "甄士隐"
+    ],
+    "quote": "亂烘烘你方唱罷我登場，\n\n反認他鄉是故鄉。\n\n甚荒唐，到頭來都是為他人作嫁衣裳！",
+    "note_id": null,
+    "context": "好了歌解总收。",
+    "direct_meaning": "角色轮替而误认归宿，忙碌成果归他人。",
+    "future_direction": "盛衰更替与归属迷失",
+    "possible_directions": [
+      "轮替",
+      "徒劳",
+      "框架返回"
+    ],
+    "alternatives": [
+      "可以为通论，不等于特定继承人方案。"
+    ],
+    "strength": "A",
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "引文不跨P00001/P00002缺口；全局汇校限制G001仍在",
+    "themes": [
+      "T-12",
+      "T-14",
+      "T-15"
+    ],
+    "related_keys": [],
+    "status_at_80": "framework",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "可以为通论，不等于特定继承人方案。"
+  },
+  {
+    "key": "C001-ZHIYAN-CLOSURE",
+    "chapter": 1,
+    "note_id": "N001-1-0174",
+    "quote": "甲戌側批：太虛幻境青埂峰一并結住。",
+    "characters": [],
+    "context": "《好了歌》解末尾的本地标作甲戌侧批。",
+    "direct_meaning": "批语将歌解同太虚幻境和青埂峰联结。",
+    "future_direction": "框架收束的批语提示",
+    "possible_directions": [
+      "太虚与青埂的框架呼应"
+    ],
+    "themes": [
+      "T-13",
+      "T-14"
+    ],
+    "strength": "B",
+    "layer": "脂批",
+    "types": [
+      "未来指向"
+    ],
+    "alternatives": [
+      "可以为人物判断或主题性警示，不强制落实为唯一具体事件。"
+    ],
+    "confidence": 82,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "只称本地标作某本的批语；来源真实性未经手稿认证，不提升为正文事实。"
+  },
+  {
+    "key": "C001-ZHIYAN-DECLINE",
+    "chapter": 1,
+    "note_id": "N001-1-0159",
+    "quote": "甲戌側批：寧、榮既敗之後。",
+    "characters": [],
+    "context": "歌解衰草歌舞场处的本地标作甲戌侧批。",
+    "direct_meaning": "批语认定所写景象对应宁荣败后。",
+    "future_direction": "家族败落的批语明确提示",
+    "possible_directions": [
+      "宁荣衰败"
+    ],
+    "themes": [
+      "T-01"
+    ],
+    "strength": "A",
+    "layer": "脂批",
+    "types": [
+      "未来指向"
+    ],
+    "alternatives": [
+      "可以为人物判断或主题性警示，不强制落实为唯一具体事件。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "只称本地标作某本的批语；来源真实性未经手稿认证，不提升为正文事实。"
+  },
+  {
+    "key": "C001-ZHIYAN-MIDAutumn",
+    "chapter": 1,
+    "note_id": "N001-1-0137",
+    "quote": "用中秋詩起，用中秋詩收，又用起詩社於秋日。所嘆者三春也，却用三秋作關鍵。",
+    "characters": [],
+    "context": "本地标作甲戌眉批评雨村中秋诗。",
+    "direct_meaning": "批语声称中秋诗作为开合。",
+    "future_direction": "首尾诗与秋日结构呼应",
+    "possible_directions": [
+      "诗文回环",
+      "季节结构"
+    ],
+    "themes": [
+      "T-12",
+      "T-15"
+    ],
+    "strength": "B",
+    "layer": "脂批",
+    "types": [
+      "未来指向"
+    ],
+    "alternatives": [
+      "可以为人物判断或主题性警示，不强制落实为唯一具体事件。"
+    ],
+    "confidence": 82,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "只称本地标作某本的批语；来源真实性未经手稿认证，不提升为正文事实。"
+  },
+  {
+    "key": "C002-EMPTYCOFFERS",
+    "chapter": 2,
+    "quote": "如今外面的架子雖未甚倒，內囊却也盡上來了。",
+    "characters": [],
+    "context": "冷子兴评论宁荣现况。",
+    "direct_meaning": "外观尚在而内部财力耗竭。",
+    "future_direction": "继续衰落的经济结构基础",
+    "possible_directions": [
+      "经济崩坏",
+      "排场与资源矛盾"
+    ],
+    "themes": [
+      "T-01",
+      "T-07"
+    ],
+    "strength": "B",
+    "layer": "正文",
+    "note_id": null,
+    "types": [
+      "未来指向"
+    ],
+    "alternatives": [
+      "可以为人物判断或主题性警示，不强制落实为唯一具体事件。"
+    ],
+    "confidence": 82,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "仅据本地合格层；不推出具体终局，人物对应不替代直接题名。"
+  },
+  {
+    "key": "C002-STOPLATE",
+    "chapter": 2,
+    "quote": "身後有餘忘縮手，眼前無路想回頭。",
+    "characters": [],
+    "context": "雨村见智通寺对联。",
+    "direct_meaning": "拥有余裕时不收手，到无路才思回头。",
+    "future_direction": "贪求与醒悟太迟的主题",
+    "possible_directions": [
+      "欲望导致困局",
+      "转向超脱"
+    ],
+    "themes": [
+      "T-01",
+      "T-02",
+      "T-12"
+    ],
+    "strength": "C",
+    "layer": "正文",
+    "note_id": null,
+    "types": [
+      "未来指向"
+    ],
+    "alternatives": [
+      "可以为人物判断或主题性警示，不强制落实为唯一具体事件。"
+    ],
+    "confidence": 82,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "仅据本地合格层；不推出具体终局，人物对应不替代直接题名。"
+  },
+  {
+    "key": "C002-ZHEN",
+    "chapter": 2,
+    "quote": "你看，這等子弟，必不能守祖父之根基，從師長之規諫的。",
+    "characters": [
+      "甄宝玉"
+    ],
+    "context": "雨村依据自己在甄家教学经历断言。",
+    "direct_meaning": "教师认定学生不能守业从教。",
+    "future_direction": "家族期望与个性矛盾",
+    "possible_directions": [
+      "不继承家族道路",
+      "反传统评价"
+    ],
+    "themes": [
+      "T-02",
+      "T-15"
+    ],
+    "strength": "B",
+    "remarks": "话语直接对象是甄家学生；不能偷偷换为贾宝玉事实。",
+    "layer": "正文",
+    "note_id": null,
+    "types": [
+      "未来指向"
+    ],
+    "alternatives": [
+      "话语直接对象是甄家学生；不能偷偷换为贾宝玉事实。"
+    ],
+    "confidence": 82,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C003-DAIILL",
+    "chapter": 3,
+    "quote": "若要好時，除非從此以後總不許見哭聲，除父母之外，凡有外姓親友之人，一概不見，方可平安了此一世。",
+    "characters": [
+      "林黛玉"
+    ],
+    "context": "黛玉向贾母转述三岁时癞头和尚告诫。",
+    "direct_meaning": "平安条件是避哭与外姓亲友。",
+    "future_direction": "入世结缘同疾病及哭泣相连",
+    "possible_directions": [
+      "病与情关联",
+      "度脱可能"
+    ],
+    "themes": [
+      "T-03",
+      "T-09",
+      "T-11"
+    ],
+    "strength": "A",
+    "layer": "正文",
+    "note_id": null,
+    "types": [
+      "未来指向"
+    ],
+    "alternatives": [
+      "可以为人物判断或主题性警示，不强制落实为唯一具体事件。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "仅据本地合格层；不推出具体终局，人物对应不替代直接题名。"
+  },
+  {
+    "key": "C003-POOR",
+    "chapter": 3,
+    "quote": "富貴不知樂業，貧窮難耐凄凉。可憐辜負好韶光，于國于家無望。",
+    "characters": [
+      "贾宝玉"
+    ],
+    "context": "《西江月》评论宝玉。",
+    "direct_meaning": "评词并置富贵不乐业和贫穷难耐。",
+    "future_direction": "贫富遭际变化与家族期望落空",
+    "possible_directions": [
+      "贫穷考验",
+      "不走家族功业道路"
+    ],
+    "themes": [
+      "T-02",
+      "T-07"
+    ],
+    "strength": "B",
+    "remarks": "评词有反讽性质，不将贬词直接当客观德性判断。",
+    "layer": "正文",
+    "note_id": null,
+    "types": [
+      "未来指向"
+    ],
+    "alternatives": [
+      "评词有反讽性质，不将贬词直接当客观德性判断。"
+    ],
+    "confidence": 82,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C003-ZHIYAN-TEARS",
+    "chapter": 3,
+    "note_id": "N003-1-0177",
+    "quote": "所以絳珠之泪至死不幹，萬苦不怨。",
+    "characters": [
+      "绛珠仙子",
+      "林黛玉"
+    ],
+    "context": "本地标作蒙批评黛玉惜玉哭泣。",
+    "direct_meaning": "批者说绛珠之泪至死不干。",
+    "future_direction": "泪与终身情感苦楚",
+    "possible_directions": [
+      "终身泪债",
+      "惜玉"
+    ],
+    "themes": [
+      "T-03",
+      "T-09"
+    ],
+    "strength": "A",
+    "remarks": "批语自己的表述；不能与正文一生眼泪简单合成某个死法。",
+    "layer": "脂批",
+    "types": [
+      "未来指向"
+    ],
+    "alternatives": [
+      "批语自己的表述；不能与正文一生眼泪简单合成某个死法。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C004-ALLIANCE",
+    "chapter": 4,
+    "quote": "這四家皆連絡有親，一損皆損，一榮皆榮，扶持遮飾，俱有照應的。",
+    "characters": [],
+    "context": "门子向雨村解释护官符。",
+    "direct_meaning": "四家因婚亲而利益相连互相遮护。",
+    "future_direction": "关联利益亦可能传导损失",
+    "possible_directions": [
+      "共同风险",
+      "政治庇护",
+      "家族利益网络"
+    ],
+    "themes": [
+      "T-01",
+      "T-06",
+      "T-08"
+    ],
+    "strength": "B",
+    "layer": "正文",
+    "note_id": null,
+    "types": [
+      "未来指向"
+    ],
+    "alternatives": [
+      "可以为人物判断或主题性警示，不强制落实为唯一具体事件。"
+    ],
+    "confidence": 82,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "仅据本地合格层；不推出具体终局，人物对应不替代直接题名。"
+  },
+  {
+    "key": "C004-ZHIYAN-CLAN",
+    "chapter": 4,
+    "note_id": "N004-1-0085",
+    "quote": "雖暫時不罹禍，而從此放膽，必破家滅族不已，哀哉！",
+    "characters": [],
+    "context": "本地标作甲戌侧批评贾宅子弟、父隐子和群小迎合。",
+    "direct_meaning": "暂时避祸可滋长胆量而招破家风险。",
+    "future_direction": "内部纵容作为家败机制",
+    "possible_directions": [
+      "失教纵容",
+      "破家"
+    ],
+    "themes": [
+      "T-01",
+      "T-06"
+    ],
+    "strength": "A",
+    "layer": "脂批",
+    "types": [
+      "未来指向"
+    ],
+    "alternatives": [
+      "可以为人物判断或主题性警示，不强制落实为唯一具体事件。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "只称本地标作某本的批语；来源真实性未经手稿认证，不提升为正文事实。"
+  },
+  {
+    "key": "C005-ALBUM-A01",
+    "chapter": 5,
+    "characters": [
+      "晴雯"
+    ],
+    "context": "宝玉梦中在薄命司读取又副册首幅，人物姓名为关联解释，图册正文未直接题名。",
+    "direct_meaning": "乌云浊雾；霁月难逢，灵巧招怨，寿夭与诽谤相连。",
+    "future_direction": "受谤；早夭；公子空念",
+    "possible_directions": [
+      "受谤",
+      "早夭",
+      "公子空念"
+    ],
+    "themes": [
+      "T-05",
+      "T-09"
+    ],
+    "strength": "A",
+    "remarks": "身分对应晴雯是据意象、批语及后文的解释；册页正文没有人物姓名。",
+    "types": [
+      "图册",
+      "判词"
+    ],
+    "version_refs": [
+      "G001"
+    ],
+    "quote": "只見這首頁上畫着一副畫，又非人物，亦無山水，不過水墨滃染的滿紙烏雲濁霧而已。後有幾行字，寫的是：\n\n霽月難逢，彩雲易散。\n\n心比天高，身為下賤。\n\n風流靈巧招人怨。\n\n壽夭多因誹謗生，\n\n多情公子空牽念。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "身分对应晴雯是据意象、批语及后文的解释；册页正文没有人物姓名。"
+    ],
+    "confidence": 95,
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-ALBUM-A02",
+    "chapter": 5,
+    "characters": [
+      "花袭人"
+    ],
+    "context": "宝玉梦中在薄命司读取又副册第二幅，人物姓名为关联解释，图册正文未直接题名。",
+    "direct_meaning": "鲜花、破席；温柔不能保证与公子相合，优伶被称有福。",
+    "future_direction": "与公子无缘；与优伶的缘分",
+    "possible_directions": [
+      "与公子无缘",
+      "与优伶的缘分"
+    ],
+    "themes": [
+      "T-05",
+      "T-08",
+      "T-10"
+    ],
+    "strength": "A",
+    "remarks": "对应袭人为解释；不能据此独定出嫁程序或当事人心理。",
+    "types": [
+      "图册",
+      "判词"
+    ],
+    "version_refs": [
+      "G001"
+    ],
+    "quote": "寶玉看了，又見後面畫着一簇鮮花，一床破席。也有幾句言詞，寫道是：\n\n枉自溫柔和順，空云似桂如蘭。\n\n堪羡優伶有福，誰知公子無緣。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "对应袭人为解释；不能据此独定出嫁程序或当事人心理。"
+    ],
+    "confidence": 95,
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-ALBUM-A03",
+    "chapter": 5,
+    "characters": [
+      "香菱"
+    ],
+    "context": "宝玉梦中在薄命司读取副册首幅，人物姓名为关联解释，图册正文未直接题名。",
+    "direct_meaning": "桂花、干池、败莲；遭际可伤，后有香魂返乡之语。",
+    "future_direction": "遭际转坏；死亡意象；桂与莲的冲突",
+    "possible_directions": [
+      "遭际转坏",
+      "死亡意象",
+      "桂与莲的冲突"
+    ],
+    "themes": [
+      "T-05",
+      "T-09"
+    ],
+    "strength": "A",
+    "remarks": "对应香菱需关联本地文字；不能误说香菱在已读叙事中已经死去。",
+    "types": [
+      "图册",
+      "判词"
+    ],
+    "version_refs": [
+      "G001"
+    ],
+    "quote": "寶玉看了不解。遂擲下這個，又去開了副冊廚門，拿起一本冊來，揭開看時，只見畫着一株桂花，下面有一池沼，其中水涸泥乾，蓮枯藕敗。畫後書云：\n\n根並荷花一莖香，平生遭際實堪傷。\n\n自從兩地生孤木，致使香魂返故鄉。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "对应香菱需关联本地文字；不能误说香菱在已读叙事中已经死去。"
+    ],
+    "confidence": 95,
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-ALBUM-A04",
+    "chapter": 5,
+    "characters": [
+      "薛宝钗",
+      "林黛玉"
+    ],
+    "context": "宝玉梦中在薄命司读取正册首幅钗黛合册，人物姓名为关联解释，图册正文未直接题名。",
+    "direct_meaning": "枯木悬玉带、雪下金簪；停机德和咏絮才同受叹惜。",
+    "future_direction": "才德不得其所；钗黛并置；埋没与悬置",
+    "possible_directions": [
+      "才德不得其所",
+      "钗黛并置",
+      "埋没与悬置"
+    ],
+    "themes": [
+      "T-03",
+      "T-04",
+      "T-05"
+    ],
+    "strength": "A",
+    "remarks": "正册首幅合写两向；不是两幅；挂埋不得机械还原死法或地点。",
+    "types": [
+      "图册",
+      "判词"
+    ],
+    "version_refs": [
+      "G001"
+    ],
+    "quote": "寶玉看了仍不解他。又擲下，再去取正冊看。只見頭一頁上便畫着兩株枯木，木上懸着一圍玉帶，又有一堆雪，雪下一股金簪。也有四句言詞道：\n\n可嘆停機德，堪憐咏絮才。\n\n玉帶林中掛，金簪雪裡埋。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "正册首幅合写两向；不是两幅；挂埋不得机械还原死法或地点。"
+    ],
+    "confidence": 95,
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-ALBUM-A05",
+    "chapter": 5,
+    "characters": [
+      "贾元春"
+    ],
+    "context": "宝玉梦中在薄命司读取正册第二幅，人物姓名为关联解释，图册正文未直接题名。",
+    "direct_meaning": "弓与香橼；宫闱显耀同大梦归相接。",
+    "future_direction": "宫廷盛衰；荣宠不久；死亡意象",
+    "possible_directions": [
+      "宫廷盛衰",
+      "荣宠不久",
+      "死亡意象"
+    ],
+    "themes": [
+      "T-05",
+      "T-06",
+      "T-09"
+    ],
+    "strength": "A",
+    "remarks": "正文虎兔原样保留；P00006虎兕异文使拆字生肖等精确解法不稳。",
+    "types": [
+      "图册",
+      "判词"
+    ],
+    "version_refs": [
+      "P00006",
+      "G001"
+    ],
+    "version_note": "正文虎兔原样保留；P00006虎兕异文使拆字生肖等精确解法不稳。",
+    "quote": "寶玉看了仍不解。待要問時，情知他必不肯泄漏；待要丟下，又不舍。遂又往後看時，只見畫著一張弓，弓上掛一香櫞。也有一首歌詞云：\n\n二十年來辨是誰，榴花開處照宮闈；\n\n三春爭及初春景，虎兔相逢大夢歸。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "正文虎兔原样保留；P00006虎兕异文使拆字生肖等精确解法不稳。"
+    ],
+    "confidence": 95,
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-ALBUM-A06",
+    "chapter": 5,
+    "characters": [
+      "贾探春"
+    ],
+    "context": "宝玉梦中在薄命司读取正册第三幅，人物姓名为关联解释，图册正文未直接题名。",
+    "direct_meaning": "风筝海船与掩泣女子；精明高志受末世制约，江边送别千里远。",
+    "future_direction": "远行离散；才志受时运限制",
+    "possible_directions": [
+      "远行离散",
+      "才志受时运限制"
+    ],
+    "themes": [
+      "T-05",
+      "T-10"
+    ],
+    "strength": "A",
+    "remarks": "清明可有节候/语义解释；不定离开年份与海外地点。",
+    "types": [
+      "图册",
+      "判词"
+    ],
+    "version_refs": [
+      "G001"
+    ],
+    "quote": "後面又畫著兩人放風箏，一片大海，一隻大船，船中有一女子掩面泣涕之狀。也有四句寫云：\n\n才自精明志自高，生於末世運偏消。\n\n清明涕送江邊望，千里東風一夢遙。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "清明可有节候/语义解释；不定离开年份与海外地点。"
+    ],
+    "confidence": 95,
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-ALBUM-A07",
+    "chapter": 5,
+    "characters": [
+      "史湘云"
+    ],
+    "context": "宝玉梦中在薄命司读取正册第四幅，人物姓名为关联解释，图册正文未直接题名。",
+    "direct_meaning": "飞云逝水；襁褓失父母，后来吊斜晖。",
+    "future_direction": "幼年丧亲；盛景消逝；离散",
+    "possible_directions": [
+      "幼年丧亲",
+      "盛景消逝",
+      "离散"
+    ],
+    "themes": [
+      "T-05",
+      "T-09",
+      "T-10"
+    ],
+    "strength": "A",
+    "remarks": "幼年丧亲为过去，后两句有未来感伤；不可仅凭水云解出地名归宿。",
+    "types": [
+      "图册",
+      "判词"
+    ],
+    "version_refs": [
+      "G001"
+    ],
+    "quote": "後面又畫幾縷飛雲，一灣逝水。其詞曰：\n\n富貴又何為？襁褓之間父母違；\n\n展眼弔斜暉，湘江水逝楚雲飛。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "幼年丧亲为过去，后两句有未来感伤；不可仅凭水云解出地名归宿。"
+    ],
+    "confidence": 95,
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-ALBUM-A08",
+    "chapter": 5,
+    "characters": [
+      "妙玉"
+    ],
+    "context": "宝玉梦中在薄命司读取正册第五幅，人物姓名为关联解释，图册正文未直接题名。",
+    "direct_meaning": "美玉落泥；洁与空的愿望遭污泥意象否定。",
+    "future_direction": "清洁理想受挫；外界污损；精神矛盾",
+    "possible_directions": [
+      "清洁理想受挫",
+      "外界污损",
+      "精神矛盾"
+    ],
+    "themes": [
+      "T-05",
+      "T-11"
+    ],
+    "strength": "A",
+    "remarks": "污泥可以指处境、名誉、世俗牵累；不推出特定性暴力或职业。",
+    "types": [
+      "图册",
+      "判词"
+    ],
+    "version_refs": [
+      "G001"
+    ],
+    "quote": "後面又畫著一塊美玉，落在泥垢之中。其斷語云：\n\n欲潔何曾潔，云空未必空！\n\n可憐金玉質，落陷污泥中。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "污泥可以指处境、名誉、世俗牵累；不推出特定性暴力或职业。"
+    ],
+    "confidence": 95,
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-ALBUM-A09",
+    "chapter": 5,
+    "characters": [
+      "贾迎春"
+    ],
+    "context": "宝玉梦中在薄命司读取正册第六幅，人物姓名为关联解释，图册正文未直接题名。",
+    "direct_meaning": "狼欲啖美女；得志猖狂对花柳质形成威胁，一载黄梁。",
+    "future_direction": "婚姻/强者压迫；短促生命",
+    "possible_directions": [
+      "婚姻/强者压迫",
+      "短促生命"
+    ],
+    "themes": [
+      "T-05",
+      "T-08",
+      "T-09"
+    ],
+    "strength": "A",
+    "remarks": "人物认定来自后文对照；一载字面不强行订为精确年表。",
+    "types": [
+      "图册",
+      "判词"
+    ],
+    "version_refs": [
+      "G001"
+    ],
+    "quote": "後面忽見畫著個惡狼，追撲一美女，欲啖之意。其書云：\n\n子系中山狼，得志便猖狂。\n\n金閨花柳質，一載赴黃梁。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "人物认定来自后文对照；一载字面不强行订为精确年表。"
+    ],
+    "confidence": 95,
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-ALBUM-A10",
+    "chapter": 5,
+    "characters": [
+      "贾惜春"
+    ],
+    "context": "宝玉梦中在薄命司读取正册第七幅，人物姓名为关联解释，图册正文未直接题名。",
+    "direct_meaning": "美人古庙独看经；看破三春后着缁衣卧佛旁。",
+    "future_direction": "出家；离开侯门",
+    "possible_directions": [
+      "出家",
+      "离开侯门"
+    ],
+    "themes": [
+      "T-05",
+      "T-11"
+    ],
+    "strength": "A",
+    "remarks": "三春的三人/季节/春光解释并存；不据此规定寺名。",
+    "types": [
+      "图册",
+      "判词"
+    ],
+    "version_refs": [
+      "G001"
+    ],
+    "quote": "後面便是一所古廟，裡面有一美人在內看經獨坐。其判云：\n\n勘破三春景不長，緇衣頓改昔年妝。\n\n可憐綉戶侯門女，獨卧青燈古佛傍。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "三春的三人/季节/春光解释并存；不据此规定寺名。"
+    ],
+    "confidence": 95,
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-ALBUM-A11",
+    "chapter": 5,
+    "characters": [
+      "王熙凤"
+    ],
+    "context": "宝玉梦中在薄命司读取正册第八幅，人物姓名为关联解释，图册正文未直接题名。",
+    "direct_meaning": "冰山雌凤；末世才受爱慕，哭向金陵。",
+    "future_direction": "才与末世相冲；地位不稳；悲伤返向金陵",
+    "possible_directions": [
+      "才与末世相冲",
+      "地位不稳",
+      "悲伤返向金陵"
+    ],
+    "themes": [
+      "T-01",
+      "T-05"
+    ],
+    "strength": "A",
+    "remarks": "一从二令三人木有多种解法，保留不拆成既定婚变程序。",
+    "types": [
+      "图册",
+      "判词"
+    ],
+    "version_refs": [
+      "G001"
+    ],
+    "quote": "後面便是一片冰山，上面有一隻雌鳳。其判曰：\n\n凡鳥偏從末世來，都知愛慕此身才。\n\n一從二令三人木，哭向金陵事更哀。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "一从二令三人木有多种解法，保留不拆成既定婚变程序。"
+    ],
+    "confidence": 95,
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-ALBUM-A12",
+    "chapter": 5,
+    "characters": [
+      "巧姐"
+    ],
+    "context": "宝玉梦中在薄命司读取正册第九幅，人物姓名为关联解释，图册正文未直接题名。",
+    "direct_meaning": "荒村纺绩；家败无亲贵可恃，因济刘氏遇恩人。",
+    "future_direction": "家败后的救助；亲情失效；劳作环境",
+    "possible_directions": [
+      "家败后的救助",
+      "亲情失效",
+      "劳作环境"
+    ],
+    "themes": [
+      "T-05",
+      "T-08",
+      "T-10"
+    ],
+    "strength": "A",
+    "remarks": "可关联刘姥姥受济；不指定恩人之子为丈夫。",
+    "types": [
+      "图册",
+      "判词"
+    ],
+    "version_refs": [
+      "G001"
+    ],
+    "quote": "後面又是一座荒村野店，有一美人在那裡紡績。其判云：\n\n事敗休云貴，家亡莫論親。\n\n偶因濟劉氏，巧得遇恩人。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "可关联刘姥姥受济；不指定恩人之子为丈夫。"
+    ],
+    "confidence": 95,
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-ALBUM-A13",
+    "chapter": 5,
+    "characters": [
+      "李纨",
+      "贾兰"
+    ],
+    "context": "宝玉梦中在薄命司读取正册第十幅，人物姓名为关联解释，图册正文未直接题名。",
+    "direct_meaning": "茂兰、冠服妇人；结子与一盆兰受突出，而仍归空谈。",
+    "future_direction": "后代显达意象；才德功名的空幻",
+    "possible_directions": [
+      "后代显达意象",
+      "才德功名的空幻"
+    ],
+    "themes": [
+      "T-05",
+      "T-08",
+      "T-12"
+    ],
+    "strength": "A",
+    "remarks": "判词未明书李纨贾兰，文字关联作解释；未给具体科名官职。",
+    "types": [
+      "图册",
+      "判词"
+    ],
+    "version_refs": [
+      "G001"
+    ],
+    "quote": "後面又畫著一盆茂蘭，旁有一位鳳冠霞帔的美人。也有判云：\n\n桃李春風結子完，到頭誰似一盆蘭？\n\n為冰為水空相妒，枉與他人作話談。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "判词未明书李纨贾兰，文字关联作解释；未给具体科名官职。"
+    ],
+    "confidence": 95,
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-ALBUM-A14",
+    "chapter": 5,
+    "characters": [
+      "秦可卿"
+    ],
+    "context": "宝玉梦中在薄命司读取正册第十一幅，人物姓名为关联解释，图册正文未直接题名。",
+    "direct_meaning": "楼中美女悬梁；情身与宁府造衅相接。",
+    "future_direction": "死亡悬梁图；宁府祸端",
+    "possible_directions": [
+      "死亡悬梁图",
+      "宁府祸端"
+    ],
+    "themes": [
+      "T-01",
+      "T-05",
+      "T-09"
+    ],
+    "strength": "A",
+    "remarks": "图像为未来簿册的暗示，与后文叙事死因不宜强行揉成确定事实。",
+    "types": [
+      "图册",
+      "判词"
+    ],
+    "version_refs": [
+      "G001"
+    ],
+    "quote": "後面又畫著高樓大廈，有一美人懸梁自縊。其判云：\n\n情天情海幻情身，情既相逢必主淫。\n\n謾言不肖皆榮出，造釁開端實在寧。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "图像为未来簿册的暗示，与后文叙事死因不宜强行揉成确定事实。"
+    ],
+    "confidence": 95,
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-SONG-S01",
+    "chapter": 5,
+    "characters": [],
+    "context": "警幻令演《红楼梦》曲，宝玉听而未悟；S01按底本第1至14支编号。",
+    "direct_meaning": "以风月情浓演出怀金悼玉的红楼梦。",
+    "future_direction": "全书怀悼基调；情与幻境结构",
+    "possible_directions": [
+      "全书怀悼基调",
+      "情与幻境结构"
+    ],
+    "themes": [
+      "T-13",
+      "T-15"
+    ],
+    "strength": "A",
+    "remarks": "引子为总纲，非具体人物已死证明。",
+    "types": [
+      "曲文"
+    ],
+    "quote": "開闢鴻濛，誰為情種？都只為風月情濃。趁着這奈何天、傷懷日、寂寞時，試遣愚衷。因此上，演出這懷金悼玉的《紅樓夢》。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "引子为总纲，非具体人物已死证明。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-SONG-S02",
+    "chapter": 5,
+    "characters": [
+      "贾宝玉",
+      "薛宝钗",
+      "林黛玉"
+    ],
+    "context": "警幻令演《红楼梦》曲，宝玉听而未悟；S02按底本第1至14支编号。",
+    "direct_meaning": "金玉良姻与木石前盟冲突，举案齐眉仍意难平。",
+    "future_direction": "婚姻与情感不相等；木石记忆不忘；金玉结合的可能",
+    "possible_directions": [
+      "婚姻与情感不相等",
+      "木石记忆不忘",
+      "金玉结合的可能"
+    ],
+    "themes": [
+      "T-03",
+      "T-04",
+      "T-08"
+    ],
+    "strength": "A",
+    "remarks": "第一人称角色关联需解释；可支持关系张力，不落实婚礼计策。",
+    "types": [
+      "曲文"
+    ],
+    "quote": "都道是金玉良姻，俺只念木石前盟。空對著，山中高士晶瑩雪；終不忘，世外仙姝寂寞林。嘆人間，美中不足今方信。縱然是齊眉舉案，到底意難平。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "第一人称角色关联需解释；可支持关系张力，不落实婚礼计策。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-SONG-S03",
+    "chapter": 5,
+    "characters": [
+      "贾宝玉",
+      "林黛玉"
+    ],
+    "context": "警幻令演《红楼梦》曲，宝玉听而未悟；S03按底本第1至14支编号。",
+    "direct_meaning": "有奇缘而心事终化，嗟叹牵挂像镜花水月，四季流泪。",
+    "future_direction": "情愿难成；泪债消耗；双方徒劳牵挂",
+    "possible_directions": [
+      "情愿难成",
+      "泪债消耗",
+      "双方徒劳牵挂"
+    ],
+    "themes": [
+      "T-03",
+      "T-09"
+    ],
+    "strength": "A",
+    "remarks": "末句问泪能经多少季节，不据此算寿数。",
+    "types": [
+      "曲文"
+    ],
+    "quote": "一個是閬苑仙葩，一個是美玉無瑕。若說沒奇緣，今生偏又遇着他；若說有奇緣，如何心事終須化！一個枉自嗟呀，一個空勞牽掛。一個是水中月，一個是鏡中花。想眼中，能有多少淚珠兒，怎經得，秋流到冬盡春流到夏。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "末句问泪能经多少季节，不据此算寿数。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-SONG-S04",
+    "chapter": 5,
+    "characters": [
+      "贾元春"
+    ],
+    "context": "警幻令演《红楼梦》曲，宝玉听而未悟；S04按底本第1至14支编号。",
+    "direct_meaning": "荣华正好时无常到，芳魂梦告父母退步抽身。",
+    "future_direction": "死亡；家族应及早退出；荣宠风险",
+    "possible_directions": [
+      "死亡",
+      "家族应及早退出",
+      "荣宠风险"
+    ],
+    "themes": [
+      "T-05",
+      "T-06",
+      "T-09"
+    ],
+    "strength": "A",
+    "remarks": "曲中有梦告文字，未给政治罪名或死法。",
+    "types": [
+      "曲文"
+    ],
+    "quote": "喜榮華正好，恨無常又到。眼睜睜，把萬事全拋；盪悠悠，把芳魂消耗。望家鄉，路遠山遙。故向爹娘夢裡相尋告：兒命已入黃泉，天倫呵，須要退步抽身早。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "曲中有梦告文字，未给政治罪名或死法。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-SONG-S05",
+    "chapter": 5,
+    "characters": [
+      "贾探春"
+    ],
+    "context": "警幻令演《红楼梦》曲，宝玉听而未悟；S05按底本第1至14支编号。",
+    "direct_meaning": "风雨路三千，骨肉分地，告父母保平安。",
+    "future_direction": "远行；亲族离散",
+    "possible_directions": [
+      "远行",
+      "亲族离散"
+    ],
+    "themes": [
+      "T-05",
+      "T-10"
+    ],
+    "strength": "A",
+    "remarks": "三千不钉实里程，未明婚配对象或政权。",
+    "types": [
+      "曲文"
+    ],
+    "quote": "一帆風雨路三千，把骨肉家園齊來拋閃。恐哭損殘年。告爹娘，莫把兒懸念。自古窮通皆有命，離合豈無緣。從今分兩地，各自保平安。奴去也，莫牽連。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "三千不钉实里程，未明婚配对象或政权。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-SONG-S06",
+    "chapter": 5,
+    "characters": [
+      "史湘云"
+    ],
+    "context": "警幻令演《红楼梦》曲，宝玉听而未悟；S06按底本第1至14支编号。",
+    "direct_meaning": "幼失父母，得配才貌仙郎，终云散水涸。",
+    "future_direction": "婚姻慰藉；乐后转悲；关系或生命消散",
+    "possible_directions": [
+      "婚姻慰藉",
+      "乐后转悲",
+      "关系或生命消散"
+    ],
+    "themes": [
+      "T-05",
+      "T-08",
+      "T-09",
+      "T-10"
+    ],
+    "strength": "A",
+    "remarks": "终久消散的主体与形式未明；不能确定丧夫年月。",
+    "types": [
+      "曲文"
+    ],
+    "quote": "襁褓中，父母嘆雙亡。縱居那綺羅叢，誰知嬌養？幸生來，英雄闊大寬宏量，從未將兒女私情略縈心上。好一似，霽月光風耀玉堂。廝配得才貌仙郎，博得個地久天長，準折得幼年時坎坷形狀。終久是雲散高唐，水涸湘江。這是塵寰中消長數應當，何必枉悲傷！",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "终久消散的主体与形式未明；不能确定丧夫年月。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-SONG-S07",
+    "chapter": 5,
+    "characters": [
+      "妙玉"
+    ],
+    "context": "警幻令演《红楼梦》曲，宝玉听而未悟；S07按底本第1至14支编号。",
+    "direct_meaning": "孤高洁净招妒，青灯古殿而违心愿，美玉泥陷。",
+    "future_direction": "孤洁理想破损；俗世牵累；与公子无缘",
+    "possible_directions": [
+      "孤洁理想破损",
+      "俗世牵累",
+      "与公子无缘"
+    ],
+    "themes": [
+      "T-05",
+      "T-11"
+    ],
+    "strength": "A",
+    "remarks": "泥陷和风尘兼有比喻解释；不具体化受辱遭遇。",
+    "types": [
+      "曲文"
+    ],
+    "quote": "氣質美如蘭，才華阜比仙。天生成孤癖人皆罕。你道是啖肉食腥膻，視綺羅俗厭；卻不知太高人愈妒，過潔世同嫌。可嘆這，青燈古殿人將老；辜負了，紅粉朱樓春色闌。到頭來，依舊是風塵骯髒違心愿；好一似，無瑕美玉遭泥陷。又何須，王孫公子嘆無緣。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "泥陷和风尘兼有比喻解释；不具体化受辱遭遇。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-SONG-S08",
+    "chapter": 5,
+    "characters": [
+      "贾迎春"
+    ],
+    "context": "警幻令演《红楼梦》曲，宝玉听而未悟；S08按底本第1至14支编号。",
+    "direct_meaning": "无情中山狼作践公府千金，一载芳魂荡悠。",
+    "future_direction": "婚姻压迫；死亡",
+    "possible_directions": [
+      "婚姻压迫",
+      "死亡"
+    ],
+    "themes": [
+      "T-05",
+      "T-08",
+      "T-09"
+    ],
+    "strength": "A",
+    "remarks": "不能从曲词增加具体虐待手段或精确日期。",
+    "types": [
+      "曲文"
+    ],
+    "quote": "中山狼，無情獸，全不念當日根由。一味的，驕奢淫蕩貪還構。覷著那，侯門艷質同蒲柳；作踐的，公府千金似下流。嘆芳魂艷魄，一載盪悠悠。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "不能从曲词增加具体虐待手段或精确日期。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-SONG-S09",
+    "chapter": 5,
+    "characters": [
+      "贾惜春"
+    ],
+    "context": "警幻令演《红楼梦》曲，宝玉听而未悟；S09按底本第1至14支编号。",
+    "direct_meaning": "看破三春、拒绝韶华，见生死劫而向往西方长生。",
+    "future_direction": "离俗；出家；生死反思",
+    "possible_directions": [
+      "离俗",
+      "出家",
+      "生死反思"
+    ],
+    "themes": [
+      "T-05",
+      "T-09",
+      "T-11"
+    ],
+    "strength": "A",
+    "remarks": "宗教向往不证明已证悟。",
+    "types": [
+      "曲文"
+    ],
+    "quote": "將那三春看破，桃紅柳綠待如何？把這韶華打滅，覓那情淡天和。說什麼，天上夭桃盛，雲中杏蕊多！到頭來，誰見把秋捱過？則看那，白楊村裡人嗚咽，青楓林下鬼吟哦。更兼着，連天衰草遮墳墓。這的是，昨貧今富人勞碌，春榮秋謝花折磨。似這般，生關死劫誰能躲？聞道說，西方寶樹喚婆娑，上結著長生果。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "宗教向往不证明已证悟。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-SONG-S10",
+    "chapter": 5,
+    "characters": [
+      "王熙凤"
+    ],
+    "context": "警幻令演《红楼梦》曲，宝玉听而未悟；S10按底本第1至14支编号。",
+    "direct_meaning": "聪明机关反算性命，家亡人散，大厦灯尽。",
+    "future_direction": "死亡；家族崩坏；计算失效",
+    "possible_directions": [
+      "死亡",
+      "家族崩坏",
+      "计算失效"
+    ],
+    "themes": [
+      "T-01",
+      "T-05",
+      "T-09",
+      "T-10"
+    ],
+    "strength": "A",
+    "remarks": "家亡与个人死亡相关但未给具体先后日程。",
+    "types": [
+      "曲文"
+    ],
+    "quote": "機關算盡太聰明，反算了卿卿性命。生前心已碎，死後性靈空。家富人寧，終有個，家亡人散各奔騰。枉費了，意憖憖半世心；好一似，盪悠悠三更夢。忽喇喇如大廈傾，昏慘慘似燈將盡。呀！一場歡喜忽悲辛。嘆人世，終難定！",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "家亡与个人死亡相关但未给具体先后日程。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-SONG-S11",
+    "chapter": 5,
+    "characters": [
+      "巧姐",
+      "王熙凤"
+    ],
+    "context": "警幻令演《红楼梦》曲，宝玉听而未悟；S11按底本第1至14支编号。",
+    "direct_meaning": "母亲济困之阴功使儿遇恩人，斥银钱上忘骨肉的舅兄。",
+    "future_direction": "恩情救助；亲属背弃；财利损害",
+    "possible_directions": [
+      "恩情救助",
+      "亲属背弃",
+      "财利损害"
+    ],
+    "themes": [
+      "T-05",
+      "T-08",
+      "T-10"
+    ],
+    "strength": "A",
+    "remarks": "狠舅奸兄未题姓名，不用禁书或预训练记忆补名单。",
+    "types": [
+      "曲文"
+    ],
+    "quote": "留餘慶，留餘慶，忽遇恩人；幸娘親，幸娘親，積得陰功。勸人生，濟困扶窮，休似俺那銀錢上，忘骨肉的狠舅奸兄！正是乘除加減，上有蒼穹。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "狠舅奸兄未题姓名，不用禁书或预训练记忆补名单。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-SONG-S12",
+    "chapter": 5,
+    "characters": [
+      "李纨",
+      "贾兰"
+    ],
+    "context": "警幻令演《红楼梦》曲，宝玉听而未悟；S12按底本第1至14支编号。",
+    "direct_meaning": "青春恩情已逝，冠服、爵位与死亡相邻，虚名留人。",
+    "future_direction": "后代/家庭显达；生命与荣誉失衡；无常",
+    "possible_directions": [
+      "后代/家庭显达",
+      "生命与荣誉失衡",
+      "无常"
+    ],
+    "themes": [
+      "T-05",
+      "T-08",
+      "T-09",
+      "T-12"
+    ],
+    "strength": "A",
+    "remarks": "曲中戴冠、簪缨、黄泉语主体可能转换，不能一律强配一人。",
+    "types": [
+      "曲文"
+    ],
+    "quote": "鏡裡恩情，更那堪夢裡功名！那美韶華去之何迅！再休提綉帳鴛衾。只這戴珠冠，披鳳襖，也抵不了無常性命。雖說是，人生莫受老來貧，也須要陰騭積兒孫。氣昂昂頭戴簪纓，光閃閃腰懸金印；威赫赫爵位高登，昏慘慘黃泉路近。問古來將相可還存？也只是虛名兒與後人欽敬。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "曲中戴冠、簪缨、黄泉语主体可能转换，不能一律强配一人。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-SONG-S13",
+    "chapter": 5,
+    "characters": [
+      "秦可卿",
+      "贾敬"
+    ],
+    "context": "警幻令演《红楼梦》曲，宝玉听而未悟；S13按底本第1至14支编号。",
+    "direct_meaning": "画梁香尘落，责宁府及敬为家事颓败根源。",
+    "future_direction": "死亡；宁府内部祸端；父辈责任",
+    "possible_directions": [
+      "死亡",
+      "宁府内部祸端",
+      "父辈责任"
+    ],
+    "themes": [
+      "T-01",
+      "T-05",
+      "T-09"
+    ],
+    "strength": "A",
+    "remarks": "敬字正文直接出现，可与贾敬联系但因果范围仍是曲文。",
+    "types": [
+      "曲文"
+    ],
+    "quote": "畫梁春盡落香塵。擅風情，秉月貌，便是敗家的根本。箕裘頹墮皆從敬，家事消亡首罪寧。宿孽總因情。",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "敬字正文直接出现，可与贾敬联系但因果范围仍是曲文。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-SONG-S14",
+    "chapter": 5,
+    "characters": [],
+    "context": "警幻令演《红楼梦》曲，宝玉听而未悟；S14按底本第1至14支编号。",
+    "direct_meaning": "为官家凋、富贵财散，报恩逃生、偿命泪尽，看破遁空，痴迷丧命，食尽鸟散。",
+    "future_direction": "政治/经济崩坏；报应；离散；出家；死亡；泪债终点",
+    "possible_directions": [
+      "政治/经济崩坏",
+      "报应",
+      "离散",
+      "出家",
+      "死亡",
+      "泪债终点"
+    ],
+    "themes": [
+      "T-01",
+      "T-02",
+      "T-03",
+      "T-07",
+      "T-09",
+      "T-10",
+      "T-11",
+      "T-12"
+    ],
+    "strength": "A",
+    "remarks": "收尾多主体总括，不能把每小句未经证据分派人物。",
+    "types": [
+      "曲文"
+    ],
+    "quote": "為官的，家業凋零；富貴的，金銀散盡。有恩的，死裡逃生；無情的，分明照應。欠命的，命已還；欠淚的，淚已盡。冤冤相報實非輕，分離合聚皆前定。欲知命短問前生，老來富貴也真僥幸。看破的，遁入空門；痴迷的，枉送了性命。好一似食盡鳥投林，落了片白茫茫大地真乾凈！",
+    "layer": "正文",
+    "note_id": null,
+    "alternatives": [
+      "收尾多主体总括，不能把每小句未经证据分派人物。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-ANCESTORS",
+    "chapter": 5,
+    "quote": "奈運終數盡，不可輓回者。",
+    "characters": [],
+    "context": "警幻转述宁荣二公嘱托。",
+    "direct_meaning": "祖灵认定家运将尽不可挽回。",
+    "future_direction": "家族败落的明确宣告",
+    "possible_directions": [
+      "贾府家运终结"
+    ],
+    "themes": [
+      "T-01",
+      "T-12"
+    ],
+    "strength": "A",
+    "layer": "正文",
+    "note_id": null,
+    "types": [
+      "未来指向"
+    ],
+    "alternatives": [
+      "可以为人物判断或主题性警示，不强制落实为唯一具体事件。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "仅据本地合格层；不推出具体终局，人物对应不替代直接题名。"
+  },
+  {
+    "key": "C005-ECONOMY",
+    "chapter": 5,
+    "quote": "今而後萬萬解釋，改悟前情，将謹勤有用的工夫，置身於經濟之道。",
+    "characters": [
+      "贾宝玉"
+    ],
+    "context": "警幻以幻情警宝玉后的要求。",
+    "direct_meaning": "希望宝玉转情向仕途经济。",
+    "future_direction": "宝玉被要求回到家族正路",
+    "possible_directions": [
+      "接受功业教导",
+      "教导失效"
+    ],
+    "themes": [
+      "T-02"
+    ],
+    "strength": "A",
+    "remarks": "明确是要求而非后来已实现的预言；本回仍未悟。",
+    "layer": "正文",
+    "note_id": null,
+    "types": [
+      "未来指向"
+    ],
+    "alternatives": [
+      "明确是要求而非后来已实现的预言；本回仍未悟。"
+    ],
+    "confidence": 95,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT"
+  },
+  {
+    "key": "C005-MIJIN",
+    "chapter": 5,
+    "quote": "不受金銀之謝，但遇有緣者渡之。",
+    "characters": [
+      "贾宝玉"
+    ],
+    "context": "警幻介绍迷津中的木居士灰侍者木筏。",
+    "direct_meaning": "过迷津取决有缘而非金钱。",
+    "future_direction": "精神解脱超越经济交换",
+    "possible_directions": [
+      "有缘度脱",
+      "金钱不能救度"
+    ],
+    "themes": [
+      "T-02",
+      "T-13",
+      "T-15"
+    ],
+    "strength": "B",
+    "layer": "正文",
+    "note_id": null,
+    "types": [
+      "未来指向"
+    ],
+    "alternatives": [
+      "可以为人物判断或主题性警示，不强制落实为唯一具体事件。"
+    ],
+    "confidence": 82,
+    "version_refs": [
+      "G001"
+    ],
+    "version_note": "无已登记的局部问题；全局汇校限制G001仍在",
+    "related_keys": [],
+    "status_at_80": "undetermined_at_shard_boundary",
+    "contamination": "CLEAR_LOCAL_SUPPORT",
+    "remarks": "仅据本地合格层；不推出具体终局，人物对应不替代直接题名。"
+  }
+]

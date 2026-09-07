@@ -1,0 +1,44 @@
+{
+  "status": "pass",
+  "canonical_integrity": {
+    "release": "red-chamber-canonical-v1",
+    "dataset_sha256": "a307c6629bb6fbd4a2c1a54560e3c53e4fec435a7017a6d83407bf1c00086a54",
+    "integrity": "pass"
+  },
+  "evidence_verified": 488,
+  "quote_and_location_failures": 0,
+  "dangling_references": 0,
+  "required_characters": 24,
+  "themes": 15,
+  "chapter5_judgments": 14,
+  "chapter5_songs": 14,
+  "chapter63_flower_lots": 8,
+  "forward_chapter_layer_deliveries": 160,
+  "reverse_chapter_decisions": 80,
+  "semantic_review_limit": "机器验证文字和引用，不证明文学解释唯一正确；人工两轮审读记录另见audit_log.md。",
+  "source_layers": {
+    "正文": 406,
+    "脂批": 82
+  },
+  "strength": {
+    "A": 131,
+    "B": 233,
+    "C": 101,
+    "D": 23
+  },
+  "potential_contamination": [
+    "F-0349",
+    "F-0350"
+  ],
+  "artifact_sha256": {
+    "foreshadowing.md": "cec64602d7c7d4c2ab0403995d37e7e89cc01a6f9ab847f58a9eef250caa5753",
+    "foreshadowing.json": "e698f0ccb2d07fcc38514adc1a288d321ed2a9dfe20721210f66c8a75b16da1b",
+    "character_evidence_index.md": "a8b7e390476f1733f0b4ebf74c43e8b9661bad9b980819bc1682d8202fffa887",
+    "theme_evidence_index.md": "2efdee983a393b439e3e4acb0f27087984decaa2770b9f4e91cb2705f6c28603",
+    "conflicts.md": "6ee668852851f8ee60548c014a365e3a58f3a78885ffdb4737b15171a9dbcb30",
+    "unresolved_questions.md": "957caf58e61a805735764b07381290708ec9210fb3043dd682c909dd538b1d08",
+    "phase2_report.md": "c62fe6d9335329cf1107764ba3f42757d9883dc6da560b63c1ffc2087f6d6219",
+    "special_inventory.md": "d65a1306ae34b1f98c96a0aa4ca66278826bb35e152bf570a3db4a8791737204",
+    "audit_log.md": "5f670ce438931b94b5603cafc5a0d1bcb1e399aad213ea1bc4eccafe936228a9"
+  }
+}

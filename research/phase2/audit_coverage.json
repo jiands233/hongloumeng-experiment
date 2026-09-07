@@ -1,0 +1,1128 @@
+{
+  "forward_order": "1..80",
+  "reverse_order": "80..1",
+  "method": "正序人工读完正文与允许批语；日志证明交付区间，语义审读声明及查漏决定另列。逆序复核既有候选及读取器派生的未覆盖提示，按需重读上下文；不是第二遍全文阅读。",
+  "truncation_recovery": "77回首次整回输出截断后重读L17—23；其余前序读取在分段日志中完成。",
+  "chapters": [
+    {
+      "chapter": 1,
+      "forward": {
+        "main": {
+          "total_units": 163,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 180,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "补好了歌金银/姣妻/儿孙、解注荣枯反向/生死并置、雨村飞腾诗与士隐实际出离；框架度脱、还泪、销号、石归、抄传、情空均已收；两处缺口不补。"
+    },
+    {
+      "chapter": 2,
+      "forward": {
+        "main": {
+          "total_units": 65,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 122,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "补抓周的色鬼判读与雨村反驳；访英莲承诺4知而不救未偿；甄宝玉家业约束与贾宝玉只作对照。"
+    },
+    {
+      "chapter": 3,
+      "forward": {
+        "main": {
+          "total_units": 61,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 173,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "泪至死不干与22泪尽并列；石玉关系不凭训练记忆强同一；西江月含讽刺反语。"
+    },
+    {
+      "chapter": 4,
+      "forward": {
+        "main": {
+          "total_units": 47,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 86,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "门子发落有后根但未述结果；宝钗待选仍未回报；四家联络既保护又传险。"
+    },
+    {
+      "chapter": 5,
+      "forward": {
+        "main": {
+          "total_units": 217,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 137,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "14图判含11正册单元合写钗黛，2又副、1副，14曲含引子收尾全入；匿名归属是索引假说；虎兔不换字。"
+    },
+    {
+      "chapter": 6,
+      "forward": {
+        "main": {
+          "total_units": 51,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 98,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "二进已应，三进和巧姐归着未应；义助为可能后因；不指定婚配或营救手段。"
+    },
+    {
+      "chapter": 7,
+      "forward": {
+        "main": {
+          "total_units": 57,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 101,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "英莲不记身世保留；冷香热毒非结局诊断；惜春玩话与后续断亲可相照。"
+    },
+    {
+      "chapter": 8,
+      "forward": {
+        "main": {
+          "total_units": 75,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 162,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "补金锁反面芳龄永继，与全无常方向并存；误窃及情榜批仍开放；不逆排图式自造玉背文字。"
+    },
+    {
+      "chapter": 9,
+      "forward": {
+        "main": {
+          "total_units": 33,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 70,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "家塾结构失能保留；多条后文提示已在学堂/踢袭人应，不硬列远期。"
+    },
+    {
+      "chapter": 10,
+      "forward": {
+        "main": {
+          "total_units": 39,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 32,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "医者条件预期不是确保痊愈；13已死后不再列疗愈为待发生。"
+    },
+    {
+      "chapter": 11,
+      "forward": {
+        "main": {
+          "total_units": 51,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 32,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "秦自知不能过年与医生春分说冲突已应；宁府称敬将飞升被63反证。"
+    },
+    {
+      "chapter": 12,
+      "forward": {
+        "main": {
+          "total_units": 33,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 99,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "风月鉴正反及失败已闭，不另造后80镜再现；普通归葬未用作主线结局。"
+    },
+    {
+      "chapter": 13,
+      "forward": {
+        "main": {
+          "total_units": 51,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 87,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "梦中祭产方案未见施行并有批语否证；非常喜事近回已应；秦死方式只保留图判/现存正文之差异。"
+    },
+    {
+      "chapter": 14,
+      "forward": {
+        "main": {
+          "total_units": 49,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 68,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "理家效力是可行治理反证；凤劳病伏线后已有病；北静关系不作具体救援方案。"
+    },
+    {
+      "chapter": 15,
+      "forward": {
+        "main": {
+          "total_units": 37,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 80,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "宝珠后回再见未落实；北静赏识与忠顺追人可并存但无党争结论；风月滥权持续可核。"
+    },
+    {
+      "chapter": 16,
+      "forward": {
+        "main": {
+          "total_units": 49,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 154,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "甄家收五万是建设拨款语境，不能断定75仍欠五万；智能无下落保留；秦钟劝功名作反向证。"
+    },
+    {
+      "chapter": 17,
+      "forward": {
+        "main": {
+          "total_units": 85,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 139,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "空间提示多已在50/76应，不列80后新事件；园似曾相识留框架问题。"
+    },
+    {
+      "chapter": 18,
+      "forward": {
+        "main": {
+          "total_units": 177,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 129,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "四戏批与省亲条件承诺并列；妙玉师言开放；不从戏名调用外部戏剧情节。"
+    },
+    {
+      "chapter": 19,
+      "forward": {
+        "main": {
+          "total_units": 67,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 220,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "贫寒批与留下誓言同收；不能将万儿造化随口语当后文确定角色；情榜指认限批层。"
+    },
+    {
+      "chapter": 20,
+      "forward": {
+        "main": {
+          "total_units": 31,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 85,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "袭人出嫁、麝月留及供奉可兼容，不做背叛推断；成夫妇属批层。"
+    },
+    {
+      "chapter": 21,
+      "forward": {
+        "main": {
+          "total_units": 51,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 143,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "悬崖撒手/含讽谏/强英雄保持原批粒度；加远中近近中远批，未断定婚姻经过。"
+    },
+    {
+      "chapter": 22,
+      "forward": {
+        "main": {
+          "total_units": 109,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 110,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "补惜春缁衣乞食批与悟不成/远近关系对照；谜末补配独立标记；不把五台山笑话当指定修行地点。"
+    },
+    {
+      "chapter": 23,
+      "forward": {
+        "main": {
+          "total_units": 83,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 64,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "凤扫雪拾玉只批；家庙私利53照应；葬花是洁葬方法不直接既定自尽。"
+    },
+    {
+      "chapter": 24,
+      "forward": {
+        "main": {
+          "total_units": 57,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 118,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "贾芸仗义探庵和事败作为已收；倪二无息互助留反证；红玉帕梦近回部分应。"
+    },
+    {
+      "chapter": 25,
+      "forward": {
+        "main": {
+          "total_units": 75,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 115,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "玉救邪已发生，批称仅此一次限制万能玉；赵姨娘谋继承不等于贾环已袭。"
+    },
+    {
+      "chapter": 26,
+      "forward": {
+        "main": {
+          "total_units": 69,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 155,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "不幸悬念已28应；卫若兰射圃和狱神庙缺稿批仅记录提示，绝不补正文。"
+    },
+    {
+      "chapter": 27,
+      "forward": {
+        "main": {
+          "total_units": 65,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 127,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "葬花五种指向与诸艳总批已覆盖；小红得力、抄没、狱神庙分层；探春改革批已应。"
+    },
+    {
+      "chapter": 28,
+      "forward": {
+        "main": {
+          "total_units": 117,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 111,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "不幸之幸是凤设辞，修26闭环；汗巾与供奉批有连接；不把云儿酒令配给金陵诸钗。"
+    },
+    {
+      "chapter": 29,
+      "forward": {
+        "main": {
+          "total_units": 55,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 3,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "贾母不拘根基与延婚并存；麒麟加入但不消灭其他婚配；三戏只依本地名称不查剧外情节。"
+    },
+    {
+      "chapter": 30,
+      "forward": {
+        "main": {
+          "total_units": 35,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 5,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "做和尚是宝玉对黛誓言；踢伤袭人反证惜女无害的概括；井语32已应。"
+    },
+    {
+      "chapter": 31,
+      "forward": {
+        "main": {
+          "total_units": 21,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 3,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "白首双星未点两人；麒麟若兰射圃也未明说婚姻；不得与金玉已定批强行调和。"
+    },
+    {
+      "chapter": 32,
+      "forward": {
+        "main": {
+          "total_units": 23,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 33,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "湘云已议亲而对象未明；黛病与无人主张两类限制；精神知己不等于正式婚约。"
+    },
+    {
+      "chapter": 33,
+      "forward": {
+        "main": {
+          "total_units": 25,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 20,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "长史再来威胁保留原空格；忠顺与北静不擅编党争；贾母反话不当宝玉必为官预测。"
+    },
+    {
+      "chapter": 34,
+      "forward": {
+        "main": {
+          "total_units": 47,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 30,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "梦原文修正为蒋诉被拿与金钏哭说；既是半梦半醒，不作为琪官现实已捕；薛蟠本次非告密。"
+    },
+    {
+      "chapter": 35,
+      "forward": {
+        "main": {
+          "total_units": 35,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 25,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "傅秋芳求联姻仍未明；络玉只作物件关系弱证。"
+    },
+    {
+      "chapter": 36,
+      "forward": {
+        "main": {
+          "total_units": 27,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 30,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "情缘各有分定已改变宝玉原想；梦拒金玉仍非长辈订婚事实；袭人离开决定权有变化。"
+    },
+    {
+      "chapter": 37,
+      "forward": {
+        "main": {
+          "total_units": 101,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 60,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "湘云诗与本地后景批相连；海棠诗不能人人都机械自谶；晴雯强性77已见后果。"
+    },
+    {
+      "chapter": 38,
+      "forward": {
+        "main": {
+          "total_units": 171,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 24,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "菊诗的再会与分离都保留；螃蟹诗不配具体官员被捕；结社伏改革前80已应。"
+    },
+    {
+      "chapter": 39,
+      "forward": {
+        "main": {
+          "total_units": 21,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 15,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "茗玉明确胡诌；月例放贷有现实依据；不把想象的宗祠寻访当少女实死。"
+    },
+    {
+      "chapter": 40,
+      "forward": {
+        "main": {
+          "total_units": 37,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 4,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "一叶舟令只作孤独弱意象，不直接锁定金玉婚后；恩情批与刘氏线互证。"
+    },
+    {
+      "chapter": 41,
+      "forward": {
+        "main": {
+          "total_units": 29,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 24,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "只留许可瓜州渡口短引，不还原隔离部分；佛手柚子交换为条件关联。"
+    },
+    {
+      "chapter": 42,
+      "forward": {
+        "main": {
+          "total_units": 33,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 21,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "巧名是祝语和批者解谶；钗黛合一/逝后文字只归批语。"
+    },
+    {
+      "chapter": 43,
+      "forward": {
+        "main": {
+          "total_units": 35,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 45,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "祭者身份由44金钏生日确认；短命批明确；泛伏线不凭空补事件。"
+    },
+    {
+      "chapter": 44,
+      "forward": {
+        "main": {
+          "total_units": 31,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 22,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "生日冲突已应；贾母未来作主是条件保证而非永久保护；贿赂掩盖仍有风险。"
+    },
+    {
+      "chapter": 45,
+      "forward": {
+        "main": {
+          "total_units": 55,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 16,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "钗黛互助不是伪装的既定证据；病重与冷落提示有独立出处；睡前嫌疑承接婚配Q。"
+    },
+    {
+      "chapter": 46,
+      "forward": {
+        "main": {
+          "total_units": 33,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 16,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "寻死与为尼是并列选项；贾赦威胁不作定案；袭平名分也可能不如愿。"
+    },
+    {
+      "chapter": 47,
+      "forward": {
+        "main": {
+          "total_units": 35,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 5,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "贾母实际挡住强娶；薛蟠誓言在诱骗挨打语境不另作真终身承诺。"
+    },
+    {
+      "chapter": 48,
+      "forward": {
+        "main": {
+          "total_units": 57,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 14,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "石呆子生死未知，薛蟠改过只是条件预期；不按记忆补冤案结果。"
+    },
+    {
+      "chapter": 49,
+      "forward": {
+        "main": {
+          "total_units": 53,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 20,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "泪少与早批至死不干保持冲突；团圆诗不预配人物；局部择字仍有限制。"
+    },
+    {
+      "chapter": 50,
+      "forward": {
+        "main": {
+          "total_units": 253,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 12,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "补钗黛未揭底物谜，探春未念不补；已猜猴谜不得用后事谐义证明绝嗣；惜春画未完补Q。"
+    },
+    {
+      "chapter": 51,
+      "forward": {
+        "main": {
+          "total_units": 97,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 10,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "十怀古谜的物谜答案未给，保留整体Q；不按十人物配命运，七条主题弱证与完整篇目清单分开。"
+    },
+    {
+      "chapter": 52,
+      "forward": {
+        "main": {
+          "total_units": 45,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 14,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "晴雯能干与身体受损需同看；贾母福寿反证不能遗漏；缺题不补。"
+    },
+    {
+      "chapter": 53,
+      "forward": {
+        "main": {
+          "total_units": 51,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 15,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "收入下降、宫廷不能无限补助均已覆盖；贾芹换回未述；补靖批后回提示为低具体度。"
+    },
+    {
+      "chapter": 54,
+      "forward": {
+        "main": {
+          "total_units": 31,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 5,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "散宴笑话仅结构弱证；贾母批才子佳人套数用于现实约束，不当禁绝一切婚恋。"
+    },
+    {
+      "chapter": 55,
+      "forward": {
+        "main": {
+          "total_units": 37,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 6,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "经济缺口及意外支出均在；一娶一嫁并未直接说互娶；凤病不当作单向进展。"
+    },
+    {
+      "chapter": 56,
+      "forward": {
+        "main": {
+          "total_units": 31,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 10,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "镜影解释不能取消现实同名人物；改革成效与懈怠两面并存。"
+    },
+    {
+      "chapter": 57,
+      "forward": {
+        "main": {
+          "total_units": 47,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 5,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "薛姨妈提议不是正式订婚；贾母保护与紫鹃归属问题未结；真人与梦中甄宝玉有别。"
+    },
+    {
+      "chapter": 58,
+      "forward": {
+        "main": {
+          "total_units": 33,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 12,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "出家去留有经济约束；假梦与真实神谕分离；再有新情并不抹除旧情的解释须保留。"
+    },
+    {
+      "chapter": 59,
+      "forward": {
+        "main": {
+          "total_units": 33,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 0,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "改革增利同时产生新排斥；春燕母争职是当前生活依附，不另硬设远期结局。"
+    },
+    {
+      "chapter": 60,
+      "forward": {
+        "main": {
+          "total_units": 53,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 3,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "五儿入房/择婿/钱槐威胁均受77报告限制；全放丫头的承诺与77实际逐婢不可混同。"
+    },
+    {
+      "chapter": 61,
+      "forward": {
+        "main": {
+          "total_units": 29,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 1,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "平儿调停已应；两房归属开放；门房索杏玩笑不列远期伏笔。"
+    },
+    {
+      "chapter": 62,
+      "forward": {
+        "main": {
+          "total_units": 85,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 1,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "射覆两句只留D，不从玉钗同音定人；宝黛收支判断冲突须保留。"
+    },
+    {
+      "chapter": 63,
+      "forward": {
+        "main": {
+          "total_units": 81,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 9,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "八花签齐；湘云签也可照已醉眠；五儿延后须改记77报告；皇恩与政治风险并存。"
+    },
+    {
+      "chapter": 64,
+      "forward": {
+        "main": {
+          "total_units": 79,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 5,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "五美吟与十独吟提示已收，整回有条件；等凤死预期被66康复与69二姐死反证。"
+    },
+    {
+      "chapter": 65,
+      "forward": {
+        "main": {
+          "total_units": 33,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 10,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "凤姐报复预期前80已应；鲍二大用是笼统许诺不硬扩；二姐礼让预期已被69限制。"
+    },
+    {
+      "chapter": 66,
+      "forward": {
+        "main": {
+          "total_units": 21,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 10,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "第二次平安州行程68—69已返，事由仍隐；薛柳友谊不等于薛蟠全面改过。"
+    },
+    {
+      "chapter": 67,
+      "forward": {
+        "main": {
+          "total_units": 51,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 0,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "整回有补配资格；伙计假随猜测不能推翻66叙述。未把三姐假设嫁宝玉当实际婚事。"
+    },
+    {
+      "chapter": 68,
+      "forward": {
+        "main": {
+          "total_units": 31,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 2,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "再娶罪状和贿赂均有本地依据；案件并非已宣布永结。"
+    },
+    {
+      "chapter": 69,
+      "forward": {
+        "main": {
+          "total_units": 27,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 3,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "张华为假报死亡；贾琏报仇承诺未兑；秋桐未被除；医生误治不得改作收买。"
+    },
+    {
+      "chapter": 70,
+      "forward": {
+        "main": {
+          "total_units": 141,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 5,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "五人柳絮词及探宝分续均覆盖；不将宝钗愿望等同叙述保证；诗体可以变化是反过度性格化约束。"
+    },
+    {
+      "chapter": 71,
+      "forward": {
+        "main": {
+          "total_units": 43,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 15,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "五女交游不推出选婚；宝玉只活当前与姐妹必散并列；两房积怨仍在。"
+    },
+    {
+      "chapter": 72,
+      "forward": {
+        "main": {
+          "total_units": 25,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 16,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "索锦梦未指定自家娘娘；收贷计划未结；贾政两丫头与袭人暗定名分须并列。"
+    },
+    {
+      "chapter": 73,
+      "forward": {
+        "main": {
+          "total_units": 27,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 28,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "香囊所有者未确认；迎春性格已有怯与超的不同评价。"
+    },
+    {
+      "chapter": 74,
+      "forward": {
+        "main": {
+          "total_units": 33,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 37,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "补贾母同意典物的正文反证；绣春囊与两个香袋不能强认同一件；惜春自保不等于已经出家。"
+    },
+    {
+      "chapter": 75,
+      "forward": {
+        "main": {
+          "total_units": 35,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 25,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "修短引两处；补宗祠异声正文及贾兰缺诗之外可读的表现；不得补中秋诗。"
+    },
+    {
+      "chapter": 76,
+      "forward": {
+        "main": {
+          "total_units": 145,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 18,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "寒塘有眼前白鹤作诗的依据，冷月有对句动机；妙玉翻转与悲句并存；赦死期仅批语。"
+    },
+    {
+      "chapter": 77,
+      "forward": {
+        "main": {
+          "total_units": 35,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 21,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "回查五儿计划遇人物死亡报告；补司棋求迎春日后说情与迎春答应，结局未述。泛暗伏批不强定对象。"
+    },
+    {
+      "chapter": 78,
+      "forward": {
+        "main": {
+          "total_units": 157,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 45,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "花神编造与宝玉相信分开；父亲压力已缓；补姽婳词弱关联，绝不影射具体历史或佚文战事。"
+    },
+    {
+      "chapter": 79,
+      "forward": {
+        "main": {
+          "total_units": 25,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 24,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "改诔正文与指黛批语分开；香菱保护预期已落空。补入香菱之谶批语；疑缺不补。"
+    },
+    {
+      "chapter": 80,
+      "forward": {
+        "main": {
+          "total_units": 21,
+          "delivery_complete": true
+        },
+        "zhiyan": {
+          "total_units": 28,
+          "delivery_complete": true
+        }
+      },
+      "reverse_decision": "复核香菱仍生病、宝钗实际庇护、迎春被接回；疗妒不作为死亡预言。N0017泛称后文，未指定事件，不另作强证。"
+    }
+  ]
+}
