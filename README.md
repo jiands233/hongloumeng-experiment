@@ -6,13 +6,45 @@
 
 ## 阅读入口
 
-- [用户提示词原文](prompts/user_prompts.md)：当前任务全部 5 条可恢复用户消息，包括完整 Phase 2 提示词；另有 [JSON](prompts/user_prompts.json) 可供机器读取。
-- [四十回续作合稿](https://github.com/jiands233/hongloumeng-experiment/blob/codex/experimental-continuation/continuation/experimental_v1/manuscript.md)：第 81—120 回，共 40 回、80,969 个汉字，见[续作核查记录](https://github.com/jiands233/hongloumeng-experiment/blob/codex/experimental-continuation/continuation/experimental_v1/verification.md)。
+- [四十回续作合稿](continuation/experimental_v1/manuscript.md)：第 81—120 回，共 40 回、80,969 个汉字，见[续作核查记录](continuation/experimental_v1/verification.md)。
+- [用户提示词原文](prompts/user_prompts.md)：首次归档时可恢复的 5 条用户消息，包括完整 Phase 2 提示词；另有 [JSON](prompts/user_prompts.json) 可供机器读取。
 - [Phase 2 审计报告](research/phase2/phase2_report.md)：488 条 F-ID、40 组冲突与反证、52 个未回答问题。
 - [证据库 Markdown](research/phase2/foreshadowing.md) / [证据库 JSON](research/phase2/foreshadowing.json)。
 - [人物索引](research/phase2/character_evidence_index.md) / [主题索引](research/phase2/theme_evidence_index.md)。
 - [冲突库](research/phase2/conflicts.md) / [未解决问题库](research/phase2/unresolved_questions.md)。
 - [冻结底本说明](canonical/README.md) / [项目读取规则](AGENTS.md)。
+
+## 续作剧情走向
+
+> 以下包含第 81—120 回的主要剧情与结局剧透，仅概括本项目实验续作。这些情节是创作选择，不是前八十回证据能够唯一确定的原作者安排。
+
+整部续作沿着三条相互交织的线展开：**贾府在旧案追查与经济亏空中逐步败落；宝玉经历失去黛玉、婚后谋生与离家修行；幸存的女子在离散之后各自寻找生活的出路。** 情绪从“尚想挽回”走向“承受失去”，最后落到“余生如何继续”。
+
+### 第 81—90 回：危机逼近，婚约未成
+
+迎春向娘家求援，却在推诿中死去；探春远嫁南方；元春病亡。石呆子旧案与庄产担保款逐渐牵出贾府的问题，家中的排场越来越难以维持。贾母口头答应宝黛婚事，但家计与接踵而来的变故让婚礼不断延后。
+
+### 第 91—100 回：查产、死亡与离散
+
+官府查封清产，众人迁入逼仄住处。黛玉病逝，临终与宝玉清醒告别，紫鹃保存她的诗稿。凤姐因账责被遣归王家，病中得知巧姐已被平儿、刘姥姥救走，随后去世；贾母也相继离世。宝玉一度被羁留，由茜雪、贾芸、小红等旧人奔走帮助脱身。香菱终于收到母亲的迟信，却未能团聚便病逝。
+
+### 第 101—110 回：在败落之后重建生活
+
+两个春秋后，宝玉与宝钗在彼此知情的情况下议婚，以简礼成婚。宝玉靠誊写谋生，宝钗操持家用，袭人与蒋玉菡成婚后接济他们。夫妻有情分，也有无法填满的隔阂。湘云丧夫后以针线营生；妙玉典卖珍器救人，在俗家寄居；惜春入庵，开始承担日常劳作。甄宝玉归还辗转流出的通灵玉，与宝玉谈起各自的生活选择。
+
+### 第 111—118 回：宝玉出家，留下的人继续生活
+
+宝玉在劳动、尽孝和交接家计之后离家入寺，后来行脚。宝钗直言他的离开给自己造成的伤害，转而靠针线寄售维持生活。巧姐在乡村长大学织，紫鹃与宝钗整理姑娘们的诗稿。贾兰入仕，李纨却在封诰到来时病终，个人功名没有使旧府复兴。贾雨村被革职追偿，甄士隐收到香菱遗诗，也面对自己离家的代价。多年后，宝玉与湘云偶遇，旧园已换用途，各人的日子仍在往前走。
+
+### 第 119—120 回：石头归山，故事留在人间
+
+宝玉梦访太虚，随后将玉交给僧人，自己仍在人间行脚。玉归为石，空空道人抄录往事，保留未写完、无法确知的空白，回应第一回的石头与抄书框架。最后的现实场景落在乡村：巧姐拆掉织错的两行线，重新投梭，刘姥姥与平儿在旁。
+
+### 主要人物与叙事落点
+
+宝黛的悲剧在于心意与婚约已经明确，却仍敌不过疾病和家败。宝玉与宝钗有过共同承担衣食的婚后生活，但宝玉最终选择出离，这份选择的代价由留下的人继续承受。宝钗、湘云、巧姐、妙玉等人的后续生活各有困难，也保留着行动与选择的余地。
+
+随着旧府衰败，平儿、刘姥姥、紫鹃、袭人、茜雪、小红等人的照护与奔走逐渐成为故事的重要支撑。结尾留下人的姓名、诗稿、情分，以及仍须做完的日常事：家族繁华已经散去，个体的生命并未随着旧园一同终止。
 
 ## 项目阶段与分支
 
@@ -22,7 +54,7 @@
 | Phase 2 | 前八十回未来指向证据审计；正序全文审读与逆序查漏 | `1f63ca5` |
 | 实验续作 | 用户另行授权后写作第 81—120 回，保存创作选择与逐回依据 | `a118b35` |
 
-`main` 保存冻结语料与证据审计；`codex/experimental-continuation` 另含实验续作。两个分支均提供本 README 和用户提示词归档。阅读续作时请使用上面的链接，或切换至续作分支。
+续作已通过 PR #1 合并到 `main`，默认分支现包含冻结语料、证据审计、实验续作与提示词归档。`codex/experimental-continuation` 保留续作工作分支；可直接从上述阅读入口打开全文。
 
 Phase 1、Phase 1.5 原始提示词未出现在当前可用任务历史中；提示词归档明确标记这一缺口，不以研究报告或后来的摘要替代用户原话。
 
@@ -46,4 +78,4 @@ python3 research/phase2/tools/query_evidence.py F-0001
 python3 research/phase2/tools/validate_phase2.py
 ```
 
-[Phase 2 使用说明](research/phase2/README.md) 解释 F-ID、来源定位、关系边与构建输入。续作的[创作选择](https://github.com/jiands233/hongloumeng-experiment/blob/codex/experimental-continuation/continuation/experimental_v1/design.md)和[逐回依据](https://github.com/jiands233/hongloumeng-experiment/blob/codex/experimental-continuation/continuation/experimental_v1/chapter_audit.json)位于独立目录。
+[Phase 2 使用说明](research/phase2/README.md) 解释 F-ID、来源定位、关系边与构建输入。续作的[创作选择](continuation/experimental_v1/design.md)和[逐回依据](continuation/experimental_v1/chapter_audit.json)位于独立目录。
